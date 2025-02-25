@@ -1,0 +1,535 @@
+season,event_date,nano,market,name,alias,rush_att,rush_yds,rush_tds,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_tds,pass_int,passer_rating,net_pass_yds,total_yds,times_sacked,yds_sacked_for,fumbles,fumbles_lost,turnovers,penalties,penalty_yds,first_downs,third_down_conv,third_down_att,third_down_conv_pct,fourth_down_conv,fourth_down_att,fourth_down_conv_pct,time_of_possession,boxscore_stats_link
+2005,2005-09-08,LZoDld8s63xUs,Las Vegas,Raiders,LV,22,92,0,18,39,,265,3,0,94.498,246,338,2,19,2,1,1,16,149,19,4,13,0.308,0,0,0.0,1660,https://www.pro-football-reference.com/boxscores/200509080nwe.htm
+2005,2005-09-08,VkxV91RtzHn65,New England,Patriots,NE,31,73,2,24,38,,306,2,0,105.811,306,379,0,0,0,0,0,7,46,22,6,16,0.375,0,1,0.0,1940,https://www.pro-football-reference.com/boxscores/200509080nwe.htm
+2005,2005-09-11,mexvMWO2v1hWn,New York,Jets,NYJ,23,57,0,27,44,,352,1,1,84.659,333,390,3,19,7,2,3,8,80,19,8,16,0.5,1,3,0.333,1889,https://www.pro-football-reference.com/boxscores/200509110kan.htm
+2005,2005-09-11,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,34,198,3,15,26,,200,0,1,66.186,191,389,1,9,1,0,1,4,26,23,4,10,0.4,0,0,0.0,1711,https://www.pro-football-reference.com/boxscores/200509110kan.htm
+2005,2005-09-11,UI0Ax4HUEXFh6,Houston,Texans,HOU,23,95,1,9,21,,70,0,3,12.103,25,120,5,45,2,2,5,6,38,12,3,10,0.3,1,1,1.0,1305,https://www.pro-football-reference.com/boxscores/200509110buf.htm
+2005,2005-09-11,3VqeLK0LS9rpw,Buffalo,Bills,BUF,36,152,0,17,28,,170,1,0,89.881,164,316,1,6,0,0,0,10,71,20,3,14,0.214,1,1,1.0,2295,https://www.pro-football-reference.com/boxscores/200509110buf.htm
+2005,2005-09-11,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,31,146,1,18,29,,213,2,2,78.664,199,345,2,14,1,0,2,13,99,12,8,17,0.471,0,0,0.0,1834,https://www.pro-football-reference.com/boxscores/200509110min.htm
+2005,2005-09-11,AzOs5UWsXusSW,Minnesota,Vikings,MIN,15,33,0,22,33,,233,0,3,49.179,215,248,3,18,4,2,5,9,70,15,5,11,0.455,0,0,0.0,1766,https://www.pro-football-reference.com/boxscores/200509110min.htm
+2005,2005-09-11,ltMyRE3yvVUaw,Tennessee,Titans,TEN,23,97,0,18,27,,219,1,2,72.917,206,303,3,13,4,2,4,7,49,16,3,8,0.375,0,0,0.0,1750,https://www.pro-football-reference.com/boxscores/200509110pit.htm
+2005,2005-09-11,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,41,206,2,9,11,,218,2,0,158.333,218,424,0,0,0,0,0,3,27,18,5,10,0.5,0,0,0.0,1850,https://www.pro-football-reference.com/boxscores/200509110pit.htm
+2005,2005-09-11,CI5mhfNa0Zqd2,New Orleans,Saints,NO,33,101,2,18,24,,192,0,0,97.917,190,291,1,2,3,2,2,9,74,21,8,13,0.615,0,0,0.0,1956,https://www.pro-football-reference.com/boxscores/200509110car.htm
+2005,2005-09-11,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,141,1,19,31,,212,1,2,65.524,209,350,1,3,3,2,4,11,84,20,8,13,0.615,0,0,0.0,1644,https://www.pro-football-reference.com/boxscores/200509110car.htm
+2005,2005-09-11,1vVmWGzUZ1rea,Chicago,Bears,CHI,18,41,1,15,28,,141,0,1,52.827,125,166,3,16,3,1,2,8,86,11,6,13,0.462,0,0,0.0,1545,https://www.pro-football-reference.com/boxscores/200509110was.htm
+2005,2005-09-11,9JtBk8kFeaGEs,Washington,Football Team,WAS,40,164,0,14,25,,175,0,1,61.25,159,323,3,16,4,2,3,5,45,18,6,16,0.375,1,1,1.0,2055,https://www.pro-football-reference.com/boxscores/200509110was.htm
+2005,2005-09-11,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,32,148,1,26,34,,280,2,1,107.475,272,420,2,8,2,1,2,5,40,26,2,8,0.25,0,1,0.0,2053,https://www.pro-football-reference.com/boxscores/200509110cle.htm
+2005,2005-09-11,IR4gIYmh269EI,Cleveland,Browns,CLE,18,95,0,26,43,,278,1,2,67.781,278,373,0,0,3,1,3,7,56,16,5,13,0.385,0,3,0.0,1547,https://www.pro-football-reference.com/boxscores/200509110cle.htm
+2005,2005-09-11,6DclFuycdPaOB,Denver,Broncos,DEN,20,70,0,22,48,,251,1,2,51.649,242,312,1,9,2,1,3,7,73,19,1,12,0.083,1,3,0.333,1662,https://www.pro-football-reference.com/boxscores/200509110mia.htm
+2005,2005-09-11,mfbu6O5aMHbJg,Miami,Dolphins,MIA,33,151,1,24,36,,275,2,1,96.412,275,426,0,0,3,2,3,11,69,21,8,15,0.533,0,2,0.0,1938,https://www.pro-football-reference.com/boxscores/200509110mia.htm
+2005,2005-09-11,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,19,97,0,21,36,,246,2,2,74.537,225,322,3,21,3,3,5,5,29,20,3,9,0.333,0,0,0.0,1549,https://www.pro-football-reference.com/boxscores/200509110jax.htm
+2005,2005-09-11,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,31,119,0,18,32,,258,2,0,103.385,243,362,3,15,1,0,0,6,31,18,4,13,0.308,0,0,0.0,2051,https://www.pro-football-reference.com/boxscores/200509110jax.htm
+2005,2005-09-11,KdjU81i7YSFE7,Dallas,Cowboys,DAL,33,109,1,18,24,,226,3,0,143.403,192,301,4,34,3,1,1,8,46,23,7,11,0.636,0,0,0.0,1869,https://www.pro-football-reference.com/boxscores/200509110sdg.htm
+2005,2005-09-11,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,26,103,1,18,35,,209,2,2,65.06,188,291,2,21,0,0,2,8,62,19,7,14,0.5,2,3,0.667,1731,https://www.pro-football-reference.com/boxscores/200509110sdg.htm
+2005,2005-09-11,u98I1lDKQBwZ0,Los Angeles,Rams,LA,26,89,0,34,56,,362,2,1,84.077,316,405,7,46,0,0,1,7,48,26,8,20,0.4,4,4,1.0,2363,https://www.pro-football-reference.com/boxscores/200509110sfo.htm
+2005,2005-09-11,IwSI92ZDKoazn,San Francisco,49ers,SF,21,34,1,13,18,,192,2,0,143.75,183,217,2,9,2,2,2,5,30,12,1,7,0.143,0,0,0.0,1237,https://www.pro-football-reference.com/boxscores/200509110sfo.htm
+2005,2005-09-11,GJizlkzQFaqGA,Arizona,Cardinals,ARI,21,31,0,32,56,,316,1,2,64.286,287,318,3,29,0,0,2,10,53,20,8,19,0.421,0,1,0.0,2145,https://www.pro-football-reference.com/boxscores/200509110nyg.htm
+2005,2005-09-11,n8CuHV9wbYCqF,New York,Giants,NYG,25,121,2,10,23,,172,2,2,62.228,154,275,3,18,0,0,2,7,52,14,4,11,0.364,0,0,0.0,1455,https://www.pro-football-reference.com/boxscores/200509110nyg.htm
+2005,2005-09-11,D5QY6bOxfn8ZL,Green Bay,Packers,GB,17,46,0,27,44,,201,0,2,53.314,170,216,4,31,4,1,3,14,100,13,5,16,0.312,1,3,0.333,1864,https://www.pro-football-reference.com/boxscores/200509110det.htm
+2005,2005-09-11,FCuH1wdksA2DQ,Detroit,Lions,DET,31,102,0,15,28,,167,2,0,95.387,152,254,2,15,2,0,0,4,38,18,6,15,0.4,0,1,0.0,1736,https://www.pro-football-reference.com/boxscores/200509110det.htm
+2005,2005-09-11,LJmHetie5VbbO,Indianapolis,Colts,IND,26,86,0,21,36,,254,2,0,98.611,254,340,0,0,0,0,0,7,45,19,3,12,0.25,0,1,0.0,1629,https://www.pro-football-reference.com/boxscores/200509110rav.htm
+2005,2005-09-11,zyhFXj1nywrm1,Baltimore,Ravens,BAL,21,77,0,34,54,,355,1,3,64.969,324,401,3,31,2,1,4,8,45,22,8,18,0.444,1,1,1.0,1971,https://www.pro-football-reference.com/boxscores/200509110rav.htm
+2005,2005-09-12,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,14,51,0,24,45,,257,1,1,68.472,250,301,2,7,3,2,3,8,55,18,3,12,0.25,0,1,0.0,1569,https://www.pro-football-reference.com/boxscores/200509120atl.htm
+2005,2005-09-12,mLspw4gJNTQGN,Atlanta,Falcons,ATL,40,200,2,12,23,,156,0,1,55.707,119,319,4,37,3,2,3,7,88,18,3,15,0.2,1,1,1.0,2031,https://www.pro-football-reference.com/boxscores/200509120atl.htm
+2005,2005-09-18,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,24,128,0,16,29,,198,0,0,76.509,175,303,6,23,6,0,0,7,60,12,6,15,0.4,0,0,0.0,1880,https://www.pro-football-reference.com/boxscores/200509180clt.htm
+2005,2005-09-18,LJmHetie5VbbO,Indianapolis,Colts,IND,38,146,1,13,28,,122,0,1,44.048,122,268,0,0,0,0,1,6,45,18,7,16,0.438,0,0,0.0,1720,https://www.pro-football-reference.com/boxscores/200509180clt.htm
+2005,2005-09-18,3VqeLK0LS9rpw,Buffalo,Bills,BUF,17,47,0,13,31,,112,0,0,52.083,100,147,2,12,0,0,0,3,20,8,4,14,0.286,0,1,0.0,1270,https://www.pro-football-reference.com/boxscores/200509180tam.htm
+2005,2005-09-18,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,40,191,2,16,22,,136,0,0,88.447,127,318,1,9,0,0,0,13,99,18,7,14,0.5,0,0,0.0,2330,https://www.pro-football-reference.com/boxscores/200509180tam.htm
+2005,2005-09-18,VkxV91RtzHn65,New England,Patriots,NE,16,39,0,23,44,,270,1,1,69.318,249,288,2,21,2,2,3,12,86,14,4,14,0.286,0,0,0.0,1681,https://www.pro-football-reference.com/boxscores/200509180car.htm
+2005,2005-09-18,jJBGuksuDJF5L,Carolina,Panthers,CAR,36,104,3,11,26,,154,0,1,45.994,146,250,1,8,0,0,1,6,45,17,5,14,0.357,0,0,0.0,1919,https://www.pro-football-reference.com/boxscores/200509180car.htm
+2005,2005-09-18,FCuH1wdksA2DQ,Detroit,Lions,DET,17,29,0,21,43,,216,1,5,31.88,205,234,3,11,0,0,5,3,30,14,5,14,0.357,0,3,0.0,1608,https://www.pro-football-reference.com/boxscores/200509180chi.htm
+2005,2005-09-18,1vVmWGzUZ1rea,Chicago,Bears,CHI,37,187,2,15,22,,161,1,0,104.545,149,336,2,12,0,0,0,6,40,18,8,15,0.533,0,0,0.0,1992,https://www.pro-football-reference.com/boxscores/200509180chi.htm
+2005,2005-09-18,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,32,135,1,14,21,,254,2,0,139.782,253,388,1,1,0,0,0,5,40,18,4,11,0.364,1,2,0.5,1746,https://www.pro-football-reference.com/boxscores/200509180htx.htm
+2005,2005-09-18,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,113,0,16,26,,167,1,0,92.949,108,221,8,59,1,1,1,7,58,16,8,15,0.533,0,1,0.0,1854,https://www.pro-football-reference.com/boxscores/200509180htx.htm
+2005,2005-09-18,AzOs5UWsXusSW,Minnesota,Vikings,MIN,14,77,1,21,37,,236,0,5,36.374,227,304,2,9,2,2,7,7,49,21,5,9,0.556,0,0,0.0,1280,https://www.pro-football-reference.com/boxscores/200509180cin.htm
+2005,2005-09-18,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,39,167,1,27,40,,337,3,1,108.021,337,504,0,0,1,0,1,17,115,26,8,17,0.471,1,1,1.0,2320,https://www.pro-football-reference.com/boxscores/200509180cin.htm
+2005,2005-09-18,zyhFXj1nywrm1,Baltimore,Ravens,BAL,13,14,0,25,41,,212,1,1,72.409,168,182,6,44,1,1,2,10,73,12,4,16,0.25,1,1,1.0,1614,https://www.pro-football-reference.com/boxscores/200509180oti.htm
+2005,2005-09-18,ltMyRE3yvVUaw,Tennessee,Titans,TEN,29,97,0,19,37,,195,1,0,75.845,193,290,1,2,1,1,1,5,47,16,7,17,0.412,0,0,0.0,1986,https://www.pro-football-reference.com/boxscores/200509180oti.htm
+2005,2005-09-18,IwSI92ZDKoazn,San Francisco,49ers,SF,17,58,0,13,27,,107,0,3,19.136,84,142,3,23,0,0,3,2,15,8,3,12,0.25,0,0,0.0,1323,https://www.pro-football-reference.com/boxscores/200509180phi.htm
+2005,2005-09-18,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,30,140,1,33,39,,458,5,0,155.182,443,583,2,15,2,1,1,6,50,30,7,10,0.7,0,0,0.0,2277,https://www.pro-football-reference.com/boxscores/200509180phi.htm
+2005,2005-09-18,u98I1lDKQBwZ0,Los Angeles,Rams,LA,22,108,1,18,29,,216,1,1,81.968,189,297,4,27,1,0,1,4,30,16,3,11,0.273,0,0,0.0,1731,https://www.pro-football-reference.com/boxscores/200509180crd.htm
+2005,2005-09-18,GJizlkzQFaqGA,Arizona,Cardinals,ARI,16,82,0,29,42,,327,0,1,82.143,297,379,5,30,3,1,2,8,72,18,4,13,0.308,0,0,0.0,1869,https://www.pro-football-reference.com/boxscores/200509180crd.htm
+2005,2005-09-18,mLspw4gJNTQGN,Atlanta,Falcons,ATL,28,115,1,11,20,,123,1,0,90.208,108,223,3,15,1,0,0,3,24,14,2,11,0.182,0,1,0.0,1405,https://www.pro-football-reference.com/boxscores/200509180sea.htm
+2005,2005-09-18,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,163,1,20,31,,281,2,0,115.121,265,428,2,16,1,1,1,10,79,24,4,12,0.333,0,0,0.0,2195,https://www.pro-football-reference.com/boxscores/200509180sea.htm
+2005,2005-09-18,IR4gIYmh269EI,Cleveland,Browns,CLE,23,55,0,21,32,,336,3,0,131.771,336,391,0,0,2,0,0,6,40,19,2,8,0.25,0,0,0.0,1489,https://www.pro-football-reference.com/boxscores/200509180gnb.htm
+2005,2005-09-18,D5QY6bOxfn8ZL,Green Bay,Packers,GB,30,116,0,32,44,,342,3,2,98.864,336,452,1,6,2,0,2,6,41,27,10,14,0.714,0,0,0.0,2111,https://www.pro-football-reference.com/boxscores/200509180gnb.htm
+2005,2005-09-18,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,24,79,2,15,23,,175,0,1,70.018,134,213,4,41,1,1,2,7,42,15,4,12,0.333,0,0,0.0,1615,https://www.pro-football-reference.com/boxscores/200509180den.htm
+2005,2005-09-18,6DclFuycdPaOB,Denver,Broncos,DEN,26,98,1,23,37,,248,0,1,70.552,233,331,3,15,3,1,2,5,45,21,6,16,0.375,1,1,1.0,1985,https://www.pro-football-reference.com/boxscores/200509180den.htm
+2005,2005-09-18,mfbu6O5aMHbJg,Miami,Dolphins,MIA,18,66,0,20,43,,177,1,1,56.056,169,235,2,8,3,0,1,10,88,15,4,14,0.286,1,1,1.0,1561,https://www.pro-football-reference.com/boxscores/200509180nyj.htm
+2005,2005-09-18,mexvMWO2v1hWn,New York,Jets,NYJ,34,98,0,19,30,,190,2,0,103.472,173,271,2,17,3,0,0,5,40,20,6,15,0.4,0,1,0.0,2039,https://www.pro-football-reference.com/boxscores/200509180nyj.htm
+2005,2005-09-18,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,36,125,2,18,28,,237,0,0,90.923,229,354,1,8,1,1,1,9,78,17,5,16,0.312,2,2,1.0,2074,https://www.pro-football-reference.com/boxscores/200509180rai.htm
+2005,2005-09-18,LZoDld8s63xUs,Las Vegas,Raiders,LV,18,72,1,21,35,,263,1,0,92.917,255,327,2,8,3,2,2,7,84,16,4,12,0.333,0,1,0.0,1526,https://www.pro-football-reference.com/boxscores/200509180rai.htm
+2005,2005-09-19,n8CuHV9wbYCqF,New York,Giants,NYG,29,92,2,13,24,,165,1,0,89.757,165,257,0,0,2,1,1,9,86,15,5,12,0.417,0,0,0.0,1688,https://www.pro-football-reference.com/boxscores/200509190nor.htm
+2005,2005-09-19,CI5mhfNa0Zqd2,New Orleans,Saints,NO,22,72,0,27,45,,375,1,3,66.435,350,422,4,25,3,3,6,13,92,23,8,15,0.533,0,0,0.0,1912,https://www.pro-football-reference.com/boxscores/200509190nor.htm
+2005,2005-09-19,9JtBk8kFeaGEs,Washington,Football Team,WAS,25,104,0,20,34,,291,2,1,94.118,242,346,5,49,1,1,2,12,80,14,6,17,0.353,2,2,1.0,1673,https://www.pro-football-reference.com/boxscores/200509190dal.htm
+2005,2005-09-19,KdjU81i7YSFE7,Dallas,Cowboys,DAL,29,90,0,21,36,,261,1,0,90.162,261,351,0,0,3,0,0,7,60,14,7,17,0.412,0,1,0.0,1927,https://www.pro-football-reference.com/boxscores/200509190dal.htm
+2005,2005-09-25,IR4gIYmh269EI,Cleveland,Browns,CLE,23,75,0,22,29,,208,0,0,95.187,188,263,4,20,1,0,0,7,62,14,6,14,0.429,1,1,1.0,1702,https://www.pro-football-reference.com/boxscores/200509250clt.htm
+2005,2005-09-25,LJmHetie5VbbO,Indianapolis,Colts,IND,33,111,1,19,23,,228,0,1,89.855,228,339,0,0,1,0,1,3,15,20,4,10,0.4,0,0,0.0,1898,https://www.pro-football-reference.com/boxscores/200509250clt.htm
+2005,2005-09-25,CI5mhfNa0Zqd2,New Orleans,Saints,NO,20,114,1,12,32,,199,1,2,43.62,182,296,3,17,2,2,4,14,84,15,2,12,0.167,0,1,0.0,1307,https://www.pro-football-reference.com/boxscores/200509250min.htm
+2005,2005-09-25,AzOs5UWsXusSW,Minnesota,Vikings,MIN,39,146,0,21,29,,300,3,0,140.014,274,420,6,26,0,0,0,8,60,21,6,17,0.353,0,0,0.0,2293,https://www.pro-football-reference.com/boxscores/200509250min.htm
+2005,2005-09-25,mLspw4gJNTQGN,Atlanta,Falcons,ATL,36,236,1,15,27,,167,2,1,83.41,167,403,0,0,1,1,2,7,75,24,7,12,0.583,0,0,0.0,1751,https://www.pro-football-reference.com/boxscores/200509250buf.htm
+2005,2005-09-25,3VqeLK0LS9rpw,Buffalo,Bills,BUF,35,172,1,10,23,,75,0,1,33.786,36,208,4,39,1,1,2,3,35,18,6,14,0.429,1,2,0.5,1849,https://www.pro-football-reference.com/boxscores/200509250buf.htm
+2005,2005-09-25,jJBGuksuDJF5L,Carolina,Panthers,CAR,26,61,0,19,35,,285,3,1,97.917,238,299,4,47,3,2,3,4,39,23,6,13,0.462,0,0,0.0,1933,https://www.pro-football-reference.com/boxscores/200509250mia.htm
+2005,2005-09-25,mfbu6O5aMHbJg,Miami,Dolphins,MIA,30,144,1,14,33,,171,2,1,66.604,171,315,0,0,0,0,1,13,138,16,6,13,0.462,0,0,0.0,1667,https://www.pro-football-reference.com/boxscores/200509250mia.htm
+2005,2005-09-25,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,34,83,0,16,23,,169,3,0,130.254,161,244,1,8,2,1,1,9,77,11,2,14,0.143,0,0,0.0,1868,https://www.pro-football-reference.com/boxscores/200509250chi.htm
+2005,2005-09-25,1vVmWGzUZ1rea,Chicago,Bears,CHI,28,106,1,17,39,,149,0,5,14.744,149,255,0,0,4,1,6,7,88,16,3,15,0.2,2,3,0.667,1732,https://www.pro-football-reference.com/boxscores/200509250chi.htm
+2005,2005-09-25,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,41,161,0,17,26,,139,2,1,88.462,132,293,2,7,1,0,1,8,103,19,8,16,0.5,0,0,0.0,2062,https://www.pro-football-reference.com/boxscores/200509250gnb.htm
+2005,2005-09-25,D5QY6bOxfn8ZL,Green Bay,Packers,GB,25,75,0,14,24,,195,2,3,72.743,185,260,2,10,1,1,4,8,65,15,3,10,0.3,1,1,1.0,1538,https://www.pro-football-reference.com/boxscores/200509250gnb.htm
+2005,2005-09-25,ltMyRE3yvVUaw,Tennessee,Titans,TEN,24,87,0,24,39,,261,2,2,76.976,248,335,2,13,1,1,3,11,80,18,3,12,0.25,0,1,0.0,1970,https://www.pro-football-reference.com/boxscores/200509250ram.htm
+2005,2005-09-25,u98I1lDKQBwZ0,Los Angeles,Rams,LA,21,101,0,21,28,,292,3,1,128.869,259,360,4,33,4,3,4,11,75,22,2,7,0.286,0,0,0.0,1630,https://www.pro-football-reference.com/boxscores/200509250ram.htm
+2005,2005-09-25,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,47,139,1,16,24,,177,2,1,98.785,169,308,2,8,3,2,3,9,85,16,10,20,0.5,1,1,1.0,2431,https://www.pro-football-reference.com/boxscores/200509250nyj.htm
+2005,2005-09-25,mexvMWO2v1hWn,New York,Jets,NYJ,25,89,1,11,22,,95,0,2,23.864,79,168,4,16,3,1,3,6,44,12,3,12,0.25,0,0,0.0,1534,https://www.pro-football-reference.com/boxscores/200509250nyj.htm
+2005,2005-09-25,LZoDld8s63xUs,Las Vegas,Raiders,LV,22,21,0,24,42,,345,2,0,99.802,344,365,1,1,2,0,0,13,94,18,4,14,0.286,0,0,0.0,1797,https://www.pro-football-reference.com/boxscores/200509250phi.htm
+2005,2005-09-25,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,18,83,1,30,52,,365,2,1,84.215,365,448,1,0,1,1,2,9,70,26,7,14,0.5,0,0,0.0,1803,https://www.pro-football-reference.com/boxscores/200509250phi.htm
+2005,2005-09-25,KdjU81i7YSFE7,Dallas,Cowboys,DAL,32,95,3,24,38,,363,2,2,90.132,348,443,2,15,2,1,3,6,45,26,6,13,0.462,1,3,0.333,1925,https://www.pro-football-reference.com/boxscores/200509250sfo.htm
+2005,2005-09-25,IwSI92ZDKoazn,San Francisco,49ers,SF,25,124,0,21,34,,269,3,2,91.422,266,390,2,3,2,1,3,8,67,19,6,12,0.5,0,0,0.0,1675,https://www.pro-football-reference.com/boxscores/200509250sfo.htm
+2005,2005-09-25,GJizlkzQFaqGA,Arizona,Cardinals,ARI,21,90,0,18,36,,202,0,1,55.556,176,266,3,26,2,1,2,12,71,15,3,13,0.231,0,0,0.0,1591,https://www.pro-football-reference.com/boxscores/200509250sea.htm
+2005,2005-09-25,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,37,163,4,21,32,,284,0,0,93.75,284,447,0,0,0,0,0,3,25,29,6,13,0.462,0,0,0.0,2009,https://www.pro-football-reference.com/boxscores/200509250sea.htm
+2005,2005-09-25,VkxV91RtzHn65,New England,Patriots,NE,30,80,2,31,41,,372,0,1,92.734,346,426,3,26,3,2,3,10,118,24,8,16,0.5,0,0,0.0,2123,https://www.pro-football-reference.com/boxscores/200509250pit.htm
+2005,2005-09-25,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,23,79,0,12,28,,216,2,0,93.75,190,269,4,26,1,1,1,5,35,14,3,13,0.231,0,0,0.0,1477,https://www.pro-football-reference.com/boxscores/200509250pit.htm
+2005,2005-09-25,n8CuHV9wbYCqF,New York,Giants,NYG,23,86,0,24,41,,352,2,0,102.896,338,424,2,14,2,1,1,12,83,23,8,15,0.533,0,0,0.0,1795,https://www.pro-football-reference.com/boxscores/200509250sdg.htm
+2005,2005-09-25,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,33,268,3,20,23,,217,3,0,145.562,217,485,0,0,1,1,1,7,50,25,5,8,0.625,0,0,0.0,1805,https://www.pro-football-reference.com/boxscores/200509250sdg.htm
+2005,2005-09-26,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,22,74,0,23,44,,221,1,0,74.148,211,285,2,10,1,1,1,13,118,18,4,15,0.267,4,4,1.0,1792,https://www.pro-football-reference.com/boxscores/200509260den.htm
+2005,2005-09-26,6DclFuycdPaOB,Denver,Broncos,DEN,37,221,2,13,18,,152,1,0,115.972,137,358,1,15,2,0,0,4,30,24,2,8,0.25,1,1,1.0,1808,https://www.pro-football-reference.com/boxscores/200509260den.htm
+2005,2005-10-02,FCuH1wdksA2DQ,Detroit,Lions,DET,25,91,1,15,27,,137,0,0,69.522,135,226,2,2,1,1,1,8,55,11,2,12,0.167,1,2,0.5,1705,https://www.pro-football-reference.com/boxscores/200510020tam.htm
+2005,2005-10-02,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,22,69,0,22,39,,302,2,3,66.4,284,353,3,18,1,1,4,7,55,17,7,16,0.438,0,0,0.0,1895,https://www.pro-football-reference.com/boxscores/200510020tam.htm
+2005,2005-10-02,UI0Ax4HUEXFh6,Houston,Texans,HOU,23,126,0,17,26,,174,1,0,97.276,128,254,7,46,1,1,1,9,90,18,4,11,0.364,0,1,0.0,1526,https://www.pro-football-reference.com/boxscores/200510020cin.htm
+2005,2005-10-02,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,25,98,0,25,34,,276,1,0,106.985,273,371,2,3,1,0,0,14,117,22,4,10,0.4,0,0,0.0,2074,https://www.pro-football-reference.com/boxscores/200510020cin.htm
+2005,2005-10-02,LJmHetie5VbbO,Indianapolis,Colts,IND,26,100,0,20,27,,264,4,0,144.136,264,364,0,0,1,0,0,1,10,22,7,10,0.7,0,0,0.0,1548,https://www.pro-football-reference.com/boxscores/200510020oti.htm
+2005,2005-10-02,ltMyRE3yvVUaw,Tennessee,Titans,TEN,19,109,0,28,37,,220,1,1,87.669,204,313,2,16,1,0,1,9,76,18,5,13,0.385,3,3,1.0,2052,https://www.pro-football-reference.com/boxscores/200510020oti.htm
+2005,2005-10-02,6DclFuycdPaOB,Denver,Broncos,DEN,44,188,0,19,26,,136,2,0,110.417,118,306,3,18,0,0,0,5,30,24,5,15,0.333,2,2,1.0,2285,https://www.pro-football-reference.com/boxscores/200510020jax.htm
+2005,2005-10-02,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,11,12,0,20,34,,240,1,2,65.809,229,241,2,11,4,2,4,15,119,13,3,9,0.333,0,0,0.0,1315,https://www.pro-football-reference.com/boxscores/200510020jax.htm
+2005,2005-10-02,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,40,183,2,19,24,,248,2,0,137.5,248,431,0,0,0,0,0,7,50,26,7,12,0.583,0,0,0.0,2198,https://www.pro-football-reference.com/boxscores/200510020nwe.htm
+2005,2005-10-02,VkxV91RtzHn65,New England,Patriots,NE,18,72,1,21,36,,239,1,2,64.468,231,303,1,8,1,0,2,4,62,18,4,11,0.364,1,1,1.0,1402,https://www.pro-football-reference.com/boxscores/200510020nwe.htm
+2005,2005-10-02,3VqeLK0LS9rpw,Buffalo,Bills,BUF,23,141,1,10,21,,103,0,1,42.361,67,208,4,36,3,1,2,12,79,13,4,11,0.364,0,1,0.0,1420,https://www.pro-football-reference.com/boxscores/200510020nor.htm
+2005,2005-10-02,CI5mhfNa0Zqd2,New Orleans,Saints,NO,41,167,1,15,26,,172,0,0,77.724,166,333,1,6,0,0,0,4,26,23,7,15,0.467,0,0,0.0,2180,https://www.pro-football-reference.com/boxscores/200510020nor.htm
+2005,2005-10-02,u98I1lDKQBwZ0,Los Angeles,Rams,LA,15,42,1,40,62,,442,2,3,76.142,434,476,1,8,3,2,5,11,103,27,7,14,0.5,2,2,1.0,1924,https://www.pro-football-reference.com/boxscores/200510020nyg.htm
+2005,2005-10-02,n8CuHV9wbYCqF,New York,Giants,NYG,29,164,1,19,35,,296,4,0,120.655,292,456,1,4,0,0,0,11,90,24,5,12,0.417,1,2,0.5,1676,https://www.pro-football-reference.com/boxscores/200510020nyg.htm
+2005,2005-10-02,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,23,119,1,26,38,,242,1,0,94.408,235,354,1,7,1,0,0,8,84,21,6,12,0.5,1,1,1.0,1569,https://www.pro-football-reference.com/boxscores/200510020was.htm
+2005,2005-10-02,9JtBk8kFeaGEs,Washington,Football Team,WAS,39,141,0,20,36,,226,2,1,81.481,211,352,2,15,0,0,1,2,10,26,13,18,0.722,1,1,1.0,2362,https://www.pro-football-reference.com/boxscores/200510020was.htm
+2005,2005-10-02,mexvMWO2v1hWn,New York,Jets,NYJ,15,28,0,14,28,,149,0,0,65.923,124,152,5,25,0,0,0,5,39,8,3,14,0.214,0,1,0.0,1319,https://www.pro-football-reference.com/boxscores/200510020rav.htm
+2005,2005-10-02,zyhFXj1nywrm1,Baltimore,Ravens,BAL,45,115,1,15,21,,144,0,1,70.337,144,259,0,0,1,1,2,3,19,17,5,14,0.357,1,1,1.0,2281,https://www.pro-football-reference.com/boxscores/200510020rav.htm
+2005,2005-10-02,KdjU81i7YSFE7,Dallas,Cowboys,DAL,32,116,0,11,27,,212,1,1,65.664,187,303,4,25,0,0,1,6,35,16,6,15,0.4,0,1,0.0,1846,https://www.pro-football-reference.com/boxscores/200510020rai.htm
+2005,2005-10-02,LZoDld8s63xUs,Las Vegas,Raiders,LV,30,129,1,13,23,,218,0,0,88.678,204,333,3,14,1,0,0,13,85,16,2,10,0.2,0,0,0.0,1754,https://www.pro-football-reference.com/boxscores/200510020rai.htm
+2005,2005-10-02,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,17,28,0,33,48,,369,3,1,103.559,368,396,1,1,3,1,2,3,25,25,3,11,0.273,0,0,0.0,1857,https://www.pro-football-reference.com/boxscores/200510020kan.htm
+2005,2005-10-02,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,144,1,19,30,,221,2,2,80.0,209,353,3,12,2,2,4,6,40,19,5,10,0.5,0,0,0.0,1743,https://www.pro-football-reference.com/boxscores/200510020kan.htm
+2005,2005-10-02,AzOs5UWsXusSW,Minnesota,Vikings,MIN,16,63,0,23,34,,250,1,2,74.387,198,261,9,52,3,1,3,11,84,17,1,10,0.1,2,2,1.0,1643,https://www.pro-football-reference.com/boxscores/200510020atl.htm
+2005,2005-10-02,mLspw4gJNTQGN,Atlanta,Falcons,ATL,41,285,2,11,22,,88,1,0,75.568,83,368,1,5,1,0,0,8,65,22,8,14,0.571,0,1,0.0,1957,https://www.pro-football-reference.com/boxscores/200510020atl.htm
+2005,2005-10-02,IwSI92ZDKoazn,San Francisco,49ers,SF,14,51,0,17,31,,160,0,1,55.847,117,168,5,43,5,3,4,8,52,8,4,12,0.333,0,1,0.0,1332,https://www.pro-football-reference.com/boxscores/200510020crd.htm
+2005,2005-10-02,GJizlkzQFaqGA,Arizona,Cardinals,ARI,34,97,0,32,46,,385,2,0,109.42,366,463,3,19,3,3,3,4,37,24,8,19,0.421,0,0,0.0,2268,https://www.pro-football-reference.com/boxscores/200510020crd.htm
+2005,2005-10-03,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,58,0,28,47,,303,4,1,98.094,294,352,1,9,1,1,2,8,86,22,7,14,0.5,0,1,0.0,1731,https://www.pro-football-reference.com/boxscores/200510030car.htm
+2005,2005-10-03,jJBGuksuDJF5L,Carolina,Panthers,CAR,33,90,2,17,24,,206,2,0,124.653,196,286,2,10,1,1,1,8,75,17,6,14,0.429,0,0,0.0,1869,https://www.pro-football-reference.com/boxscores/200510030car.htm
+2005,2005-10-09,zyhFXj1nywrm1,Baltimore,Ravens,BAL,30,159,0,20,37,,230,2,2,68.525,228,387,1,2,2,2,4,21,147,26,3,11,0.273,1,2,0.5,1786,https://www.pro-football-reference.com/boxscores/200510090det.htm
+2005,2005-10-09,FCuH1wdksA2DQ,Detroit,Lions,DET,37,169,4,10,23,,97,1,2,34.149,97,266,1,0,1,0,2,7,46,22,8,14,0.571,0,0,0.0,1814,https://www.pro-football-reference.com/boxscores/200510090det.htm
+2005,2005-10-09,ltMyRE3yvVUaw,Tennessee,Titans,TEN,31,90,2,22,31,,220,2,0,112.298,220,310,0,0,1,0,0,7,65,22,4,11,0.364,0,1,0.0,1869,https://www.pro-football-reference.com/boxscores/200510090htx.htm
+2005,2005-10-09,UI0Ax4HUEXFh6,Houston,Texans,HOU,28,161,0,18,27,,131,1,1,74.769,96,257,7,35,2,0,1,6,39,14,0,13,0.0,1,2,0.5,1731,https://www.pro-football-reference.com/boxscores/200510090htx.htm
+2005,2005-10-09,mfbu6O5aMHbJg,Miami,Dolphins,MIA,20,113,0,21,33,,226,2,3,65.972,210,323,2,16,4,2,5,18,102,16,3,9,0.333,0,1,0.0,1488,https://www.pro-football-reference.com/boxscores/200510090buf.htm
+2005,2005-10-09,3VqeLK0LS9rpw,Buffalo,Bills,BUF,36,99,1,20,26,,169,1,0,106.09,137,236,3,32,5,1,1,7,63,21,6,14,0.429,0,0,0.0,2112,https://www.pro-football-reference.com/boxscores/200510090buf.htm
+2005,2005-10-09,CI5mhfNa0Zqd2,New Orleans,Saints,NO,26,95,0,14,35,,177,0,3,20.774,159,254,4,18,2,2,5,11,107,14,4,16,0.25,1,1,1.0,1863,https://www.pro-football-reference.com/boxscores/200510090gnb.htm
+2005,2005-10-09,D5QY6bOxfn8ZL,Green Bay,Packers,GB,28,94,2,20,28,,215,3,0,129.315,215,309,0,0,1,0,0,6,36,21,3,10,0.3,0,0,0.0,1737,https://www.pro-football-reference.com/boxscores/200510090gnb.htm
+2005,2005-10-09,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,30,134,2,27,38,,316,2,0,113.487,299,433,4,17,0,0,0,7,50,26,2,11,0.182,0,0,0.0,1854,https://www.pro-football-reference.com/boxscores/200510090ram.htm
+2005,2005-10-09,u98I1lDKQBwZ0,Los Angeles,Rams,LA,17,77,1,26,40,,336,2,1,97.5,309,386,4,27,2,1,2,7,74,20,3,12,0.25,1,1,1.0,1746,https://www.pro-football-reference.com/boxscores/200510090ram.htm
+2005,2005-10-09,1vVmWGzUZ1rea,Chicago,Bears,CHI,34,176,0,16,26,,117,1,0,84.936,90,266,4,27,4,3,3,7,57,16,5,13,0.385,0,2,0.0,1874,https://www.pro-football-reference.com/boxscores/200510090cle.htm
+2005,2005-10-09,IR4gIYmh269EI,Cleveland,Browns,CLE,22,76,0,23,34,,218,2,2,80.27,202,278,3,16,0,0,2,5,55,15,5,13,0.385,0,0,0.0,1726,https://www.pro-football-reference.com/boxscores/200510090cle.htm
+2005,2005-10-09,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,26,84,0,27,42,,226,0,1,68.155,201,285,3,25,2,0,1,12,87,20,2,14,0.143,2,2,1.0,1991,https://www.pro-football-reference.com/boxscores/200510090nyj.htm
+2005,2005-10-09,mexvMWO2v1hWn,New York,Jets,NYJ,27,62,2,13,19,,163,0,1,72.917,150,212,2,13,3,2,3,6,46,15,3,10,0.3,1,1,1.0,1609,https://www.pro-football-reference.com/boxscores/200510090nyj.htm
+2005,2005-10-09,VkxV91RtzHn65,New England,Patriots,NE,30,141,1,22,27,,350,3,1,140.355,342,483,1,8,0,0,1,11,83,20,3,10,0.3,0,0,0.0,1945,https://www.pro-football-reference.com/boxscores/200510090atl.htm
+2005,2005-10-09,mLspw4gJNTQGN,Atlanta,Falcons,ATL,26,116,0,18,34,,298,3,0,112.132,284,400,3,14,0,0,0,8,84,22,5,13,0.385,0,0,0.0,1655,https://www.pro-football-reference.com/boxscores/200510090atl.htm
+2005,2005-10-09,LJmHetie5VbbO,Indianapolis,Colts,IND,28,120,2,23,31,,255,1,2,82.056,245,365,1,10,1,1,3,10,80,22,6,10,0.6,1,1,1.0,1852,https://www.pro-football-reference.com/boxscores/200510090sfo.htm
+2005,2005-10-09,IwSI92ZDKoazn,San Francisco,49ers,SF,28,133,0,9,23,,74,0,4,8.514,44,177,5,30,2,1,5,7,40,12,3,14,0.214,1,1,1.0,1748,https://www.pro-football-reference.com/boxscores/200510090sfo.htm
+2005,2005-10-09,jJBGuksuDJF5L,Carolina,Panthers,CAR,27,87,1,18,29,,243,2,1,97.342,243,330,0,0,1,1,2,4,30,15,4,11,0.364,0,0,0.0,1548,https://www.pro-football-reference.com/boxscores/200510090crd.htm
+2005,2005-10-09,GJizlkzQFaqGA,Arizona,Cardinals,ARI,27,72,0,29,46,,398,2,3,77.989,396,468,1,2,1,1,4,8,55,19,7,16,0.438,1,4,0.25,2052,https://www.pro-football-reference.com/boxscores/200510090crd.htm
+2005,2005-10-09,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,9,19,0,16,30,,145,0,0,66.667,110,129,4,35,0,0,0,8,54,6,2,12,0.167,0,1,0.0,1157,https://www.pro-football-reference.com/boxscores/200510090dal.htm
+2005,2005-10-09,KdjU81i7YSFE7,Dallas,Cowboys,DAL,46,167,0,24,35,,289,3,0,122.202,289,456,0,0,2,1,1,5,48,28,6,16,0.375,2,3,0.667,2443,https://www.pro-football-reference.com/boxscores/200510090dal.htm
+2005,2005-10-09,9JtBk8kFeaGEs,Washington,Football Team,WAS,26,125,0,30,53,,322,2,0,87.146,322,447,0,0,1,1,1,10,67,28,6,15,0.4,0,0,0.0,2029,https://www.pro-football-reference.com/boxscores/200510090den.htm
+2005,2005-10-09,6DclFuycdPaOB,Denver,Broncos,DEN,28,165,2,10,26,,92,1,0,61.699,92,257,0,0,0,0,0,6,43,11,4,14,0.286,1,1,1.0,1571,https://www.pro-football-reference.com/boxscores/200510090den.htm
+2005,2005-10-09,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,26,132,0,22,33,,239,2,0,108.018,232,364,2,7,2,1,1,12,94,20,4,13,0.308,0,1,0.0,1835,https://www.pro-football-reference.com/boxscores/200510090jax.htm
+2005,2005-10-09,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,37,181,0,10,24,,161,2,0,92.535,161,342,0,0,1,1,1,10,98,19,2,11,0.182,0,0,0.0,1765,https://www.pro-football-reference.com/boxscores/200510090jax.htm
+2005,2005-10-10,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,32,104,2,17,26,,225,1,0,105.449,207,311,3,18,1,1,1,11,104,25,4,10,0.4,0,0,0.0,2003,https://www.pro-football-reference.com/boxscores/200510100sdg.htm
+2005,2005-10-10,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,21,66,1,20,35,,219,1,1,73.393,213,279,1,6,1,1,2,9,100,20,5,12,0.417,0,0,0.0,1597,https://www.pro-football-reference.com/boxscores/200510100sdg.htm
+2005,2005-10-16,9JtBk8kFeaGEs,Washington,Football Team,WAS,28,101,0,25,41,,331,3,0,110.925,297,398,4,34,3,3,3,5,54,26,5,12,0.417,0,1,0.0,1940,https://www.pro-football-reference.com/boxscores/200510160kan.htm
+2005,2005-10-16,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,32,96,1,15,25,,181,1,0,95.583,178,274,1,3,2,0,0,4,24,18,4,12,0.333,1,1,1.0,1660,https://www.pro-football-reference.com/boxscores/200510160kan.htm
+2005,2005-10-16,IR4gIYmh269EI,Cleveland,Browns,CLE,18,70,0,16,30,,147,0,1,53.056,116,186,4,31,3,2,3,8,53,12,4,11,0.364,0,0,0.0,1375,https://www.pro-football-reference.com/boxscores/200510160rav.htm
+2005,2005-10-16,zyhFXj1nywrm1,Baltimore,Ravens,BAL,33,150,0,23,31,,213,1,1,89.852,201,351,1,12,1,0,1,11,97,16,6,15,0.4,2,2,1.0,2225,https://www.pro-football-reference.com/boxscores/200510160rav.htm
+2005,2005-10-16,mfbu6O5aMHbJg,Miami,Dolphins,MIA,18,64,1,21,43,,267,0,0,68.653,243,307,4,24,3,2,2,9,60,13,3,14,0.214,1,3,0.333,1461,https://www.pro-football-reference.com/boxscores/200510160tam.htm
+2005,2005-10-16,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,34,180,1,18,26,,189,1,0,102.885,162,342,3,27,1,1,1,9,65,15,8,17,0.471,0,0,0.0,2139,https://www.pro-football-reference.com/boxscores/200510160tam.htm
+2005,2005-10-16,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,54,0,20,32,,283,3,3,83.203,263,317,2,20,3,1,4,10,73,14,6,14,0.429,0,1,0.0,1677,https://www.pro-football-reference.com/boxscores/200510160det.htm
+2005,2005-10-16,FCuH1wdksA2DQ,Detroit,Lions,DET,24,52,0,17,28,,201,0,1,67.708,157,209,6,44,4,3,4,10,75,11,4,15,0.267,1,2,0.5,1923,https://www.pro-football-reference.com/boxscores/200510160det.htm
+2005,2005-10-16,n8CuHV9wbYCqF,New York,Giants,NYG,19,91,0,14,29,,215,1,1,70.33,179,270,4,36,3,3,4,6,32,11,1,11,0.091,1,1,1.0,1381,https://www.pro-football-reference.com/boxscores/200510160dal.htm
+2005,2005-10-16,KdjU81i7YSFE7,Dallas,Cowboys,DAL,38,92,0,26,37,,312,1,1,93.525,293,385,3,19,3,3,4,6,44,25,9,16,0.562,0,0,0.0,2446,https://www.pro-football-reference.com/boxscores/200510160dal.htm
+2005,2005-10-16,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,35,93,1,19,35,,177,1,1,66.012,153,246,3,24,1,0,1,10,106,17,7,19,0.368,0,1,0.0,2169,https://www.pro-football-reference.com/boxscores/200510160pit.htm
+2005,2005-10-16,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,30,73,0,11,28,,154,1,3,30.06,145,218,2,9,2,1,4,7,80,16,1,12,0.083,0,0,0.0,1647,https://www.pro-football-reference.com/boxscores/200510160pit.htm
+2005,2005-10-16,AzOs5UWsXusSW,Minnesota,Vikings,MIN,19,80,0,26,49,,237,0,2,49.447,203,283,4,34,0,0,2,14,91,16,3,16,0.188,1,4,0.25,1942,https://www.pro-football-reference.com/boxscores/200510160chi.htm
+2005,2005-10-16,1vVmWGzUZ1rea,Chicago,Bears,CHI,30,95,2,16,25,,117,2,1,84.917,97,192,3,20,2,2,3,8,58,16,3,10,0.3,0,1,0.0,1658,https://www.pro-football-reference.com/boxscores/200510160chi.htm
+2005,2005-10-16,mLspw4gJNTQGN,Atlanta,Falcons,ATL,33,160,1,11,23,,112,1,1,58.605,106,266,1,6,0,0,1,10,79,21,7,12,0.583,0,0,0.0,1594,https://www.pro-football-reference.com/boxscores/200510160nor.htm
+2005,2005-10-16,CI5mhfNa0Zqd2,New Orleans,Saints,NO,32,211,2,22,33,,259,2,1,97.917,245,456,2,14,1,1,2,8,55,32,3,7,0.429,0,0,0.0,2006,https://www.pro-football-reference.com/boxscores/200510160nor.htm
+2005,2005-10-16,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,28,119,1,27,33,,272,2,0,121.212,268,387,1,4,0,0,0,4,32,24,3,10,0.3,0,1,0.0,1744,https://www.pro-football-reference.com/boxscores/200510160oti.htm
+2005,2005-10-16,ltMyRE3yvVUaw,Tennessee,Titans,TEN,24,118,2,26,41,,259,0,2,60.925,259,377,0,0,3,1,3,5,69,21,6,12,0.5,1,1,1.0,1856,https://www.pro-football-reference.com/boxscores/200510160oti.htm
+2005,2005-10-16,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,41,190,1,15,21,,168,2,0,126.687,156,346,2,12,2,0,0,5,35,22,2,11,0.182,0,0,0.0,2118,https://www.pro-football-reference.com/boxscores/200510160rai.htm
+2005,2005-10-16,LZoDld8s63xUs,Las Vegas,Raiders,LV,13,39,2,24,48,,292,0,1,60.417,271,310,4,21,0,0,1,8,51,19,3,13,0.231,2,4,0.5,1482,https://www.pro-football-reference.com/boxscores/200510160rai.htm
+2005,2005-10-16,mexvMWO2v1hWn,New York,Jets,NYJ,21,149,2,12,26,,161,0,2,34.295,126,275,5,35,2,1,3,7,50,17,3,10,0.3,0,0,0.0,1285,https://www.pro-football-reference.com/boxscores/200510160buf.htm
+2005,2005-10-16,3VqeLK0LS9rpw,Buffalo,Bills,BUF,39,177,1,18,26,,172,2,2,80.929,164,341,1,8,1,0,2,13,99,24,5,10,0.5,0,0,0.0,2315,https://www.pro-football-reference.com/boxscores/200510160buf.htm
+2005,2005-10-16,VkxV91RtzHn65,New England,Patriots,NE,19,89,1,24,46,,299,1,0,79.891,299,388,0,0,1,0,0,8,55,22,6,16,0.375,0,0,0.0,1663,https://www.pro-football-reference.com/boxscores/200510160den.htm
+2005,2005-10-16,6DclFuycdPaOB,Denver,Broncos,DEN,34,178,2,17,24,,262,2,0,134.375,254,432,1,8,1,0,0,11,82,20,3,11,0.273,0,0,0.0,1937,https://www.pro-football-reference.com/boxscores/200510160den.htm
+2005,2005-10-16,UI0Ax4HUEXFh6,Houston,Texans,HOU,22,67,0,19,33,,179,1,0,82.765,160,227,3,19,1,0,0,13,95,14,6,16,0.375,2,2,1.0,1707,https://www.pro-football-reference.com/boxscores/200510160sea.htm
+2005,2005-10-16,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,42,320,5,14,20,,168,1,1,91.25,139,459,3,29,2,0,1,6,45,31,7,11,0.636,3,3,1.0,1893,https://www.pro-football-reference.com/boxscores/200510160sea.htm
+2005,2005-10-17,u98I1lDKQBwZ0,Los Angeles,Rams,LA,21,105,1,23,29,,255,2,3,86.71,244,349,1,11,2,1,4,9,50,20,3,7,0.429,0,0,0.0,1626,https://www.pro-football-reference.com/boxscores/200510170clt.htm
+2005,2005-10-17,LJmHetie5VbbO,Indianapolis,Colts,IND,38,176,4,22,32,,191,2,0,105.078,187,363,2,4,2,1,1,3,15,31,8,12,0.667,0,1,0.0,1974,https://www.pro-football-reference.com/boxscores/200510170clt.htm
+2005,2005-10-21,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,45,185,3,20,34,,289,0,0,86.52,277,462,2,12,0,0,0,7,63,24,8,17,0.471,0,1,0.0,2500,https://www.pro-football-reference.com/boxscores/200510210mia.htm
+2005,2005-10-21,mfbu6O5aMHbJg,Miami,Dolphins,MIA,14,94,1,12,31,,202,1,1,58.804,192,286,2,10,1,0,1,4,30,9,3,13,0.231,0,0,0.0,1100,https://www.pro-football-reference.com/boxscores/200510210mia.htm
+2005,2005-10-23,D5QY6bOxfn8ZL,Green Bay,Packers,GB,23,45,0,29,37,,329,2,0,121.734,329,374,0,0,2,0,0,6,50,19,6,13,0.462,0,0,0.0,1797,https://www.pro-football-reference.com/boxscores/200510230min.htm
+2005,2005-10-23,AzOs5UWsXusSW,Minnesota,Vikings,MIN,26,108,0,23,31,,280,2,0,123.051,255,363,5,25,3,1,1,4,21,24,5,10,0.5,0,1,0.0,1803,https://www.pro-football-reference.com/boxscores/200510230min.htm
+2005,2005-10-23,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,20,21,0,23,40,,299,2,2,76.979,270,291,3,29,2,1,3,9,72,15,5,15,0.333,0,0,0.0,1727,https://www.pro-football-reference.com/boxscores/200510230phi.htm
+2005,2005-10-23,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,14,24,0,35,54,,287,1,2,68.981,262,286,3,25,0,0,2,10,72,22,4,14,0.286,0,1,0.0,1873,https://www.pro-football-reference.com/boxscores/200510230phi.htm
+2005,2005-10-23,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,47,221,1,9,14,,93,2,1,93.155,83,304,1,10,1,1,2,5,65,20,4,11,0.364,0,0,0.0,2129,https://www.pro-football-reference.com/boxscores/200510230cin.htm
+2005,2005-10-23,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,19,91,1,21,36,,227,0,2,53.819,211,302,2,16,0,0,2,4,35,20,3,11,0.273,0,0,0.0,1471,https://www.pro-football-reference.com/boxscores/200510230cin.htm
+2005,2005-10-23,CI5mhfNa0Zqd2,New Orleans,Saints,NO,32,119,0,18,39,,230,2,1,71.528,213,332,4,17,1,1,2,9,102,24,6,16,0.375,0,2,0.0,2037,https://www.pro-football-reference.com/boxscores/200510230ram.htm
+2005,2005-10-23,u98I1lDKQBwZ0,Los Angeles,Rams,LA,27,109,3,18,29,,198,0,0,82.256,189,298,1,9,1,1,1,8,65,16,5,14,0.357,1,1,1.0,1563,https://www.pro-football-reference.com/boxscores/200510230ram.htm
+2005,2005-10-23,IwSI92ZDKoazn,San Francisco,49ers,SF,26,140,2,8,16,,92,0,1,41.667,54,194,5,38,3,1,2,5,29,9,3,12,0.25,0,0,0.0,1602,https://www.pro-football-reference.com/boxscores/200510230was.htm
+2005,2005-10-23,9JtBk8kFeaGEs,Washington,Football Team,WAS,39,204,4,14,21,,260,3,0,148.81,253,457,1,7,0,0,0,8,60,24,5,11,0.455,0,0,0.0,1998,https://www.pro-football-reference.com/boxscores/200510230was.htm
+2005,2005-10-23,LJmHetie5VbbO,Indianapolis,Colts,IND,34,205,2,21,27,,237,2,1,112.5,232,437,2,5,1,1,2,6,35,30,5,7,0.714,1,1,1.0,1999,https://www.pro-football-reference.com/boxscores/200510230htx.htm
+2005,2005-10-23,UI0Ax4HUEXFh6,Houston,Texans,HOU,33,133,1,6,9,,48,1,1,77.315,6,139,5,42,3,1,2,3,15,13,6,12,0.5,1,1,1.0,1601,https://www.pro-football-reference.com/boxscores/200510230htx.htm
+2005,2005-10-23,FCuH1wdksA2DQ,Detroit,Lions,DET,37,119,1,22,34,,210,0,0,81.74,210,329,0,0,1,1,1,11,72,19,5,14,0.357,1,1,1.0,2237,https://www.pro-football-reference.com/boxscores/200510230cle.htm
+2005,2005-10-23,IR4gIYmh269EI,Cleveland,Browns,CLE,22,118,0,10,19,,73,0,3,22.368,56,174,4,17,1,0,3,8,50,11,0,8,0.0,0,0,0.0,1363,https://www.pro-football-reference.com/boxscores/200510230cle.htm
+2005,2005-10-23,KdjU81i7YSFE7,Dallas,Cowboys,DAL,39,164,0,13,24,,136,1,2,50.0,111,275,5,25,4,0,2,9,81,16,3,15,0.2,0,0,0.0,2048,https://www.pro-football-reference.com/boxscores/200510230sea.htm
+2005,2005-10-23,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,22,72,0,23,42,,224,1,2,58.036,217,289,1,7,2,1,3,9,83,20,3,13,0.231,0,0,0.0,1552,https://www.pro-football-reference.com/boxscores/200510230sea.htm
+2005,2005-10-23,zyhFXj1nywrm1,Baltimore,Ravens,BAL,22,66,0,18,32,,164,0,0,70.312,133,199,4,31,2,0,0,11,100,12,6,17,0.353,0,0,0.0,1702,https://www.pro-football-reference.com/boxscores/200510230chi.htm
+2005,2005-10-23,1vVmWGzUZ1rea,Chicago,Bears,CHI,29,143,0,15,29,,145,1,0,77.514,133,276,2,12,1,0,0,9,60,17,2,12,0.167,1,1,1.0,1898,https://www.pro-football-reference.com/boxscores/200510230chi.htm
+2005,2005-10-23,ltMyRE3yvVUaw,Tennessee,Titans,TEN,28,90,0,26,45,,269,1,1,73.287,258,348,3,11,4,2,3,11,90,16,5,17,0.294,0,3,0.0,2010,https://www.pro-football-reference.com/boxscores/200510230crd.htm
+2005,2005-10-23,GJizlkzQFaqGA,Arizona,Cardinals,ARI,22,55,0,12,28,,140,1,1,55.655,118,173,4,22,0,0,1,9,71,9,3,15,0.2,0,0,0.0,1590,https://www.pro-football-reference.com/boxscores/200510230crd.htm
+2005,2005-10-23,3VqeLK0LS9rpw,Buffalo,Bills,BUF,23,84,0,19,27,,159,2,0,109.954,126,210,3,33,1,1,1,7,51,15,3,10,0.3,0,1,0.0,1629,https://www.pro-football-reference.com/boxscores/200510230rai.htm
+2005,2005-10-23,LZoDld8s63xUs,Las Vegas,Raiders,LV,37,162,4,19,27,,261,1,0,113.349,254,416,2,7,3,1,1,8,53,26,7,11,0.636,0,0,0.0,1971,https://www.pro-football-reference.com/boxscores/200510230rai.htm
+2005,2005-10-23,6DclFuycdPaOB,Denver,Broncos,DEN,33,191,1,18,29,,194,1,0,93.175,194,385,0,0,1,1,1,6,53,20,5,13,0.385,1,1,1.0,2041,https://www.pro-football-reference.com/boxscores/200510230nyg.htm
+2005,2005-10-23,n8CuHV9wbYCqF,New York,Giants,NYG,20,97,1,23,42,,214,2,1,74.901,214,311,0,0,1,1,2,7,52,22,5,10,0.5,0,0,0.0,1559,https://www.pro-football-reference.com/boxscores/200510230nyg.htm
+2005,2005-10-24,mexvMWO2v1hWn,New York,Jets,NYJ,18,37,2,23,38,,234,0,1,67.215,194,231,4,40,4,3,4,5,44,16,4,13,0.308,2,3,0.667,1598,https://www.pro-football-reference.com/boxscores/200510240atl.htm
+2005,2005-10-24,mLspw4gJNTQGN,Atlanta,Falcons,ATL,38,205,2,11,26,,116,0,3,16.346,105,310,3,11,2,0,3,4,30,19,6,16,0.375,2,2,1.0,2002,https://www.pro-football-reference.com/boxscores/200510240atl.htm
+2005,2005-10-30,AzOs5UWsXusSW,Minnesota,Vikings,MIN,18,82,1,16,32,,190,1,0,78.906,171,253,4,19,0,0,0,10,60,14,5,13,0.385,1,2,0.5,1449,https://www.pro-football-reference.com/boxscores/200510300car.htm
+2005,2005-10-30,jJBGuksuDJF5L,Carolina,Panthers,CAR,39,111,2,21,31,,341,3,0,136.626,338,449,1,3,0,0,0,6,53,27,8,14,0.571,0,0,0.0,2151,https://www.pro-football-reference.com/boxscores/200510300car.htm
+2005,2005-10-30,IR4gIYmh269EI,Cleveland,Browns,CLE,33,156,0,12,25,,185,1,0,86.25,169,325,2,16,2,2,2,1,5,16,3,12,0.25,1,2,0.5,1744,https://www.pro-football-reference.com/boxscores/200510300htx.htm
+2005,2005-10-30,UI0Ax4HUEXFh6,Houston,Texans,HOU,37,117,0,10,20,,138,1,1,68.333,120,237,2,18,1,0,1,5,35,11,6,16,0.375,0,0,0.0,1856,https://www.pro-football-reference.com/boxscores/200510300htx.htm
+2005,2005-10-30,GJizlkzQFaqGA,Arizona,Cardinals,ARI,24,71,0,16,34,,161,1,2,46.324,142,213,3,19,1,0,2,8,56,12,7,17,0.412,1,2,0.5,1631,https://www.pro-football-reference.com/boxscores/200510300dal.htm
+2005,2005-10-30,KdjU81i7YSFE7,Dallas,Cowboys,DAL,32,146,2,19,24,,220,1,0,118.75,202,348,3,18,2,1,1,0,0,21,5,11,0.455,0,0,0.0,1969,https://www.pro-football-reference.com/boxscores/200510300dal.htm
+2005,2005-10-30,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,28,221,1,18,31,,213,2,1,87.164,206,427,2,7,1,1,2,4,25,16,6,14,0.429,1,3,0.333,1882,https://www.pro-football-reference.com/boxscores/200510300ram.htm
+2005,2005-10-30,u98I1lDKQBwZ0,Los Angeles,Rams,LA,33,200,0,13,21,,200,2,3,85.516,186,386,2,14,0,0,3,9,59,15,4,12,0.333,0,0,0.0,1718,https://www.pro-football-reference.com/boxscores/200510300ram.htm
+2005,2005-10-30,D5QY6bOxfn8ZL,Green Bay,Packers,GB,22,76,1,26,39,,279,1,5,56.41,277,353,1,2,1,0,5,7,29,23,6,10,0.6,0,0,0.0,1789,https://www.pro-football-reference.com/boxscores/200510300cin.htm
+2005,2005-10-30,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,27,95,0,22,34,,237,3,1,102.206,222,317,2,15,1,0,1,3,58,21,7,13,0.538,0,0,0.0,1811,https://www.pro-football-reference.com/boxscores/200510300cin.htm
+2005,2005-10-30,LZoDld8s63xUs,Las Vegas,Raiders,LV,23,92,0,17,29,,238,3,1,105.244,232,324,2,6,1,0,1,7,55,17,4,11,0.364,0,1,0.0,1463,https://www.pro-football-reference.com/boxscores/200510300oti.htm
+2005,2005-10-30,ltMyRE3yvVUaw,Tennessee,Titans,TEN,25,140,1,26,40,,229,1,0,88.438,186,326,6,43,3,2,2,9,79,19,10,17,0.588,0,1,0.0,2137,https://www.pro-football-reference.com/boxscores/200510300oti.htm
+2005,2005-10-30,1vVmWGzUZ1rea,Chicago,Bears,CHI,29,115,0,17,31,,230,1,0,89.449,218,333,2,12,2,1,1,10,75,14,3,14,0.214,1,1,1.0,1822,https://www.pro-football-reference.com/boxscores/200510300det.htm
+2005,2005-10-30,FCuH1wdksA2DQ,Detroit,Lions,DET,29,93,1,23,35,,197,0,1,68.393,185,278,2,12,0,0,1,5,40,17,5,17,0.294,0,0,0.0,2155,https://www.pro-football-reference.com/boxscores/200510300det.htm
+2005,2005-10-30,9JtBk8kFeaGEs,Washington,Football Team,WAS,13,38,0,14,34,,127,0,1,39.706,87,125,5,40,3,3,4,10,88,7,2,12,0.167,0,2,0.0,1239,https://www.pro-football-reference.com/boxscores/200510300nyg.htm
+2005,2005-10-30,n8CuHV9wbYCqF,New York,Giants,NYG,45,262,2,12,31,,146,1,1,51.277,124,386,2,22,2,0,1,9,73,19,7,19,0.368,0,1,0.0,2361,https://www.pro-football-reference.com/boxscores/200510300nyg.htm
+2005,2005-10-30,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,21,95,0,31,43,,347,2,0,111.289,323,418,4,24,1,1,1,9,59,21,2,13,0.154,1,2,0.5,1879,https://www.pro-football-reference.com/boxscores/200510300sdg.htm
+2005,2005-10-30,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,22,83,0,26,44,,341,4,1,104.451,341,424,0,0,2,1,2,4,38,22,4,11,0.364,0,1,0.0,1721,https://www.pro-football-reference.com/boxscores/200510300sdg.htm
+2005,2005-10-30,mfbu6O5aMHbJg,Miami,Dolphins,MIA,47,188,0,16,28,,168,1,1,71.726,154,342,2,14,2,1,2,5,34,20,7,18,0.389,0,0,0.0,2183,https://www.pro-football-reference.com/boxscores/200510300nor.htm
+2005,2005-10-30,CI5mhfNa0Zqd2,New Orleans,Saints,NO,17,90,0,14,31,,181,0,1,50.605,113,203,6,68,3,1,2,8,77,14,0,11,0.0,0,2,0.0,1417,https://www.pro-football-reference.com/boxscores/200510300nor.htm
+2005,2005-10-30,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,20,43,0,21,34,,264,1,2,71.201,232,275,5,32,1,1,3,8,65,13,3,14,0.214,0,0,0.0,1783,https://www.pro-football-reference.com/boxscores/200510300sfo.htm
+2005,2005-10-30,IwSI92ZDKoazn,San Francisco,49ers,SF,39,158,0,8,19,,50,0,0,49.671,50,208,0,0,1,0,0,7,65,9,2,16,0.125,0,0,0.0,1817,https://www.pro-football-reference.com/boxscores/200510300sfo.htm
+2005,2005-10-30,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,19,79,0,12,34,,283,3,2,71.078,272,351,2,11,1,0,2,10,70,12,3,13,0.231,0,1,0.0,1380,https://www.pro-football-reference.com/boxscores/200510300den.htm
+2005,2005-10-30,6DclFuycdPaOB,Denver,Broncos,DEN,36,255,3,22,35,,309,4,0,129.345,309,564,1,0,1,0,0,6,50,28,6,14,0.429,1,1,1.0,2220,https://www.pro-football-reference.com/boxscores/200510300den.htm
+2005,2005-10-30,3VqeLK0LS9rpw,Buffalo,Bills,BUF,39,147,0,20,33,,263,1,1,83.27,247,394,2,16,1,1,2,12,74,24,7,14,0.5,0,1,0.0,2360,https://www.pro-football-reference.com/boxscores/200510300nwe.htm
+2005,2005-10-30,VkxV91RtzHn65,New England,Patriots,NE,22,93,2,14,21,,199,1,0,112.996,180,273,3,19,2,2,2,7,57,18,1,7,0.143,0,0,0.0,1240,https://www.pro-football-reference.com/boxscores/200510300nwe.htm
+2005,2005-10-31,zyhFXj1nywrm1,Baltimore,Ravens,BAL,27,72,0,25,44,,252,1,2,61.932,246,318,2,6,1,1,3,6,38,20,9,18,0.5,1,3,0.333,1864,https://www.pro-football-reference.com/boxscores/200510310pit.htm
+2005,2005-10-31,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,101,0,18,31,,177,2,1,82.325,160,261,2,17,2,1,2,4,19,19,4,12,0.333,1,2,0.5,1736,https://www.pro-football-reference.com/boxscores/200510310pit.htm
+2005,2005-11-06,LZoDld8s63xUs,Las Vegas,Raiders,LV,26,101,0,21,40,,175,2,1,70.312,162,263,1,13,2,0,1,9,84,21,10,17,0.588,0,0,0.0,1914,https://www.pro-football-reference.com/boxscores/200511060kan.htm
+2005,2005-11-06,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,24,114,2,22,35,,235,1,0,91.964,207,321,3,28,3,1,1,11,87,18,6,14,0.429,0,0,0.0,1686,https://www.pro-football-reference.com/boxscores/200511060kan.htm
+2005,2005-11-06,UI0Ax4HUEXFh6,Houston,Texans,HOU,23,88,1,22,30,,219,1,0,104.722,191,279,6,28,5,1,1,4,30,17,4,12,0.333,1,2,0.5,1856,https://www.pro-football-reference.com/boxscores/200511060jax.htm
+2005,2005-11-06,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,27,98,2,19,25,,218,1,0,115.083,214,312,2,4,1,0,0,6,45,18,6,12,0.5,0,0,0.0,1744,https://www.pro-football-reference.com/boxscores/200511060jax.htm
+2005,2005-11-06,jJBGuksuDJF5L,Carolina,Panthers,CAR,32,77,2,11,18,,216,1,0,121.528,210,287,1,6,1,0,0,5,24,15,5,13,0.385,0,0,0.0,1717,https://www.pro-football-reference.com/boxscores/200511060tam.htm
+2005,2005-11-06,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,17,44,1,25,42,,259,1,2,65.476,226,270,6,33,2,2,4,8,42,18,4,12,0.333,1,1,1.0,1883,https://www.pro-football-reference.com/boxscores/200511060tam.htm
+2005,2005-11-06,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,35,133,3,20,27,,270,1,1,102.392,262,395,1,8,1,1,2,12,124,27,5,10,0.5,0,0,0.0,1984,https://www.pro-football-reference.com/boxscores/200511060nyj.htm
+2005,2005-11-06,mexvMWO2v1hWn,New York,Jets,NYJ,25,89,1,17,31,,204,2,0,96.707,180,269,3,24,0,0,0,5,35,19,7,13,0.538,0,1,0.0,1616,https://www.pro-football-reference.com/boxscores/200511060nyj.htm
+2005,2005-11-06,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,35,95,1,19,26,,248,2,0,128.365,234,329,2,14,4,1,1,5,54,25,7,11,0.636,0,0,0.0,2006,https://www.pro-football-reference.com/boxscores/200511060rav.htm
+2005,2005-11-06,zyhFXj1nywrm1,Baltimore,Ravens,BAL,25,118,0,19,31,,153,0,0,73.723,122,240,3,31,2,1,1,7,40,17,5,14,0.357,1,2,0.5,1594,https://www.pro-football-reference.com/boxscores/200511060rav.htm
+2005,2005-11-06,mLspw4gJNTQGN,Atlanta,Falcons,ATL,41,162,1,22,31,,228,1,0,102.621,220,382,3,8,3,2,2,4,28,27,11,17,0.647,0,1,0.0,2175,https://www.pro-football-reference.com/boxscores/200511060mia.htm
+2005,2005-11-06,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,105,1,13,22,,103,0,1,51.894,103,208,0,0,1,0,1,7,60,11,0,9,0.0,1,1,1.0,1425,https://www.pro-football-reference.com/boxscores/200511060mia.htm
+2005,2005-11-06,ltMyRE3yvVUaw,Tennessee,Titans,TEN,24,98,1,18,42,,235,1,1,59.127,225,323,1,10,1,0,1,2,15,19,5,15,0.333,0,2,0.0,1656,https://www.pro-football-reference.com/boxscores/200511060cle.htm
+2005,2005-11-06,IR4gIYmh269EI,Cleveland,Browns,CLE,32,169,1,18,34,,272,1,1,77.083,272,441,0,0,1,1,2,9,63,16,7,16,0.438,0,1,0.0,1944,https://www.pro-football-reference.com/boxscores/200511060cle.htm
+2005,2005-11-06,FCuH1wdksA2DQ,Detroit,Lions,DET,20,58,1,28,48,,263,1,2,63.108,231,289,4,32,1,1,3,6,31,20,9,17,0.529,0,1,0.0,1821,https://www.pro-football-reference.com/boxscores/200511060min.htm
+2005,2005-11-06,AzOs5UWsXusSW,Minnesota,Vikings,MIN,35,164,1,15,22,,136,2,0,114.962,121,285,3,15,1,1,1,3,18,19,3,12,0.25,0,0,0.0,1779,https://www.pro-football-reference.com/boxscores/200511060min.htm
+2005,2005-11-06,1vVmWGzUZ1rea,Chicago,Bears,CHI,32,183,1,12,26,,137,1,2,43.269,131,314,2,6,1,1,3,8,60,15,4,15,0.267,0,0,0.0,1578,https://www.pro-football-reference.com/boxscores/200511060nor.htm
+2005,2005-11-06,CI5mhfNa0Zqd2,New Orleans,Saints,NO,33,133,1,16,26,,170,1,2,61.378,150,283,3,20,2,2,4,6,70,15,7,15,0.467,0,0,0.0,2022,https://www.pro-football-reference.com/boxscores/200511060nor.htm
+2005,2005-11-06,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,33,208,3,13,20,,162,1,0,106.667,162,370,1,0,1,0,0,6,52,22,3,9,0.333,0,0,0.0,1683,https://www.pro-football-reference.com/boxscores/200511060crd.htm
+2005,2005-11-06,GJizlkzQFaqGA,Arizona,Cardinals,ARI,20,71,0,29,48,,334,1,3,62.326,307,378,4,27,1,1,4,9,78,23,8,16,0.5,2,3,0.667,1917,https://www.pro-football-reference.com/boxscores/200511060crd.htm
+2005,2005-11-06,n8CuHV9wbYCqF,New York,Giants,NYG,32,93,2,18,33,,251,1,0,89.331,251,344,0,0,1,0,0,10,81,19,6,16,0.375,2,3,0.667,1985,https://www.pro-football-reference.com/boxscores/200511060sfo.htm
+2005,2005-11-06,IwSI92ZDKoazn,San Francisco,49ers,SF,22,52,0,12,21,,102,0,1,50.099,86,138,3,16,1,0,1,12,80,9,3,14,0.214,1,1,1.0,1615,https://www.pro-football-reference.com/boxscores/200511060sfo.htm
+2005,2005-11-06,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,33,154,1,9,16,,65,0,1,39.844,59,213,1,6,3,0,1,4,53,13,0,8,0.0,0,0,0.0,1612,https://www.pro-football-reference.com/boxscores/200511060gnb.htm
+2005,2005-11-06,D5QY6bOxfn8ZL,Green Bay,Packers,GB,29,65,1,20,35,,214,0,1,63.274,203,268,1,11,3,2,3,8,74,16,8,17,0.471,0,2,0.0,1988,https://www.pro-football-reference.com/boxscores/200511060gnb.htm
+2005,2005-11-06,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,23,45,0,22,35,,304,1,1,88.274,291,336,2,13,2,0,1,5,64,17,4,13,0.308,0,1,0.0,1683,https://www.pro-football-reference.com/boxscores/200511060was.htm
+2005,2005-11-06,9JtBk8kFeaGEs,Washington,Football Team,WAS,29,78,2,21,29,,224,0,0,94.612,215,293,2,9,3,1,1,4,35,17,7,16,0.438,0,0,0.0,1917,https://www.pro-football-reference.com/boxscores/200511060was.htm
+2005,2005-11-07,LJmHetie5VbbO,Indianapolis,Colts,IND,38,132,2,28,37,,321,3,1,117.061,321,453,0,0,0,0,1,7,32,28,12,17,0.706,1,1,1.0,2201,https://www.pro-football-reference.com/boxscores/200511070nwe.htm
+2005,2005-11-07,VkxV91RtzHn65,New England,Patriots,NE,14,34,0,25,40,,285,3,0,108.854,254,288,2,31,3,2,2,4,24,17,4,11,0.364,2,3,0.667,1399,https://www.pro-football-reference.com/boxscores/200511070nwe.htm
+2005,2005-11-13,zyhFXj1nywrm1,Baltimore,Ravens,BAL,17,53,0,19,33,,142,0,3,30.114,110,163,4,32,0,0,3,9,86,8,4,14,0.286,0,1,0.0,1531,https://www.pro-football-reference.com/boxscores/200511130jax.htm
+2005,2005-11-13,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,35,133,1,16,30,,211,1,0,86.944,205,338,1,6,0,0,0,5,42,20,5,14,0.357,0,1,0.0,2069,https://www.pro-football-reference.com/boxscores/200511130jax.htm
+2005,2005-11-13,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,32,150,0,23,40,,220,0,3,41.667,166,316,6,54,2,1,4,8,65,22,6,16,0.375,0,2,0.0,2083,https://www.pro-football-reference.com/boxscores/200511130buf.htm
+2005,2005-11-13,3VqeLK0LS9rpw,Buffalo,Bills,BUF,28,61,0,13,22,,162,2,0,112.311,148,209,2,14,2,2,2,5,37,9,3,13,0.231,0,1,0.0,1517,https://www.pro-football-reference.com/boxscores/200511130buf.htm
+2005,2005-11-13,IwSI92ZDKoazn,San Francisco,49ers,SF,46,133,0,1,13,,28,0,1,7.532,28,161,0,0,3,1,2,10,80,9,2,16,0.125,0,1,0.0,1866,https://www.pro-football-reference.com/boxscores/200511130chi.htm
+2005,2005-11-13,1vVmWGzUZ1rea,Chicago,Bears,CHI,40,172,1,8,14,,67,0,1,39.881,67,239,0,0,5,3,4,5,34,12,4,13,0.308,0,1,0.0,1734,https://www.pro-football-reference.com/boxscores/200511130chi.htm
+2005,2005-11-13,UI0Ax4HUEXFh6,Houston,Texans,HOU,24,83,1,16,25,,138,1,0,91.75,126,209,3,12,2,0,0,4,35,11,4,13,0.308,0,1,0.0,1645,https://www.pro-football-reference.com/boxscores/200511130clt.htm
+2005,2005-11-13,LJmHetie5VbbO,Indianapolis,Colts,IND,29,126,1,26,35,,297,3,0,127.917,293,419,1,4,3,2,2,6,50,26,4,10,0.4,0,0,0.0,1955,https://www.pro-football-reference.com/boxscores/200511130clt.htm
+2005,2005-11-13,GJizlkzQFaqGA,Arizona,Cardinals,ARI,16,38,1,29,45,,359,1,0,96.435,359,397,0,0,2,1,1,9,80,21,6,13,0.462,0,1,0.0,1532,https://www.pro-football-reference.com/boxscores/200511130det.htm
+2005,2005-11-13,FCuH1wdksA2DQ,Detroit,Lions,DET,32,157,0,21,31,,231,3,0,121.841,226,383,1,5,0,0,0,7,50,22,5,14,0.357,1,1,1.0,2068,https://www.pro-football-reference.com/boxscores/200511130det.htm
+2005,2005-11-13,VkxV91RtzHn65,New England,Patriots,NE,25,91,0,21,36,,275,2,2,77.894,274,365,2,1,1,0,2,6,38,19,5,14,0.357,0,0,0.0,1827,https://www.pro-football-reference.com/boxscores/200511130mia.htm
+2005,2005-11-13,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,77,0,25,47,,360,2,1,83.644,360,437,0,0,3,1,2,4,69,22,7,17,0.412,0,1,0.0,1773,https://www.pro-football-reference.com/boxscores/200511130mia.htm
+2005,2005-11-13,AzOs5UWsXusSW,Minnesota,Vikings,MIN,21,12,0,18,31,,144,0,0,69.825,125,137,4,19,1,1,1,7,90,11,2,15,0.133,0,0,0.0,1465,https://www.pro-football-reference.com/boxscores/200511130nyg.htm
+2005,2005-11-13,n8CuHV9wbYCqF,New York,Giants,NYG,29,124,1,23,48,,291,1,4,39.497,281,405,2,10,1,1,5,9,75,25,6,15,0.4,0,0,0.0,2135,https://www.pro-football-reference.com/boxscores/200511130nyg.htm
+2005,2005-11-13,mexvMWO2v1hWn,New York,Jets,NYJ,32,137,0,11,21,,98,0,4,25.595,77,214,3,21,3,2,6,5,50,15,6,13,0.462,0,1,0.0,1727,https://www.pro-football-reference.com/boxscores/200511130car.htm
+2005,2005-11-13,jJBGuksuDJF5L,Carolina,Panthers,CAR,36,101,1,10,20,,119,1,2,45.625,119,220,0,0,0,0,2,3,25,15,5,11,0.455,0,0,0.0,1873,https://www.pro-football-reference.com/boxscores/200511130car.htm
+2005,2005-11-13,6DclFuycdPaOB,Denver,Broncos,DEN,38,121,1,16,22,,205,1,0,116.667,205,326,0,0,2,2,2,4,30,18,5,13,0.385,0,0,0.0,1847,https://www.pro-football-reference.com/boxscores/200511130rai.htm
+2005,2005-11-13,LZoDld8s63xUs,Las Vegas,Raiders,LV,17,60,0,26,50,,310,2,3,59.583,275,335,4,35,1,0,3,9,58,20,4,15,0.267,3,3,1.0,1753,https://www.pro-football-reference.com/boxscores/200511130rai.htm
+2005,2005-11-13,D5QY6bOxfn8ZL,Green Bay,Packers,GB,29,107,2,27,40,,256,1,1,82.917,244,351,1,12,2,0,1,4,58,25,5,13,0.385,0,1,0.0,1976,https://www.pro-football-reference.com/boxscores/200511130atl.htm
+2005,2005-11-13,mLspw4gJNTQGN,Atlanta,Falcons,ATL,29,129,1,20,30,,209,2,0,108.889,192,321,3,17,6,3,3,8,58,19,4,11,0.364,1,1,1.0,1624,https://www.pro-football-reference.com/boxscores/200511130atl.htm
+2005,2005-11-13,9JtBk8kFeaGEs,Washington,Football Team,WAS,33,185,1,23,35,,226,2,2,78.988,204,389,2,22,3,1,3,6,41,23,7,15,0.467,1,2,0.5,2065,https://www.pro-football-reference.com/boxscores/200511130tam.htm
+2005,2005-11-13,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,27,61,2,15,29,,279,3,0,119.756,279,340,0,0,1,1,1,2,15,19,4,9,0.444,0,1,0.0,1535,https://www.pro-football-reference.com/boxscores/200511130tam.htm
+2005,2005-11-13,u98I1lDKQBwZ0,Los Angeles,Rams,LA,21,75,0,28,40,,304,1,1,90.0,278,353,3,26,2,1,2,8,49,22,7,15,0.467,1,2,0.5,1847,https://www.pro-football-reference.com/boxscores/200511130sea.htm
+2005,2005-11-13,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,36,174,3,17,29,,243,1,2,68.606,243,417,0,0,0,0,2,3,69,21,10,15,0.667,0,0,0.0,1753,https://www.pro-football-reference.com/boxscores/200511130sea.htm
+2005,2005-11-13,IR4gIYmh269EI,Cleveland,Browns,CLE,19,61,1,17,34,,253,1,1,72.304,242,303,2,11,1,1,2,9,75,16,5,11,0.455,1,2,0.5,1417,https://www.pro-football-reference.com/boxscores/200511130pit.htm
+2005,2005-11-13,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,41,159,3,18,27,,223,1,0,104.398,223,382,0,0,0,0,0,4,30,25,6,13,0.462,1,2,0.5,2183,https://www.pro-football-reference.com/boxscores/200511130pit.htm
+2005,2005-11-14,KdjU81i7YSFE7,Dallas,Cowboys,DAL,24,58,1,17,24,,196,1,1,91.667,183,241,2,13,1,0,1,4,31,13,3,13,0.231,0,0,0.0,1455,https://www.pro-football-reference.com/boxscores/200511140phi.htm
+2005,2005-11-14,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,36,181,2,21,39,,183,0,1,55.823,178,359,2,5,3,0,1,14,95,21,7,17,0.412,0,0,0.0,2145,https://www.pro-football-reference.com/boxscores/200511140phi.htm
+2005,2005-11-20,jJBGuksuDJF5L,Carolina,Panthers,CAR,16,55,0,22,39,,235,0,2,52.831,183,238,8,52,3,0,2,7,62,13,4,17,0.235,1,2,0.5,1758,https://www.pro-football-reference.com/boxscores/200511200chi.htm
+2005,2005-11-20,1vVmWGzUZ1rea,Chicago,Bears,CHI,31,122,0,15,26,,136,1,1,68.75,136,258,0,0,0,0,1,9,75,15,3,13,0.231,0,0,0.0,1842,https://www.pro-football-reference.com/boxscores/200511200chi.htm
+2005,2005-11-20,GJizlkzQFaqGA,Arizona,Cardinals,ARI,26,94,1,27,39,,285,3,0,115.865,278,372,1,7,2,1,1,10,111,27,5,11,0.455,0,0,0.0,1905,https://www.pro-football-reference.com/boxscores/200511200ram.htm
+2005,2005-11-20,u98I1lDKQBwZ0,Los Angeles,Rams,LA,12,6,0,33,43,,385,3,0,126.599,351,357,5,34,2,2,2,9,54,19,4,12,0.333,1,1,1.0,1695,https://www.pro-football-reference.com/boxscores/200511200ram.htm
+2005,2005-11-20,FCuH1wdksA2DQ,Detroit,Lions,DET,19,57,1,17,25,,169,0,0,86.917,169,226,1,0,1,1,1,17,129,11,3,10,0.3,1,1,1.0,1438,https://www.pro-football-reference.com/boxscores/200511200dal.htm
+2005,2005-11-20,KdjU81i7YSFE7,Dallas,Cowboys,DAL,42,149,2,12,23,,110,0,0,65.489,104,253,1,6,2,1,1,5,40,26,6,12,0.5,1,1,1.0,2162,https://www.pro-football-reference.com/boxscores/200511200dal.htm
+2005,2005-11-20,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,30,49,1,22,38,,258,3,0,104.934,246,295,2,12,1,1,1,3,15,22,10,17,0.588,0,0,0.0,1914,https://www.pro-football-reference.com/boxscores/200511200oti.htm
+2005,2005-11-20,ltMyRE3yvVUaw,Tennessee,Titans,TEN,21,63,1,20,30,,208,2,1,94.861,191,254,3,17,0,0,1,11,73,16,5,13,0.385,0,0,0.0,1686,https://www.pro-football-reference.com/boxscores/200511200oti.htm
+2005,2005-11-20,CI5mhfNa0Zqd2,New Orleans,Saints,NO,21,87,0,27,50,,343,2,1,80.667,338,425,1,5,0,0,1,11,99,23,8,16,0.5,0,1,0.0,1977,https://www.pro-football-reference.com/boxscores/200511200nwe.htm
+2005,2005-11-20,VkxV91RtzHn65,New England,Patriots,NE,30,132,0,15,29,,222,3,0,111.566,194,326,3,28,1,1,1,5,50,20,7,14,0.5,1,1,1.0,1623,https://www.pro-football-reference.com/boxscores/200511200nwe.htm
+2005,2005-11-20,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,25,70,0,21,38,,246,1,1,72.917,212,282,6,34,1,1,2,10,62,17,4,15,0.267,0,1,0.0,2040,https://www.pro-football-reference.com/boxscores/200511200rav.htm
+2005,2005-11-20,zyhFXj1nywrm1,Baltimore,Ravens,BAL,38,104,0,21,36,,163,1,1,67.245,137,241,5,26,1,1,2,11,70,18,7,20,0.35,0,0,0.0,2211,https://www.pro-football-reference.com/boxscores/200511200rav.htm
+2005,2005-11-20,LZoDld8s63xUs,Las Vegas,Raiders,LV,29,50,0,19,36,,289,1,1,77.199,286,336,1,3,1,0,1,10,101,16,6,16,0.375,0,0,0.0,1895,https://www.pro-football-reference.com/boxscores/200511200was.htm
+2005,2005-11-20,9JtBk8kFeaGEs,Washington,Football Team,WAS,27,108,0,14,32,,155,0,0,58.724,138,246,2,17,3,3,3,6,50,13,6,15,0.4,0,1,0.0,1705,https://www.pro-football-reference.com/boxscores/200511200was.htm
+2005,2005-11-20,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,139,0,9,28,,67,0,2,11.607,55,194,2,12,1,0,2,7,43,12,2,12,0.167,2,4,0.5,1472,https://www.pro-football-reference.com/boxscores/200511200cle.htm
+2005,2005-11-20,IR4gIYmh269EI,Cleveland,Browns,CLE,39,181,1,17,29,,195,1,1,76.078,195,376,0,0,0,0,1,5,35,19,7,16,0.438,1,1,1.0,2128,https://www.pro-football-reference.com/boxscores/200511200cle.htm
+2005,2005-11-20,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,30,106,1,18,39,,298,1,1,70.246,298,404,0,0,3,0,1,7,105,20,6,15,0.4,0,1,0.0,1771,https://www.pro-football-reference.com/boxscores/200511200nyg.htm
+2005,2005-11-20,n8CuHV9wbYCqF,New York,Giants,NYG,29,115,0,17,26,,218,3,0,129.968,200,315,5,18,2,0,0,6,58,17,3,12,0.25,1,1,1.0,1829,https://www.pro-football-reference.com/boxscores/200511200nyg.htm
+2005,2005-11-20,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,27,140,2,11,19,,118,0,1,54.276,118,258,0,0,0,0,1,8,55,15,2,8,0.25,0,0,0.0,1438,https://www.pro-football-reference.com/boxscores/200511200atl.htm
+2005,2005-11-20,mLspw4gJNTQGN,Atlanta,Falcons,ATL,36,150,1,21,38,,306,2,0,99.232,293,443,3,13,2,2,2,11,87,26,11,17,0.647,0,1,0.0,2162,https://www.pro-football-reference.com/boxscores/200511200atl.htm
+2005,2005-11-20,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,145,2,19,31,,233,1,0,95.228,228,373,1,5,0,0,0,5,75,21,5,15,0.333,1,1,1.0,1700,https://www.pro-football-reference.com/boxscores/200511200sfo.htm
+2005,2005-11-20,IwSI92ZDKoazn,San Francisco,49ers,SF,26,110,1,18,29,,249,1,0,101.078,226,336,4,23,2,1,1,6,34,17,5,13,0.385,0,0,0.0,1900,https://www.pro-football-reference.com/boxscores/200511200sfo.htm
+2005,2005-11-20,3VqeLK0LS9rpw,Buffalo,Bills,BUF,13,65,0,20,36,,168,1,1,65.509,137,202,6,31,3,1,2,9,65,12,3,13,0.231,2,4,0.5,1350,https://www.pro-football-reference.com/boxscores/200511200sdg.htm
+2005,2005-11-20,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,34,141,2,28,33,,339,4,0,149.053,337,478,1,2,2,0,0,2,10,28,6,11,0.545,2,2,1.0,2250,https://www.pro-football-reference.com/boxscores/200511200sdg.htm
+2005,2005-11-20,LJmHetie5VbbO,Indianapolis,Colts,IND,30,92,3,24,40,,365,3,1,104.688,359,451,1,6,0,0,1,4,30,28,8,14,0.571,1,1,1.0,1922,https://www.pro-football-reference.com/boxscores/200511200cin.htm
+2005,2005-11-20,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,26,164,2,25,38,,335,2,1,100.219,328,492,1,7,0,0,1,9,85,23,6,13,0.462,0,2,0.0,1678,https://www.pro-football-reference.com/boxscores/200511200cin.htm
+2005,2005-11-20,mexvMWO2v1hWn,New York,Jets,NYJ,8,19,0,20,32,,195,0,2,53.516,176,195,3,19,4,3,5,7,41,10,3,9,0.333,0,1,0.0,1052,https://www.pro-football-reference.com/boxscores/200511200den.htm
+2005,2005-11-20,6DclFuycdPaOB,Denver,Broncos,DEN,48,191,3,18,26,,225,0,0,95.833,213,404,2,12,1,1,1,3,30,28,7,15,0.467,2,3,0.667,2548,https://www.pro-football-reference.com/boxscores/200511200den.htm
+2005,2005-11-20,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,42,226,2,19,29,,220,3,1,108.405,220,446,0,0,1,0,1,5,30,28,7,14,0.5,1,1,1.0,2218,https://www.pro-football-reference.com/boxscores/200511200htx.htm
+2005,2005-11-20,UI0Ax4HUEXFh6,Houston,Texans,HOU,19,78,1,19,36,,182,0,1,55.556,181,259,1,1,4,2,3,6,43,14,1,11,0.091,1,4,0.25,1382,https://www.pro-football-reference.com/boxscores/200511200htx.htm
+2005,2005-11-21,AzOs5UWsXusSW,Minnesota,Vikings,MIN,37,160,1,18,30,,196,0,1,65.417,171,331,5,25,2,1,2,6,77,22,6,15,0.4,0,0,0.0,2253,https://www.pro-football-reference.com/boxscores/200511210gnb.htm
+2005,2005-11-21,D5QY6bOxfn8ZL,Green Bay,Packers,GB,14,21,0,20,33,,227,2,2,76.199,215,236,2,12,1,0,2,5,31,13,2,10,0.2,0,0,0.0,1347,https://www.pro-football-reference.com/boxscores/200511210gnb.htm
+2005,2005-11-24,mLspw4gJNTQGN,Atlanta,Falcons,ATL,45,256,1,12,22,,146,2,1,86.553,146,402,0,0,1,1,2,11,84,22,6,12,0.5,0,0,0.0,2059,https://www.pro-football-reference.com/boxscores/200511240det.htm
+2005,2005-11-24,FCuH1wdksA2DQ,Detroit,Lions,DET,13,75,0,25,48,,258,1,2,57.465,229,304,5,29,3,2,4,9,50,20,4,14,0.286,1,3,0.333,1541,https://www.pro-football-reference.com/boxscores/200511240det.htm
+2005,2005-11-24,6DclFuycdPaOB,Denver,Broncos,DEN,20,144,1,15,24,,162,1,1,78.819,149,293,2,13,1,1,2,10,67,13,3,10,0.3,0,0,0.0,1491,https://www.pro-football-reference.com/boxscores/200511240dal.htm
+2005,2005-11-24,KdjU81i7YSFE7,Dallas,Cowboys,DAL,32,85,1,29,44,,232,2,2,75.189,229,314,1,3,1,0,2,7,40,23,7,16,0.438,1,1,1.0,2190,https://www.pro-football-reference.com/boxscores/200511240dal.htm
+2005,2005-11-27,VkxV91RtzHn65,New England,Patriots,NE,18,74,1,22,40,,248,1,4,42.5,232,306,3,16,1,0,4,2,22,20,5,12,0.417,1,1,1.0,1535,https://www.pro-football-reference.com/boxscores/200511270kan.htm
+2005,2005-11-27,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,37,112,1,19,26,,323,1,0,127.564,308,420,2,15,1,1,1,5,35,24,5,12,0.417,0,0,0.0,2065,https://www.pro-football-reference.com/boxscores/200511270kan.htm
+2005,2005-11-27,jJBGuksuDJF5L,Carolina,Panthers,CAR,33,113,0,20,27,,191,1,0,105.633,182,295,1,9,2,1,1,4,20,19,9,14,0.643,0,0,0.0,2144,https://www.pro-football-reference.com/boxscores/200511270buf.htm
+2005,2005-11-27,3VqeLK0LS9rpw,Buffalo,Bills,BUF,23,55,0,16,29,,197,0,1,61.997,161,216,5,36,1,0,1,4,31,14,5,13,0.385,1,1,1.0,1456,https://www.pro-football-reference.com/boxscores/200511270buf.htm
+2005,2005-11-27,1vVmWGzUZ1rea,Chicago,Bears,CHI,33,118,0,14,28,,134,1,1,60.714,121,239,2,13,3,0,1,4,35,15,4,15,0.267,0,0,0.0,1803,https://www.pro-football-reference.com/boxscores/200511270tam.htm
+2005,2005-11-27,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,25,107,1,19,30,,202,0,0,82.917,168,275,4,34,1,1,1,5,52,15,2,12,0.167,0,0,0.0,1797,https://www.pro-football-reference.com/boxscores/200511270tam.htm
+2005,2005-11-27,IR4gIYmh269EI,Cleveland,Browns,CLE,20,78,0,23,36,,214,1,3,54.63,184,262,5,30,2,2,5,6,30,20,2,8,0.25,0,0,0.0,1664,https://www.pro-football-reference.com/boxscores/200511270min.htm
+2005,2005-11-27,AzOs5UWsXusSW,Minnesota,Vikings,MIN,31,81,0,19,28,,207,3,1,110.268,200,281,2,7,2,1,2,7,49,18,7,14,0.5,0,0,0.0,1936,https://www.pro-football-reference.com/boxscores/200511270min.htm
+2005,2005-11-27,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,28,202,3,22,45,,215,0,3,34.954,195,397,3,20,1,0,3,6,40,24,6,15,0.4,0,0,0.0,1847,https://www.pro-football-reference.com/boxscores/200511270was.htm
+2005,2005-11-27,9JtBk8kFeaGEs,Washington,Football Team,WAS,33,91,1,17,27,,194,1,0,96.836,191,282,2,3,2,0,0,7,60,15,3,14,0.214,0,0,0.0,1787,https://www.pro-football-reference.com/boxscores/200511270was.htm
+2005,2005-11-27,zyhFXj1nywrm1,Baltimore,Ravens,BAL,33,133,1,18,32,,211,3,2,81.641,189,322,3,22,4,1,3,9,91,23,7,14,0.5,1,1,1.0,1787,https://www.pro-football-reference.com/boxscores/200511270cin.htm
+2005,2005-11-27,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,32,135,2,22,30,,302,3,1,124.583,302,437,0,0,2,2,3,5,45,23,5,11,0.455,0,0,0.0,1813,https://www.pro-football-reference.com/boxscores/200511270cin.htm
+2005,2005-11-27,u98I1lDKQBwZ0,Los Angeles,Rams,LA,29,138,1,21,33,,324,3,1,113.699,291,429,7,33,2,0,1,9,65,22,5,14,0.357,3,4,0.75,1880,https://www.pro-football-reference.com/boxscores/200511270htx.htm
+2005,2005-11-27,UI0Ax4HUEXFh6,Houston,Texans,HOU,31,124,0,25,35,,293,3,1,113.155,288,412,3,5,1,1,2,4,54,26,7,13,0.538,0,0,0.0,2094,https://www.pro-football-reference.com/boxscores/200511270htx.htm
+2005,2005-11-27,IwSI92ZDKoazn,San Francisco,49ers,SF,22,74,1,23,43,,192,1,2,53.634,187,261,2,5,2,2,4,4,35,15,3,15,0.2,3,3,1.0,1696,https://www.pro-football-reference.com/boxscores/200511270oti.htm
+2005,2005-11-27,ltMyRE3yvVUaw,Tennessee,Titans,TEN,27,118,0,23,41,,343,3,1,97.917,343,461,0,0,1,0,1,10,70,15,3,16,0.188,2,3,0.667,1904,https://www.pro-football-reference.com/boxscores/200511270oti.htm
+2005,2005-11-27,mfbu6O5aMHbJg,Miami,Dolphins,MIA,32,145,2,18,31,,261,2,1,93.616,249,394,3,12,2,2,3,7,70,21,7,14,0.5,0,0,0.0,1808,https://www.pro-football-reference.com/boxscores/200511270rai.htm
+2005,2005-11-27,LZoDld8s63xUs,Las Vegas,Raiders,LV,25,120,3,21,37,,226,0,2,52.309,185,305,7,41,2,1,3,13,90,24,7,13,0.538,0,0,0.0,1792,https://www.pro-football-reference.com/boxscores/200511270rai.htm
+2005,2005-11-27,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,33,162,2,14,28,,133,0,0,63.542,133,295,0,0,0,0,0,11,81,19,8,15,0.533,0,1,0.0,1901,https://www.pro-football-reference.com/boxscores/200511270crd.htm
+2005,2005-11-27,GJizlkzQFaqGA,Arizona,Cardinals,ARI,16,67,0,29,46,,315,2,1,88.587,301,368,3,14,1,1,2,11,105,23,3,11,0.273,0,1,0.0,1699,https://www.pro-football-reference.com/boxscores/200511270crd.htm
+2005,2005-11-27,D5QY6bOxfn8ZL,Green Bay,Packers,GB,30,128,1,15,33,,171,1,2,46.402,164,292,1,7,4,3,5,7,40,18,6,14,0.429,1,1,1.0,1735,https://www.pro-football-reference.com/boxscores/200511270phi.htm
+2005,2005-11-27,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,35,176,1,12,28,,91,0,0,51.339,88,264,1,3,2,1,1,7,50,15,4,16,0.25,1,1,1.0,1865,https://www.pro-football-reference.com/boxscores/200511270phi.htm
+2005,2005-11-27,n8CuHV9wbYCqF,New York,Giants,NYG,28,166,0,29,53,,344,2,1,79.442,324,490,3,20,1,0,1,16,114,25,8,19,0.421,0,0,0.0,2361,https://www.pro-football-reference.com/boxscores/200511270sea.htm
+2005,2005-11-27,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,127,1,21,37,,249,2,1,84.178,228,355,3,21,4,1,2,8,65,17,6,19,0.316,1,1,1.0,1974,https://www.pro-football-reference.com/boxscores/200511270sea.htm
+2005,2005-11-27,CI5mhfNa0Zqd2,New Orleans,Saints,NO,25,97,0,17,23,,181,3,0,136.051,172,269,1,9,0,0,0,7,60,18,3,8,0.375,0,0,0.0,1601,https://www.pro-football-reference.com/boxscores/200511270nyj.htm
+2005,2005-11-27,mexvMWO2v1hWn,New York,Jets,NYJ,35,118,0,19,28,,251,1,0,107.887,242,360,1,9,1,0,0,7,55,19,7,16,0.438,0,0,0.0,1999,https://www.pro-football-reference.com/boxscores/200511270nyj.htm
+2005,2005-11-28,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,25,86,0,17,26,,133,1,2,58.654,111,197,3,22,0,0,2,10,62,10,4,13,0.308,0,1,0.0,1753,https://www.pro-football-reference.com/boxscores/200511280clt.htm
+2005,2005-11-28,LJmHetie5VbbO,Indianapolis,Colts,IND,32,127,0,15,25,,245,2,1,102.917,239,366,2,6,1,0,1,12,106,17,5,13,0.385,0,0,0.0,1847,https://www.pro-football-reference.com/boxscores/200511280clt.htm
+2005,2005-12-04,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,25,102,2,22,38,,227,3,0,101.535,222,324,1,5,0,0,0,4,30,21,6,14,0.429,0,1,0.0,1602,https://www.pro-football-reference.com/boxscores/200512040pit.htm
+2005,2005-12-04,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,95,1,29,41,,386,3,3,94.157,379,474,2,7,4,1,4,7,70,28,6,13,0.462,0,1,0.0,1998,https://www.pro-football-reference.com/boxscores/200512040pit.htm
+2005,2005-12-04,ltMyRE3yvVUaw,Tennessee,Titans,TEN,19,53,0,26,39,,250,0,0,84.348,207,260,5,43,2,1,1,7,35,17,2,12,0.167,1,5,0.2,1977,https://www.pro-football-reference.com/boxscores/200512040clt.htm
+2005,2005-12-04,LJmHetie5VbbO,Indianapolis,Colts,IND,31,105,1,13,17,,187,3,0,151.225,187,292,0,0,1,1,1,5,33,21,3,6,0.5,1,1,1.0,1623,https://www.pro-football-reference.com/boxscores/200512040clt.htm
+2005,2005-12-04,AzOs5UWsXusSW,Minnesota,Vikings,MIN,32,103,1,17,23,,256,2,0,139.04,242,345,2,14,0,0,0,11,94,20,3,11,0.273,0,0,0.0,1841,https://www.pro-football-reference.com/boxscores/200512040det.htm
+2005,2005-12-04,FCuH1wdksA2DQ,Detroit,Lions,DET,23,105,1,17,35,,126,0,1,45.655,118,223,1,8,1,0,1,3,30,19,5,13,0.385,0,0,0.0,1759,https://www.pro-football-reference.com/boxscores/200512040det.htm
+2005,2005-12-04,UI0Ax4HUEXFh6,Houston,Texans,HOU,34,165,0,17,37,,165,0,1,47.691,133,298,5,32,5,1,2,11,93,16,8,20,0.4,0,0,0.0,2029,https://www.pro-football-reference.com/boxscores/200512040rav.htm
+2005,2005-12-04,zyhFXj1nywrm1,Baltimore,Ravens,BAL,23,73,1,17,33,,198,0,0,70.013,165,238,4,33,4,2,2,8,71,15,4,13,0.308,1,1,1.0,1571,https://www.pro-football-reference.com/boxscores/200512040rav.htm
+2005,2005-12-04,mLspw4gJNTQGN,Atlanta,Falcons,ATL,24,111,0,17,35,,171,0,2,39.107,148,259,4,23,0,0,2,4,37,14,7,17,0.412,0,1,0.0,1660,https://www.pro-football-reference.com/boxscores/200512040car.htm
+2005,2005-12-04,jJBGuksuDJF5L,Carolina,Panthers,CAR,34,142,1,17,27,,164,2,1,89.12,164,306,0,0,1,0,1,3,38,14,5,15,0.333,1,1,1.0,1940,https://www.pro-football-reference.com/boxscores/200512040car.htm
+2005,2005-12-04,3VqeLK0LS9rpw,Buffalo,Bills,BUF,33,92,0,14,27,,227,3,1,101.929,202,294,2,25,2,2,3,7,55,16,6,14,0.429,0,0,0.0,1877,https://www.pro-football-reference.com/boxscores/200512040mia.htm
+2005,2005-12-04,mfbu6O5aMHbJg,Miami,Dolphins,MIA,22,73,1,34,65,,387,2,1,74.327,361,434,3,26,1,1,2,13,81,26,8,20,0.4,1,2,0.5,1723,https://www.pro-football-reference.com/boxscores/200512040mia.htm
+2005,2005-12-04,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,38,122,0,11,20,,116,2,1,84.583,115,237,1,1,0,0,1,5,50,17,5,13,0.385,0,0,0.0,1783,https://www.pro-football-reference.com/boxscores/200512040cle.htm
+2005,2005-12-04,IR4gIYmh269EI,Cleveland,Browns,CLE,32,98,0,13,20,,226,2,0,136.667,205,303,5,21,1,0,0,7,97,15,4,12,0.333,0,1,0.0,1817,https://www.pro-football-reference.com/boxscores/200512040cle.htm
+2005,2005-12-04,KdjU81i7YSFE7,Dallas,Cowboys,DAL,27,81,0,15,39,,146,1,2,36.912,125,206,4,21,2,2,4,7,46,16,4,16,0.25,1,1,1.0,1709,https://www.pro-football-reference.com/boxscores/200512040nyg.htm
+2005,2005-12-04,n8CuHV9wbYCqF,New York,Giants,NYG,34,127,1,12,31,,152,0,2,27.89,150,277,1,2,0,0,2,6,44,17,4,15,0.267,0,1,0.0,1891,https://www.pro-football-reference.com/boxscores/200512040nyg.htm
+2005,2005-12-04,D5QY6bOxfn8ZL,Green Bay,Packers,GB,24,100,1,31,58,,277,0,2,52.155,258,358,2,19,4,2,4,9,70,26,5,16,0.312,3,4,0.75,2087,https://www.pro-football-reference.com/boxscores/200512040chi.htm
+2005,2005-12-04,1vVmWGzUZ1rea,Chicago,Bears,CHI,31,141,0,6,17,,68,0,1,23.652,49,190,3,19,3,1,2,4,61,10,0,10,0.0,0,0,0.0,1513,https://www.pro-football-reference.com/boxscores/200512040chi.htm
+2005,2005-12-04,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,30,133,0,12,21,,123,1,0,89.98,115,248,1,8,0,0,0,5,26,14,4,12,0.333,0,0,0.0,1727,https://www.pro-football-reference.com/boxscores/200512040nor.htm
+2005,2005-12-04,CI5mhfNa0Zqd2,New Orleans,Saints,NO,27,65,0,18,34,,215,0,4,32.966,214,279,2,1,0,0,4,5,35,16,9,16,0.562,0,1,0.0,1873,https://www.pro-football-reference.com/boxscores/200512040nor.htm
+2005,2005-12-04,GJizlkzQFaqGA,Arizona,Cardinals,ARI,23,65,0,29,45,,354,1,2,77.454,339,404,2,15,0,0,2,11,80,18,5,16,0.312,0,1,0.0,2085,https://www.pro-football-reference.com/boxscores/200512040sfo.htm
+2005,2005-12-04,IwSI92ZDKoazn,San Francisco,49ers,SF,20,51,1,16,24,,185,0,3,50.174,169,220,3,16,2,1,4,6,44,11,2,9,0.222,0,0,0.0,1515,https://www.pro-football-reference.com/boxscores/200512040sfo.htm
+2005,2005-12-04,9JtBk8kFeaGEs,Washington,Football Team,WAS,40,257,2,14,22,,156,1,0,99.811,150,407,1,6,1,0,0,8,76,19,8,14,0.571,0,0,0.0,2038,https://www.pro-football-reference.com/boxscores/200512040ram.htm
+2005,2005-12-04,u98I1lDKQBwZ0,Los Angeles,Rams,LA,17,49,1,21,36,,163,0,1,57.986,142,191,3,21,2,1,2,4,30,13,5,15,0.333,1,1,1.0,1562,https://www.pro-football-reference.com/boxscores/200512040ram.htm
+2005,2005-12-04,6DclFuycdPaOB,Denver,Broncos,DEN,29,131,2,18,29,,276,1,2,76.221,257,388,2,19,0,0,2,8,55,19,3,10,0.3,0,1,0.0,1653,https://www.pro-football-reference.com/boxscores/200512040kan.htm
+2005,2005-12-04,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,37,168,2,16,23,,253,2,2,98.641,253,421,0,0,1,1,3,6,45,24,5,9,0.556,0,1,0.0,1947,https://www.pro-football-reference.com/boxscores/200512040kan.htm
+2005,2005-12-04,mexvMWO2v1hWn,New York,Jets,NYJ,16,41,0,15,37,,135,0,1,39.809,123,164,2,12,0,0,1,7,60,12,4,14,0.286,1,2,0.5,1310,https://www.pro-football-reference.com/boxscores/200512040nwe.htm
+2005,2005-12-04,VkxV91RtzHn65,New England,Patriots,NE,35,146,1,27,37,,271,0,0,93.412,251,397,2,20,1,0,0,7,68,24,8,16,0.5,1,1,1.0,2290,https://www.pro-football-reference.com/boxscores/200512040nwe.htm
+2005,2005-12-04,LZoDld8s63xUs,Las Vegas,Raiders,LV,17,81,0,22,40,,236,1,1,70.417,210,291,3,26,1,1,2,0,0,16,7,13,0.538,0,1,0.0,1522,https://www.pro-football-reference.com/boxscores/200512040sdg.htm
+2005,2005-12-04,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,37,130,1,17,22,,160,2,0,127.083,144,274,3,16,1,0,0,1,15,19,8,14,0.571,0,0,0.0,2078,https://www.pro-football-reference.com/boxscores/200512040sdg.htm
+2005,2005-12-05,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,42,96,2,8,17,,98,1,0,84.926,98,194,0,0,1,0,0,2,10,14,4,14,0.286,0,0,0.0,1840,https://www.pro-football-reference.com/boxscores/200512050phi.htm
+2005,2005-12-05,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,25,61,0,17,39,,145,0,4,14.316,129,190,4,16,2,2,6,10,56,11,4,15,0.267,1,2,0.5,1760,https://www.pro-football-reference.com/boxscores/200512050phi.htm
+2005,2005-12-11,LJmHetie5VbbO,Indianapolis,Colts,IND,34,99,0,24,37,,324,2,0,110.642,300,399,3,24,0,0,0,5,47,25,6,14,0.429,1,2,0.5,2038,https://www.pro-football-reference.com/boxscores/200512110jax.htm
+2005,2005-12-11,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,23,74,1,26,35,,250,1,0,103.274,250,324,0,0,4,3,3,7,65,18,3,11,0.273,1,1,1.0,1562,https://www.pro-football-reference.com/boxscores/200512110jax.htm
+2005,2005-12-11,VkxV91RtzHn65,New England,Patriots,NE,41,159,2,30,40,,336,2,2,95.417,335,494,1,1,0,0,2,9,83,32,11,16,0.688,0,1,0.0,2519,https://www.pro-football-reference.com/boxscores/200512110buf.htm
+2005,2005-12-11,3VqeLK0LS9rpw,Buffalo,Bills,BUF,12,14,0,10,27,,181,1,3,33.642,169,183,2,12,0,0,3,7,50,8,2,10,0.2,0,0,0.0,1081,https://www.pro-football-reference.com/boxscores/200512110buf.htm
+2005,2005-12-11,1vVmWGzUZ1rea,Chicago,Bears,CHI,18,83,1,17,35,,207,0,0,67.202,185,268,3,22,2,0,0,1,5,15,3,13,0.231,1,2,0.5,1361,https://www.pro-football-reference.com/boxscores/200512110pit.htm
+2005,2005-12-11,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,46,190,2,13,20,,173,1,0,108.958,173,363,0,0,4,0,0,7,55,20,7,14,0.5,0,1,0.0,2239,https://www.pro-football-reference.com/boxscores/200512110pit.htm
+2005,2005-12-11,LZoDld8s63xUs,Las Vegas,Raiders,LV,17,95,0,14,26,,124,1,2,47.596,84,179,6,40,3,2,4,13,88,14,3,9,0.333,1,1,1.0,1462,https://www.pro-football-reference.com/boxscores/200512110nyj.htm
+2005,2005-12-11,mexvMWO2v1hWn,New York,Jets,NYJ,43,184,1,14,26,,119,1,0,78.846,110,294,2,9,1,0,0,5,69,23,4,13,0.308,1,1,1.0,2138,https://www.pro-football-reference.com/boxscores/200512110nyj.htm
+2005,2005-12-11,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,36,114,2,20,27,,138,0,0,85.108,133,247,1,5,0,0,0,7,50,17,10,17,0.588,0,0,0.0,1924,https://www.pro-football-reference.com/boxscores/200512110car.htm
+2005,2005-12-11,jJBGuksuDJF5L,Carolina,Panthers,CAR,20,82,0,21,33,,220,1,1,80.366,194,276,2,26,1,0,1,5,35,14,2,11,0.182,0,2,0.0,1676,https://www.pro-football-reference.com/boxscores/200512110car.htm
+2005,2005-12-11,IR4gIYmh269EI,Cleveland,Browns,CLE,26,84,1,16,24,,138,1,1,78.125,124,208,2,14,0,0,1,7,45,15,5,12,0.417,0,0,0.0,1848,https://www.pro-football-reference.com/boxscores/200512110cin.htm
+2005,2005-12-11,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,34,185,1,13,27,,93,1,1,53.472,93,278,0,0,1,0,1,6,33,18,6,12,0.5,1,1,1.0,1752,https://www.pro-football-reference.com/boxscores/200512110cin.htm
+2005,2005-12-11,UI0Ax4HUEXFh6,Houston,Texans,HOU,26,152,0,17,26,,116,1,0,87.981,82,234,6,34,0,0,0,8,72,12,2,14,0.143,1,1,1.0,1718,https://www.pro-football-reference.com/boxscores/200512110oti.htm
+2005,2005-12-11,ltMyRE3yvVUaw,Tennessee,Titans,TEN,30,93,0,18,30,,208,0,0,80.972,208,301,0,0,0,0,0,4,56,15,3,14,0.214,0,3,0.0,1882,https://www.pro-football-reference.com/boxscores/200512110oti.htm
+2005,2005-12-11,u98I1lDKQBwZ0,Los Angeles,Rams,LA,29,108,1,26,45,,235,0,5,32.407,229,337,1,6,2,1,6,9,60,20,7,15,0.467,0,2,0.0,2029,https://www.pro-football-reference.com/boxscores/200512110min.htm
+2005,2005-12-11,AzOs5UWsXusSW,Minnesota,Vikings,MIN,29,113,3,16,25,,146,0,0,79.75,146,259,0,0,3,2,2,5,60,16,2,12,0.167,0,0,0.0,1571,https://www.pro-football-reference.com/boxscores/200512110min.htm
+2005,2005-12-11,9JtBk8kFeaGEs,Washington,Football Team,WAS,34,109,1,18,28,,122,0,3,34.226,122,231,0,0,3,0,3,5,63,16,5,14,0.357,1,1,1.0,1999,https://www.pro-football-reference.com/boxscores/200512110crd.htm
+2005,2005-12-11,GJizlkzQFaqGA,Arizona,Cardinals,ARI,18,62,0,25,41,,255,1,1,76.778,240,302,2,15,3,3,4,8,65,17,5,13,0.385,0,1,0.0,1601,https://www.pro-football-reference.com/boxscores/200512110crd.htm
+2005,2005-12-11,n8CuHV9wbYCqF,New York,Giants,NYG,40,138,1,28,44,,312,1,3,63.826,299,437,1,13,0,0,3,10,71,28,11,19,0.579,1,2,0.5,2610,https://www.pro-football-reference.com/boxscores/200512110phi.htm
+2005,2005-12-11,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,25,175,2,14,32,,190,0,0,63.281,162,337,6,28,1,1,1,9,101,17,6,16,0.375,0,1,0.0,1655,https://www.pro-football-reference.com/boxscores/200512110phi.htm
+2005,2005-12-11,IwSI92ZDKoazn,San Francisco,49ers,SF,21,62,0,9,22,,77,0,1,31.818,51,113,4,26,3,1,2,7,82,8,2,12,0.167,0,0,0.0,1427,https://www.pro-football-reference.com/boxscores/200512110sea.htm
+2005,2005-12-11,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,40,185,1,24,30,,259,4,1,128.333,253,438,1,6,1,0,1,8,54,31,6,10,0.6,0,0,0.0,2173,https://www.pro-football-reference.com/boxscores/200512110sea.htm
+2005,2005-12-11,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,28,161,3,20,32,,340,1,0,108.854,332,493,2,8,1,1,1,3,17,25,7,12,0.583,0,0,0.0,1692,https://www.pro-football-reference.com/boxscores/200512110dal.htm
+2005,2005-12-11,KdjU81i7YSFE7,Dallas,Cowboys,DAL,28,129,1,22,34,,332,3,0,126.103,316,445,4,16,1,0,0,5,45,21,9,16,0.562,0,0,0.0,1908,https://www.pro-football-reference.com/boxscores/200512110dal.htm
+2005,2005-12-11,zyhFXj1nywrm1,Baltimore,Ravens,BAL,23,72,0,23,40,,251,1,2,63.646,251,323,2,0,3,2,4,3,20,20,6,13,0.462,0,1,0.0,1686,https://www.pro-football-reference.com/boxscores/200512110den.htm
+2005,2005-12-11,6DclFuycdPaOB,Denver,Broncos,DEN,32,96,0,19,33,,236,1,0,89.962,222,318,2,14,1,1,1,4,31,17,8,16,0.5,0,1,0.0,1914,https://www.pro-football-reference.com/boxscores/200512110den.htm
+2005,2005-12-11,mfbu6O5aMHbJg,Miami,Dolphins,MIA,26,71,0,14,22,,229,2,0,128.788,229,300,0,0,2,2,2,3,12,14,2,10,0.2,0,0,0.0,1183,https://www.pro-football-reference.com/boxscores/200512110sdg.htm
+2005,2005-12-11,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,27,96,1,35,52,,279,2,1,85.337,245,341,3,34,2,2,3,7,49,27,11,19,0.579,3,4,0.75,2417,https://www.pro-football-reference.com/boxscores/200512110sdg.htm
+2005,2005-12-11,FCuH1wdksA2DQ,Detroit,Lions,DET,31,129,0,13,24,,112,1,0,80.556,112,241,0,0,2,0,0,5,50,11,5,15,0.333,0,1,0.0,1688,https://www.pro-football-reference.com/boxscores/200512110gnb.htm
+2005,2005-12-11,D5QY6bOxfn8ZL,Green Bay,Packers,GB,35,181,1,21,32,,170,0,1,65.885,149,330,3,21,1,1,2,5,25,19,6,16,0.375,1,1,1.0,2229,https://www.pro-football-reference.com/boxscores/200512110gnb.htm
+2005,2005-12-12,CI5mhfNa0Zqd2,New Orleans,Saints,NO,24,125,1,27,46,,219,1,0,78.08,207,332,3,12,1,1,1,10,107,22,3,14,0.214,1,1,1.0,1842,https://www.pro-football-reference.com/boxscores/200512120atl.htm
+2005,2005-12-12,mLspw4gJNTQGN,Atlanta,Falcons,ATL,32,127,3,13,25,,279,1,1,88.583,279,406,0,0,1,0,1,9,74,19,2,11,0.182,0,0,0.0,1758,https://www.pro-football-reference.com/boxscores/200512120atl.htm
+2005,2005-12-17,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,18,30,0,21,34,,155,0,0,72.549,108,138,7,47,2,1,1,8,58,12,7,16,0.438,0,2,0.0,1592,https://www.pro-football-reference.com/boxscores/200512170nwe.htm
+2005,2005-12-17,VkxV91RtzHn65,New England,Patriots,NE,32,83,1,20,31,,258,3,0,122.782,253,336,1,5,0,0,0,8,54,22,7,16,0.438,1,1,1.0,2008,https://www.pro-football-reference.com/boxscores/200512170nwe.htm
+2005,2005-12-17,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,34,188,2,15,28,,176,0,1,58.036,174,362,1,2,2,2,3,9,75,22,7,13,0.538,0,0,0.0,1804,https://www.pro-football-reference.com/boxscores/200512170nyg.htm
+2005,2005-12-17,n8CuHV9wbYCqF,New York,Giants,NYG,34,223,2,17,32,,186,1,1,67.969,183,406,1,3,1,1,2,7,70,22,8,15,0.533,0,0,0.0,1796,https://www.pro-football-reference.com/boxscores/200512170nyg.htm
+2005,2005-12-17,6DclFuycdPaOB,Denver,Broncos,DEN,37,178,2,20,37,,259,2,0,94.313,259,437,1,0,3,1,1,9,90,27,7,14,0.5,2,2,1.0,2083,https://www.pro-football-reference.com/boxscores/200512170buf.htm
+2005,2005-12-17,3VqeLK0LS9rpw,Buffalo,Bills,BUF,16,75,1,22,35,,202,1,0,88.036,197,272,1,5,1,0,0,12,82,17,4,12,0.333,1,1,1.0,1517,https://www.pro-football-reference.com/boxscores/200512170buf.htm
+2005,2005-12-18,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,37,206,1,22,33,,255,1,2,74.684,247,453,1,8,2,2,4,11,75,18,7,17,0.412,1,1,1.0,2072,https://www.pro-football-reference.com/boxscores/200512180clt.htm
+2005,2005-12-18,LJmHetie5VbbO,Indianapolis,Colts,IND,15,24,1,26,45,,336,1,2,70.231,314,338,4,22,1,1,3,8,67,21,5,13,0.385,0,1,0.0,1528,https://www.pro-football-reference.com/boxscores/200512180clt.htm
+2005,2005-12-18,GJizlkzQFaqGA,Arizona,Cardinals,ARI,13,39,0,25,38,,301,2,2,85.526,262,301,6,39,3,2,4,7,69,16,4,13,0.308,0,0,0.0,1656,https://www.pro-football-reference.com/boxscores/200512180htx.htm
+2005,2005-12-18,UI0Ax4HUEXFh6,Houston,Texans,HOU,35,119,3,22,33,,150,0,1,63.952,134,253,3,16,1,1,2,5,43,18,5,15,0.333,0,1,0.0,1944,https://www.pro-football-reference.com/boxscores/200512180htx.htm
+2005,2005-12-18,IwSI92ZDKoazn,San Francisco,49ers,SF,25,110,0,8,24,,123,0,1,33.854,107,217,2,16,1,0,1,8,56,11,1,13,0.077,0,1,0.0,1460,https://www.pro-football-reference.com/boxscores/200512180jax.htm
+2005,2005-12-18,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,35,134,1,21,40,,216,0,0,68.333,202,336,2,14,0,0,0,10,84,21,6,17,0.353,0,1,0.0,2140,https://www.pro-football-reference.com/boxscores/200512180jax.htm
+2005,2005-12-18,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,28,125,1,15,28,,97,1,3,33.482,76,201,4,21,4,1,4,13,115,13,5,13,0.385,0,0,0.0,1672,https://www.pro-football-reference.com/boxscores/200512180ram.htm
+2005,2005-12-18,u98I1lDKQBwZ0,Los Angeles,Rams,LA,36,178,0,18,35,,127,1,1,57.679,127,305,0,0,0,0,1,15,115,16,3,16,0.188,0,2,0.0,1928,https://www.pro-football-reference.com/boxscores/200512180ram.htm
+2005,2005-12-18,jJBGuksuDJF5L,Carolina,Panthers,CAR,43,161,2,13,21,,176,1,1,84.623,165,326,1,11,1,1,2,3,25,19,8,17,0.471,0,0,0.0,2094,https://www.pro-football-reference.com/boxscores/200512180nor.htm
+2005,2005-12-18,CI5mhfNa0Zqd2,New Orleans,Saints,NO,22,94,0,17,34,,193,1,4,37.623,183,277,1,10,2,2,6,9,72,15,4,12,0.333,0,1,0.0,1506,https://www.pro-football-reference.com/boxscores/200512180nor.htm
+2005,2005-12-18,mexvMWO2v1hWn,New York,Jets,NYJ,25,99,0,28,42,,327,2,0,105.952,298,397,6,29,3,3,3,5,39,24,4,14,0.286,0,2,0.0,2042,https://www.pro-football-reference.com/boxscores/200512180mia.htm
+2005,2005-12-18,mfbu6O5aMHbJg,Miami,Dolphins,MIA,31,128,1,14,29,,175,2,1,76.078,169,297,1,6,1,0,1,8,92,14,4,13,0.308,0,0,0.0,1558,https://www.pro-football-reference.com/boxscores/200512180mia.htm
+2005,2005-12-18,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,33,183,1,21,27,,285,3,0,147.685,276,459,1,9,0,0,0,4,38,26,5,9,0.556,0,0,0.0,1824,https://www.pro-football-reference.com/boxscores/200512180oti.htm
+2005,2005-12-18,ltMyRE3yvVUaw,Tennessee,Titans,TEN,26,81,1,24,39,,336,2,0,106.357,336,417,0,0,0,0,0,4,30,25,4,11,0.364,2,4,0.5,1776,https://www.pro-football-reference.com/boxscores/200512180oti.htm
+2005,2005-12-18,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,39,142,1,10,15,,149,0,0,99.028,133,275,4,16,2,1,1,12,129,14,5,15,0.333,1,1,1.0,2208,https://www.pro-football-reference.com/boxscores/200512180min.htm
+2005,2005-12-18,AzOs5UWsXusSW,Minnesota,Vikings,MIN,17,54,0,16,30,,143,0,2,38.611,131,185,2,12,3,1,3,13,95,11,3,12,0.25,0,0,0.0,1392,https://www.pro-football-reference.com/boxscores/200512180min.htm
+2005,2005-12-18,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,32,155,2,30,42,,280,3,2,93.353,271,426,2,9,2,0,2,4,40,29,10,14,0.714,0,0,0.0,2171,https://www.pro-football-reference.com/boxscores/200512180det.htm
+2005,2005-12-18,FCuH1wdksA2DQ,Detroit,Lions,DET,17,59,0,19,28,,215,2,3,74.851,211,270,1,4,1,1,4,4,30,13,5,9,0.556,0,0,0.0,1429,https://www.pro-football-reference.com/boxscores/200512180det.htm
+2005,2005-12-18,IR4gIYmh269EI,Cleveland,Browns,CLE,26,70,0,21,32,,198,0,1,69.531,185,255,2,13,1,1,2,1,15,13,4,15,0.267,0,1,0.0,1582,https://www.pro-football-reference.com/boxscores/200512180rai.htm
+2005,2005-12-18,LZoDld8s63xUs,Las Vegas,Raiders,LV,31,143,0,14,30,,132,1,1,56.528,113,256,3,19,1,0,1,7,45,16,7,16,0.438,1,1,1.0,2018,https://www.pro-football-reference.com/boxscores/200512180rai.htm
+2005,2005-12-18,KdjU81i7YSFE7,Dallas,Cowboys,DAL,24,109,0,16,29,,153,1,3,41.954,107,216,7,46,2,1,4,9,56,13,5,15,0.333,1,2,0.5,1716,https://www.pro-football-reference.com/boxscores/200512180was.htm
+2005,2005-12-18,9JtBk8kFeaGEs,Washington,Football Team,WAS,40,171,1,12,20,,163,4,0,125.625,163,334,0,0,2,1,1,7,55,19,5,11,0.455,0,0,0.0,1884,https://www.pro-football-reference.com/boxscores/200512180was.htm
+2005,2005-12-18,mLspw4gJNTQGN,Atlanta,Falcons,ATL,31,114,0,13,32,,122,0,2,25.781,117,231,2,5,1,1,3,6,75,12,6,16,0.375,0,2,0.0,1858,https://www.pro-football-reference.com/boxscores/200512180chi.htm
+2005,2005-12-18,1vVmWGzUZ1rea,Chicago,Bears,CHI,32,128,1,11,26,,105,0,1,38.141,98,226,1,7,0,0,1,3,16,14,3,15,0.2,0,0,0.0,1742,https://www.pro-football-reference.com/boxscores/200512180chi.htm
+2005,2005-12-19,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,107,0,22,44,,209,0,3,35.133,181,288,3,28,2,2,5,10,94,16,2,13,0.154,2,3,0.667,1708,https://www.pro-football-reference.com/boxscores/200512190rav.htm
+2005,2005-12-19,zyhFXj1nywrm1,Baltimore,Ravens,BAL,38,182,2,19,27,,253,3,0,136.806,253,435,0,0,1,0,0,7,71,25,7,13,0.538,0,0,0.0,1892,https://www.pro-football-reference.com/boxscores/200512190rav.htm
+2005,2005-12-24,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,20,80,0,18,33,,161,1,1,65.341,153,233,1,8,1,1,2,7,58,15,4,13,0.308,2,3,0.667,1558,https://www.pro-football-reference.com/boxscores/200512240kan.htm
+2005,2005-12-24,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,37,144,1,19,35,,207,2,0,91.012,197,341,2,10,2,0,0,7,48,20,11,19,0.579,1,2,0.5,2042,https://www.pro-football-reference.com/boxscores/200512240kan.htm
+2005,2005-12-24,mLspw4gJNTQGN,Atlanta,Falcons,ATL,36,154,1,16,26,,161,2,0,104.808,127,281,4,34,1,1,1,7,85,19,4,13,0.308,1,1,1.0,2019,https://www.pro-football-reference.com/boxscores/200512240tam.htm
+2005,2005-12-24,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,37,174,1,29,42,,285,2,2,83.929,270,444,2,15,1,1,3,8,107,30,5,13,0.385,1,1,1.0,2466,https://www.pro-football-reference.com/boxscores/200512240tam.htm
+2005,2005-12-24,IwSI92ZDKoazn,San Francisco,49ers,SF,29,217,3,12,16,,131,0,0,98.698,104,321,5,27,1,0,0,6,39,15,2,8,0.25,0,0,0.0,1657,https://www.pro-football-reference.com/boxscores/200512240ram.htm
+2005,2005-12-24,u98I1lDKQBwZ0,Los Angeles,Rams,LA,21,44,1,33,41,,354,1,2,90.447,345,389,1,9,1,0,2,4,24,20,5,11,0.455,0,1,0.0,1943,https://www.pro-football-reference.com/boxscores/200512240ram.htm
+2005,2005-12-24,3VqeLK0LS9rpw,Buffalo,Bills,BUF,25,67,1,24,31,,308,1,1,105.309,288,355,3,20,2,0,1,6,55,19,5,11,0.455,0,1,0.0,1812,https://www.pro-football-reference.com/boxscores/200512240cin.htm
+2005,2005-12-24,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,23,104,1,27,38,,283,2,2,87.939,270,374,2,13,0,0,2,3,15,23,5,9,0.556,0,0,0.0,1788,https://www.pro-football-reference.com/boxscores/200512240cin.htm
+2005,2005-12-24,KdjU81i7YSFE7,Dallas,Cowboys,DAL,41,214,2,15,23,,209,1,1,90.67,180,394,5,29,3,1,2,5,44,22,5,14,0.357,0,0,0.0,2080,https://www.pro-football-reference.com/boxscores/200512240car.htm
+2005,2005-12-24,jJBGuksuDJF5L,Carolina,Panthers,CAR,24,71,0,14,31,,260,2,1,82.728,247,318,3,13,3,1,2,6,49,13,4,14,0.286,0,0,0.0,1520,https://www.pro-football-reference.com/boxscores/200512240car.htm
+2005,2005-12-24,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,35,209,3,14,21,,257,2,0,140.377,248,457,2,9,1,1,1,3,30,20,7,12,0.583,0,0,0.0,1899,https://www.pro-football-reference.com/boxscores/200512240cle.htm
+2005,2005-12-24,IR4gIYmh269EI,Cleveland,Browns,CLE,19,63,0,20,39,,183,0,0,64.37,123,186,8,60,5,1,1,4,25,12,2,16,0.125,3,5,0.6,1701,https://www.pro-football-reference.com/boxscores/200512240cle.htm
+2005,2005-12-24,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,33,172,4,18,31,,292,1,0,100.47,276,448,3,16,2,0,0,6,50,30,5,11,0.455,1,1,1.0,1938,https://www.pro-football-reference.com/boxscores/200512240htx.htm
+2005,2005-12-24,UI0Ax4HUEXFh6,Houston,Texans,HOU,29,107,0,19,29,,295,2,1,107.687,263,370,4,32,1,0,1,7,40,18,7,13,0.538,0,0,0.0,1662,https://www.pro-football-reference.com/boxscores/200512240htx.htm
+2005,2005-12-24,ltMyRE3yvVUaw,Tennessee,Titans,TEN,25,92,0,19,37,,166,1,2,50.056,142,234,4,24,3,1,3,5,28,11,4,16,0.25,0,1,0.0,1908,https://www.pro-football-reference.com/boxscores/200512240mia.htm
+2005,2005-12-24,mfbu6O5aMHbJg,Miami,Dolphins,MIA,38,192,1,14,30,,151,2,1,70.278,130,322,3,21,4,1,2,4,30,19,6,17,0.353,0,0,0.0,1692,https://www.pro-football-reference.com/boxscores/200512240mia.htm
+2005,2005-12-24,n8CuHV9wbYCqF,New York,Giants,NYG,19,99,0,23,42,,244,1,1,69.94,233,332,1,11,0,0,1,9,64,18,4,12,0.333,0,2,0.0,1607,https://www.pro-football-reference.com/boxscores/200512240was.htm
+2005,2005-12-24,9JtBk8kFeaGEs,Washington,Football Team,WAS,43,156,1,13,19,,233,4,1,127.851,224,380,1,9,0,0,1,6,81,22,9,14,0.643,0,0,0.0,1993,https://www.pro-football-reference.com/boxscores/200512240was.htm
+2005,2005-12-24,FCuH1wdksA2DQ,Detroit,Lions,DET,24,71,0,17,30,,210,0,1,64.583,208,279,1,2,0,0,1,11,65,14,6,14,0.429,1,1,1.0,1809,https://www.pro-football-reference.com/boxscores/200512240nor.htm
+2005,2005-12-24,CI5mhfNa0Zqd2,New Orleans,Saints,NO,25,47,0,21,38,,233,0,0,73.684,226,273,1,7,2,1,1,4,17,19,6,14,0.429,0,0,0.0,1791,https://www.pro-football-reference.com/boxscores/200512240nor.htm
+2005,2005-12-24,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,17,43,2,14,36,,170,1,1,51.852,146,189,4,24,1,0,1,10,103,11,2,14,0.143,1,2,0.5,1266,https://www.pro-football-reference.com/boxscores/200512240crd.htm
+2005,2005-12-24,GJizlkzQFaqGA,Arizona,Cardinals,ARI,32,75,0,27,38,,294,2,1,100.11,285,360,2,9,2,0,1,9,83,19,7,17,0.412,0,0,0.0,2334,https://www.pro-football-reference.com/boxscores/200512240crd.htm
+2005,2005-12-24,LZoDld8s63xUs,Las Vegas,Raiders,LV,17,87,0,17,41,,178,0,1,44.563,161,248,1,17,2,1,2,6,41,15,6,14,0.429,0,1,0.0,1288,https://www.pro-football-reference.com/boxscores/200512240den.htm
+2005,2005-12-24,6DclFuycdPaOB,Denver,Broncos,DEN,40,155,2,19,29,,268,0,1,80.819,259,414,2,9,0,0,1,5,25,24,8,15,0.533,0,0,0.0,2312,https://www.pro-football-reference.com/boxscores/200512240den.htm
+2005,2005-12-24,LJmHetie5VbbO,Indianapolis,Colts,IND,23,43,0,31,43,,353,1,0,104.118,344,387,2,9,1,1,1,4,30,20,6,15,0.4,2,3,0.667,2017,https://www.pro-football-reference.com/boxscores/200512240sea.htm
+2005,2005-12-24,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,30,173,2,17,21,,168,2,0,131.746,159,332,2,9,0,0,0,5,30,21,1,7,0.143,1,1,1.0,1583,https://www.pro-football-reference.com/boxscores/200512240sea.htm
+2005,2005-12-25,1vVmWGzUZ1rea,Chicago,Bears,CHI,33,135,1,11,23,,166,1,1,68.388,157,292,1,9,0,0,1,8,55,16,5,13,0.385,0,1,0.0,1617,https://www.pro-football-reference.com/boxscores/200512250gnb.htm
+2005,2005-12-25,D5QY6bOxfn8ZL,Green Bay,Packers,GB,21,65,1,30,51,,317,0,4,44.322,300,365,2,17,0,0,4,9,69,24,6,15,0.4,0,2,0.0,1983,https://www.pro-football-reference.com/boxscores/200512250gnb.htm
+2005,2005-12-25,AzOs5UWsXusSW,Minnesota,Vikings,MIN,14,42,0,25,36,,248,2,0,107.176,220,262,3,28,1,1,1,6,50,18,3,9,0.333,0,0,0.0,1614,https://www.pro-football-reference.com/boxscores/200512250rav.htm
+2005,2005-12-25,zyhFXj1nywrm1,Baltimore,Ravens,BAL,32,88,0,24,34,,289,3,1,113.48,279,367,2,10,1,1,2,7,35,23,10,15,0.667,1,1,1.0,1986,https://www.pro-football-reference.com/boxscores/200512250rav.htm
+2005,2005-12-26,VkxV91RtzHn65,New England,Patriots,NE,50,151,2,19,30,,187,2,1,89.167,170,321,3,17,1,0,1,4,30,26,9,18,0.5,3,4,0.75,2601,https://www.pro-football-reference.com/boxscores/200512260nyj.htm
+2005,2005-12-26,mexvMWO2v1hWn,New York,Jets,NYJ,10,40,0,14,26,,163,2,1,82.692,131,171,4,32,2,2,3,9,69,10,4,10,0.4,1,1,1.0,999,https://www.pro-football-reference.com/boxscores/200512260nyj.htm
+2005,2005-12-31,6DclFuycdPaOB,Denver,Broncos,DEN,40,157,3,10,22,,98,0,0,58.523,84,241,2,14,1,0,0,4,22,17,3,14,0.214,2,2,1.0,2002,https://www.pro-football-reference.com/boxscores/200512310sdg.htm
+2005,2005-12-31,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,20,91,1,20,36,,183,0,1,57.986,145,236,6,38,3,1,2,8,70,15,2,14,0.143,1,3,0.333,1598,https://www.pro-football-reference.com/boxscores/200512310sdg.htm
+2005,2005-12-31,n8CuHV9wbYCqF,New York,Giants,NYG,34,211,2,12,24,,204,1,0,93.056,191,402,2,13,1,0,0,9,70,13,5,14,0.357,0,0,0.0,1912,https://www.pro-football-reference.com/boxscores/200512310rai.htm
+2005,2005-12-31,LZoDld8s63xUs,Las Vegas,Raiders,LV,17,25,0,26,48,,331,3,0,96.788,300,325,3,31,1,0,0,8,54,21,7,17,0.412,0,1,0.0,1688,https://www.pro-football-reference.com/boxscores/200512310rai.htm
+2005,2006-01-01,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,22,37,0,18,32,,130,0,2,39.844,124,161,1,6,0,0,2,6,50,10,6,16,0.375,1,2,0.5,1638,https://www.pro-football-reference.com/boxscores/200601010kan.htm
+2005,2006-01-01,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,32,202,3,23,29,,344,1,0,127.586,335,537,2,9,2,1,1,9,80,24,5,11,0.455,0,0,0.0,1962,https://www.pro-football-reference.com/boxscores/200601010kan.htm
+2005,2006-01-01,3VqeLK0LS9rpw,Buffalo,Bills,BUF,30,159,0,23,37,,184,2,4,53.041,172,331,2,12,3,0,4,3,30,21,8,14,0.571,0,1,0.0,2038,https://www.pro-football-reference.com/boxscores/200601010nyj.htm
+2005,2006-01-01,mexvMWO2v1hWn,New York,Jets,NYJ,27,81,1,11,20,,153,0,0,79.792,126,207,4,27,0,0,0,6,40,12,3,12,0.25,1,1,1.0,1562,https://www.pro-football-reference.com/boxscores/200601010nyj.htm
+2005,2006-01-01,zyhFXj1nywrm1,Baltimore,Ravens,BAL,32,129,0,15,36,,151,0,2,31.134,138,267,2,13,2,1,3,8,64,12,4,18,0.222,0,2,0.0,1774,https://www.pro-football-reference.com/boxscores/200601010cle.htm
+2005,2006-01-01,IR4gIYmh269EI,Cleveland,Browns,CLE,23,54,0,22,37,,199,1,1,71.791,172,226,5,27,4,2,3,9,64,12,6,18,0.333,0,1,0.0,1826,https://www.pro-football-reference.com/boxscores/200601010cle.htm
+2005,2006-01-01,GJizlkzQFaqGA,Arizona,Cardinals,ARI,31,129,0,31,42,,297,1,1,91.071,284,413,3,13,2,1,2,12,98,23,8,17,0.471,1,2,0.5,2201,https://www.pro-football-reference.com/boxscores/200601010clt.htm
+2005,2006-01-01,LJmHetie5VbbO,Indianapolis,Colts,IND,10,11,0,21,32,,212,2,1,92.188,207,218,2,5,1,0,1,7,50,15,2,8,0.25,0,0,0.0,1399,https://www.pro-football-reference.com/boxscores/200601010clt.htm
+2005,2006-01-01,FCuH1wdksA2DQ,Detroit,Lions,DET,25,105,0,17,33,,212,3,0,102.083,203,308,1,9,3,2,2,5,47,16,10,17,0.588,0,0,0.0,1649,https://www.pro-football-reference.com/boxscores/200601010pit.htm
+2005,2006-01-01,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,44,199,4,7,16,,135,0,2,34.115,132,331,1,3,0,0,2,2,15,20,4,10,0.4,1,1,1.0,1951,https://www.pro-football-reference.com/boxscores/200601010pit.htm
+2005,2006-01-01,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,30,98,1,15,25,,174,1,1,77.75,147,245,4,27,2,1,2,5,58,17,5,13,0.385,0,1,0.0,1487,https://www.pro-football-reference.com/boxscores/200601010gnb.htm
+2005,2006-01-01,D5QY6bOxfn8ZL,Green Bay,Packers,GB,33,68,1,21,37,,259,1,1,76.295,246,314,3,13,2,2,3,7,50,21,11,20,0.55,0,0,0.0,2113,https://www.pro-football-reference.com/boxscores/200601010gnb.htm
+2005,2006-01-01,mfbu6O5aMHbJg,Miami,Dolphins,MIA,40,148,1,22,35,,239,1,0,92.44,230,378,2,9,0,0,0,9,77,25,9,17,0.529,0,0,0.0,2286,https://www.pro-football-reference.com/boxscores/200601010nwe.htm
+2005,2006-01-01,VkxV91RtzHn65,New England,Patriots,NE,28,55,0,14,28,,205,3,1,95.089,204,259,1,1,2,0,1,6,45,16,5,14,0.357,3,3,1.0,1314,https://www.pro-football-reference.com/boxscores/200601010nwe.htm
+2005,2006-01-01,CI5mhfNa0Zqd2,New Orleans,Saints,NO,23,71,0,25,37,,265,1,2,74.718,235,306,4,30,1,1,3,7,53,18,4,11,0.364,0,2,0.0,2025,https://www.pro-football-reference.com/boxscores/200601010tam.htm
+2005,2006-01-01,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,26,149,0,12,25,,143,2,0,92.583,136,285,1,7,2,0,0,10,107,14,6,14,0.429,0,0,0.0,1575,https://www.pro-football-reference.com/boxscores/200601010tam.htm
+2005,2006-01-01,jJBGuksuDJF5L,Carolina,Panthers,CAR,38,229,2,16,25,,180,2,0,112.083,174,403,1,6,0,0,0,6,55,23,7,13,0.538,0,0,0.0,2108,https://www.pro-football-reference.com/boxscores/200601010atl.htm
+2005,2006-01-01,mLspw4gJNTQGN,Atlanta,Falcons,ATL,15,26,0,24,37,,225,1,1,79.223,185,211,5,40,3,3,4,7,70,15,5,12,0.417,0,2,0.0,1492,https://www.pro-football-reference.com/boxscores/200601010atl.htm
+2005,2006-01-01,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,88,1,18,36,,196,1,2,52.546,196,284,0,0,0,0,2,8,74,13,4,15,0.267,0,0,0.0,1625,https://www.pro-football-reference.com/boxscores/200601010sfo.htm
+2005,2006-01-01,IwSI92ZDKoazn,San Francisco,49ers,SF,47,182,0,16,29,,159,1,1,68.032,142,324,3,17,1,0,1,5,32,19,7,19,0.368,0,0,0.0,2643,https://www.pro-football-reference.com/boxscores/200601010sfo.htm
+2005,2006-01-01,ltMyRE3yvVUaw,Tennessee,Titans,TEN,22,99,0,21,39,,179,2,1,72.489,171,270,1,8,2,1,2,18,140,15,6,14,0.429,0,3,0.0,1549,https://www.pro-football-reference.com/boxscores/200601010jax.htm
+2005,2006-01-01,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,35,122,3,19,31,,234,2,0,106.116,213,335,3,21,2,1,1,7,50,25,7,14,0.5,0,0,0.0,2051,https://www.pro-football-reference.com/boxscores/200601010jax.htm
+2005,2006-01-01,1vVmWGzUZ1rea,Chicago,Bears,CHI,33,154,0,14,23,,121,1,0,89.221,97,251,3,24,2,0,0,8,45,13,6,16,0.375,2,4,0.5,2008,https://www.pro-football-reference.com/boxscores/200601010min.htm
+2005,2006-01-01,AzOs5UWsXusSW,Minnesota,Vikings,MIN,18,149,2,27,40,,247,2,0,100.729,247,396,0,0,0,0,0,7,45,22,5,10,0.5,0,0,0.0,1592,https://www.pro-football-reference.com/boxscores/200601010min.htm
+2005,2006-01-01,9JtBk8kFeaGEs,Washington,Football Team,WAS,36,151,2,9,25,,141,1,1,52.25,128,279,1,13,0,0,1,7,60,14,4,16,0.25,0,0,0.0,1790,https://www.pro-football-reference.com/boxscores/200601010phi.htm
+2005,2006-01-01,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,25,96,0,21,42,,261,2,2,65.675,239,335,4,22,6,4,6,5,45,18,5,15,0.333,0,0,0.0,1810,https://www.pro-football-reference.com/boxscores/200601010phi.htm
+2005,2006-01-01,u98I1lDKQBwZ0,Los Angeles,Rams,LA,33,106,2,19,32,,158,0,0,72.135,147,253,2,11,0,0,0,7,40,20,6,16,0.375,0,0,0.0,2023,https://www.pro-football-reference.com/boxscores/200601010dal.htm
+2005,2006-01-01,KdjU81i7YSFE7,Dallas,Cowboys,DAL,22,57,0,18,39,,242,1,2,53.579,214,271,5,28,5,2,4,10,78,15,6,16,0.375,0,0,0.0,1577,https://www.pro-football-reference.com/boxscores/200601010dal.htm
+2005,2006-01-07,9JtBk8kFeaGEs,Washington,Football Team,WAS,31,95,1,7,16,,41,0,1,25.0,25,120,2,16,3,0,1,4,30,9,4,13,0.308,0,0,0.0,1531,https://www.pro-football-reference.com/boxscores/200601070tam.htm
+2005,2006-01-07,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,25,75,1,25,38,,198,0,2,56.689,168,243,3,30,3,1,3,3,30,17,5,14,0.357,0,2,0.0,2069,https://www.pro-football-reference.com/boxscores/200601070tam.htm
+2005,2006-01-07,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,17,87,0,21,39,,247,0,1,62.66,205,292,6,42,2,1,2,8,40,15,1,12,0.083,1,4,0.25,1774,https://www.pro-football-reference.com/boxscores/200601070nwe.htm
+2005,2006-01-07,VkxV91RtzHn65,New England,Patriots,NE,28,118,0,15,27,,201,3,0,116.435,189,307,4,12,4,0,0,4,32,17,7,14,0.5,0,1,0.0,1826,https://www.pro-football-reference.com/boxscores/200601070nwe.htm
+2005,2006-01-08,jJBGuksuDJF5L,Carolina,Panthers,CAR,45,223,1,15,22,,140,1,0,100.568,112,335,4,28,1,0,0,7,52,23,7,15,0.467,0,0,0.0,2565,https://www.pro-football-reference.com/boxscores/200601080nyg.htm
+2005,2006-01-08,n8CuHV9wbYCqF,New York,Giants,NYG,13,41,0,10,18,,113,0,3,34.954,91,132,4,22,2,2,5,2,15,9,1,7,0.143,0,0,0.0,1035,https://www.pro-football-reference.com/boxscores/200601080nyg.htm
+2005,2006-01-08,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,34,144,1,14,21,,208,3,0,138.492,202,346,1,6,0,0,0,6,39,19,6,11,0.545,0,0,0.0,1737,https://www.pro-football-reference.com/boxscores/200601080cin.htm
+2005,2006-01-08,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,20,84,1,25,41,,263,1,2,67.429,243,327,4,20,2,0,2,7,90,19,9,16,0.562,0,1,0.0,1863,https://www.pro-football-reference.com/boxscores/200601080cin.htm
+2005,2006-01-14,9JtBk8kFeaGEs,Washington,Football Team,WAS,25,59,0,22,38,,242,1,0,85.636,230,289,2,12,1,1,1,7,50,11,5,19,0.263,2,4,0.5,1935,https://www.pro-football-reference.com/boxscores/200601140sea.htm
+2005,2006-01-14,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,33,119,1,16,26,,215,1,0,100.641,215,334,0,0,5,3,3,2,10,15,7,14,0.5,0,0,0.0,1665,https://www.pro-football-reference.com/boxscores/200601140sea.htm
+2005,2006-01-14,VkxV91RtzHn65,New England,Patriots,NE,21,79,0,20,36,,341,1,2,73.958,341,420,0,0,3,3,5,8,82,15,3,11,0.273,0,1,0.0,1692,https://www.pro-football-reference.com/boxscores/200601140den.htm
+2005,2006-01-14,6DclFuycdPaOB,Denver,Broncos,DEN,32,96,2,15,26,,197,1,1,78.526,190,286,2,7,1,0,1,4,24,16,4,14,0.286,0,1,0.0,1908,https://www.pro-football-reference.com/boxscores/200601140den.htm
+2005,2006-01-15,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,42,112,1,14,24,,197,2,1,95.312,183,295,2,14,1,1,2,2,8,21,6,14,0.429,2,2,1.0,2092,https://www.pro-football-reference.com/boxscores/200601150clt.htm
+2005,2006-01-15,LJmHetie5VbbO,Indianapolis,Colts,IND,14,58,1,22,38,,290,1,0,90.899,247,305,5,43,1,0,0,9,67,15,3,13,0.231,1,2,0.5,1508,https://www.pro-football-reference.com/boxscores/200601150clt.htm
+2005,2006-01-15,jJBGuksuDJF5L,Carolina,Panthers,CAR,31,123,0,24,33,,319,3,1,120.644,311,434,1,8,3,0,1,9,50,21,5,12,0.417,0,0,0.0,2005,https://www.pro-football-reference.com/boxscores/200601150chi.htm
+2005,2006-01-15,1vVmWGzUZ1rea,Chicago,Bears,CHI,27,97,2,17,41,,192,1,1,54.116,185,282,1,7,0,0,1,4,19,23,3,13,0.231,1,2,0.5,1595,https://www.pro-football-reference.com/boxscores/200601150chi.htm
+2005,2006-01-22,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,33,90,2,21,29,,275,2,0,124.928,268,358,2,7,1,0,0,8,61,20,10,16,0.625,0,0,0.0,2167,https://www.pro-football-reference.com/boxscores/200601220den.htm
+2005,2006-01-22,6DclFuycdPaOB,Denver,Broncos,DEN,21,97,1,18,30,,223,1,2,66.389,211,308,3,12,2,2,4,4,20,16,5,11,0.455,2,3,0.667,1433,https://www.pro-football-reference.com/boxscores/200601220den.htm
+2005,2006-01-22,jJBGuksuDJF5L,Carolina,Panthers,CAR,12,36,0,15,35,,196,1,3,34.94,176,212,2,20,1,1,4,5,57,11,1,9,0.111,0,0,0.0,1089,https://www.pro-football-reference.com/boxscores/200601220sea.htm
+2005,2006-01-22,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,51,190,2,20,28,,219,2,0,118.006,203,393,2,16,0,0,0,7,63,27,8,18,0.444,0,1,0.0,2511,https://www.pro-football-reference.com/boxscores/200601220sea.htm
+2005,2006-02-05,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,25,137,0,26,49,,273,1,1,67.815,259,396,3,14,0,0,1,7,70,20,5,17,0.294,1,2,0.5,1982,https://www.pro-football-reference.com/boxscores/200602050pit.htm
+2005,2006-02-05,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,33,181,2,10,22,,166,1,2,48.674,158,339,1,8,0,0,2,3,20,14,8,15,0.533,0,0,0.0,1618,https://www.pro-football-reference.com/boxscores/200602050pit.htm

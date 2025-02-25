@@ -1,0 +1,535 @@
+season,event_date,nano,market,name,alias,rush_att,rush_yds,rush_tds,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_tds,pass_int,passer_rating,net_pass_yds,total_yds,times_sacked,yds_sacked_for,fumbles,fumbles_lost,turnovers,penalties,penalty_yds,first_downs,third_down_conv,third_down_att,third_down_conv_pct,fourth_down_conv,fourth_down_att,fourth_down_conv_pct,time_of_possession,boxscore_stats_link
+2011,2011-09-08,CI5mhfNa0Zqd2,New Orleans,Saints,NO,21,81,0,32,49,,419,3,0,112.543,396,477,3,23,2,1,1,3,15,27,9,14,0.643,0,1,0.0,1626,https://www.pro-football-reference.com/boxscores/201109080gnb.htm
+2011,2011-09-08,D5QY6bOxfn8ZL,Green Bay,Packers,GB,27,103,2,27,35,,312,3,0,132.083,296,399,2,16,0,0,0,6,48,27,8,12,0.667,0,0,0.0,1974,https://www.pro-football-reference.com/boxscores/201109080gnb.htm
+2011,2011-09-11,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,32,236,1,14,32,,187,2,0,83.724,167,403,3,20,1,1,1,8,91,27,8,13,0.615,0,1,0.0,1814,https://www.pro-football-reference.com/boxscores/201109110ram.htm
+2011,2011-09-11,u98I1lDKQBwZ0,Los Angeles,Rams,LA,26,154,1,18,35,,209,0,0,69.821,181,335,5,28,2,1,1,9,60,21,2,12,0.167,2,3,0.667,1786,https://www.pro-football-reference.com/boxscores/201109110ram.htm
+2011,2011-09-11,LJmHetie5VbbO,Indianapolis,Colts,IND,16,64,0,16,31,,197,1,0,82.325,172,236,3,25,3,2,2,6,60,15,1,9,0.111,0,1,0.0,1396,https://www.pro-football-reference.com/boxscores/201109110htx.htm
+2011,2011-09-11,UI0Ax4HUEXFh6,Houston,Texans,HOU,41,167,2,17,24,,220,1,2,78.472,217,384,1,3,1,1,3,4,30,26,5,11,0.455,0,0,0.0,2204,https://www.pro-football-reference.com/boxscores/201109110htx.htm
+2011,2011-09-11,ltMyRE3yvVUaw,Tennessee,Titans,TEN,13,43,0,21,34,,263,2,1,93.137,249,292,2,14,1,0,1,7,60,13,4,11,0.364,0,0,0.0,1222,https://www.pro-football-reference.com/boxscores/201109110jax.htm
+2011,2011-09-11,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,47,163,1,17,24,,175,0,0,91.493,160,323,2,15,2,1,1,5,39,20,9,18,0.5,0,0,0.0,2378,https://www.pro-football-reference.com/boxscores/201109110jax.htm
+2011,2011-09-11,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,16,66,0,22,41,,280,1,3,52.896,246,312,4,34,4,4,7,6,53,20,3,9,0.333,0,1,0.0,1649,https://www.pro-football-reference.com/boxscores/201109110rav.htm
+2011,2011-09-11,zyhFXj1nywrm1,Baltimore,Ravens,BAL,31,170,1,17,29,,224,3,0,117.601,215,385,1,9,0,0,0,7,75,17,7,16,0.438,0,1,0.0,1951,https://www.pro-football-reference.com/boxscores/201109110rav.htm
+2011,2011-09-11,mLspw4gJNTQGN,Atlanta,Falcons,ATL,14,110,0,31,47,,319,0,1,76.463,276,386,5,43,2,2,3,9,65,25,4,13,0.308,0,1,0.0,1601,https://www.pro-football-reference.com/boxscores/201109110chi.htm
+2011,2011-09-11,1vVmWGzUZ1rea,Chicago,Bears,CHI,27,88,0,22,32,,312,2,1,107.812,289,377,5,23,3,0,1,8,56,17,6,16,0.375,0,0,0.0,1999,https://www.pro-football-reference.com/boxscores/201109110chi.htm
+2011,2011-09-11,3VqeLK0LS9rpw,Buffalo,Bills,BUF,39,163,1,17,26,,208,4,1,113.462,201,364,1,7,1,0,1,5,30,23,7,14,0.5,0,0,0.0,2222,https://www.pro-football-reference.com/boxscores/201109110kan.htm
+2011,2011-09-11,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,18,108,0,22,36,,119,1,1,64.468,105,213,2,14,2,2,3,1,3,13,3,13,0.231,0,0,0.0,1378,https://www.pro-football-reference.com/boxscores/201109110kan.htm
+2011,2011-09-11,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,33,139,1,15,27,,173,2,0,99.769,155,294,4,18,2,0,0,3,22,17,7,17,0.412,0,0,0.0,1823,https://www.pro-football-reference.com/boxscores/201109110cle.htm
+2011,2011-09-11,IR4gIYmh269EI,Cleveland,Browns,CLE,26,83,0,19,40,,213,2,1,70.104,202,285,2,11,1,0,1,11,72,17,4,15,0.267,1,2,0.5,1777,https://www.pro-football-reference.com/boxscores/201109110cle.htm
+2011,2011-09-11,FCuH1wdksA2DQ,Detroit,Lions,DET,35,126,0,24,33,,305,3,1,118.876,305,431,0,0,4,0,1,8,68,25,2,11,0.182,1,1,1.0,2185,https://www.pro-football-reference.com/boxscores/201109110tam.htm
+2011,2011-09-11,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,16,56,0,29,46,,266,1,1,76.902,259,315,2,7,4,1,2,6,39,17,6,14,0.429,1,2,0.5,1415,https://www.pro-football-reference.com/boxscores/201109110tam.htm
+2011,2011-09-11,jJBGuksuDJF5L,Carolina,Panthers,CAR,27,74,1,24,37,,422,2,1,110.417,403,477,4,19,0,0,1,10,74,26,3,11,0.273,0,1,0.0,1967,https://www.pro-football-reference.com/boxscores/201109110crd.htm
+2011,2011-09-11,GJizlkzQFaqGA,Arizona,Cardinals,ARI,25,99,1,18,27,,309,2,0,130.015,295,394,2,14,2,1,1,6,61,15,5,12,0.417,0,0,0.0,1633,https://www.pro-football-reference.com/boxscores/201109110crd.htm
+2011,2011-09-11,AzOs5UWsXusSW,Minnesota,Vikings,MIN,26,159,0,7,15,,39,1,1,47.917,28,187,2,11,0,0,1,9,78,10,4,11,0.364,0,0,0.0,1363,https://www.pro-football-reference.com/boxscores/201109110sdg.htm
+2011,2011-09-11,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,27,77,1,33,48,,335,2,2,84.983,330,407,2,5,1,0,2,4,26,31,6,13,0.462,0,1,0.0,2237,https://www.pro-football-reference.com/boxscores/201109110sdg.htm
+2011,2011-09-11,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,22,64,0,21,37,,197,2,1,78.322,155,219,5,42,3,2,3,11,72,18,5,15,0.333,1,1,1.0,1733,https://www.pro-football-reference.com/boxscores/201109110sfo.htm
+2011,2011-09-11,IwSI92ZDKoazn,San Francisco,49ers,SF,32,85,1,15,20,,124,0,0,90.417,124,209,0,0,1,0,0,9,102,12,1,12,0.083,0,0,0.0,1867,https://www.pro-football-reference.com/boxscores/201109110sfo.htm
+2011,2011-09-11,n8CuHV9wbYCqF,New York,Giants,NYG,20,75,2,18,32,,268,0,1,70.833,240,315,4,28,1,0,1,8,63,15,1,10,0.1,0,1,0.0,1644,https://www.pro-football-reference.com/boxscores/201109110was.htm
+2011,2011-09-11,9JtBk8kFeaGEs,Washington,Football Team,WAS,26,74,1,21,34,,305,2,0,110.539,258,332,4,47,1,1,1,3,25,21,5,15,0.333,1,1,1.0,1956,https://www.pro-football-reference.com/boxscores/201109110was.htm
+2011,2011-09-11,KdjU81i7YSFE7,Dallas,Cowboys,DAL,26,64,1,23,36,,342,2,1,101.852,326,390,4,16,3,2,3,7,40,21,4,12,0.333,0,0,0.0,2033,https://www.pro-football-reference.com/boxscores/201109110nyj.htm
+2011,2011-09-11,mexvMWO2v1hWn,New York,Jets,NYJ,16,45,0,26,44,,335,2,1,88.731,315,360,4,20,3,1,2,0,0,19,6,14,0.429,0,0,0.0,1567,https://www.pro-football-reference.com/boxscores/201109110nyj.htm
+2011,2011-09-12,VkxV91RtzHn65,New England,Patriots,NE,22,106,1,32,48,,517,4,1,121.615,516,622,1,1,0,0,1,7,50,27,8,13,0.615,0,0,0.0,1707,https://www.pro-football-reference.com/boxscores/201109120mia.htm
+2011,2011-09-12,mfbu6O5aMHbJg,Miami,Dolphins,MIA,20,98,1,30,49,,416,2,1,93.58,390,488,4,26,1,0,1,8,60,25,2,14,0.143,4,5,0.8,1893,https://www.pro-football-reference.com/boxscores/201109120mia.htm
+2011,2011-09-12,LZoDld8s63xUs,Las Vegas,Raiders,LV,39,190,1,13,22,,105,1,0,86.364,99,289,1,6,2,1,1,15,131,20,5,14,0.357,0,0,0.0,1955,https://www.pro-football-reference.com/boxscores/201109120den.htm
+2011,2011-09-12,6DclFuycdPaOB,Denver,Broncos,DEN,13,38,0,24,46,,304,1,1,71.286,272,310,5,32,4,2,3,10,91,25,6,13,0.462,0,0,0.0,1645,https://www.pro-football-reference.com/boxscores/201109120den.htm
+2011,2011-09-18,D5QY6bOxfn8ZL,Green Bay,Packers,GB,21,124,1,19,30,,308,2,0,119.861,295,419,1,13,1,1,1,7,57,16,5,12,0.417,0,1,0.0,1646,https://www.pro-football-reference.com/boxscores/201109180car.htm
+2011,2011-09-18,jJBGuksuDJF5L,Carolina,Panthers,CAR,21,71,1,28,46,,432,1,3,72.011,404,475,4,28,1,1,4,6,50,26,6,13,0.462,0,1,0.0,1954,https://www.pro-football-reference.com/boxscores/201109180car.htm
+2011,2011-09-18,1vVmWGzUZ1rea,Chicago,Bears,CHI,12,60,0,19,45,,244,1,0,67.269,186,246,6,58,3,1,1,6,47,18,2,12,0.167,0,1,0.0,1426,https://www.pro-football-reference.com/boxscores/201109180nor.htm
+2011,2011-09-18,CI5mhfNa0Zqd2,New Orleans,Saints,NO,29,118,0,26,37,,270,3,0,118.074,264,382,1,6,1,1,1,7,41,16,8,17,0.471,1,1,1.0,2174,https://www.pro-football-reference.com/boxscores/201109180nor.htm
+2011,2011-09-18,IR4gIYmh269EI,Cleveland,Browns,CLE,34,106,2,22,32,,211,1,0,97.266,197,303,1,14,4,1,1,3,49,18,8,16,0.5,1,1,1.0,2074,https://www.pro-football-reference.com/boxscores/201109180clt.htm
+2011,2011-09-18,LJmHetie5VbbO,Indianapolis,Colts,IND,26,109,0,19,38,,191,1,1,62.5,176,285,2,15,1,1,2,4,21,19,4,14,0.286,0,0,0.0,1526,https://www.pro-football-reference.com/boxscores/201109180clt.htm
+2011,2011-09-18,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,29,151,0,15,23,,133,0,3,40.942,116,267,2,17,3,3,6,8,70,12,2,11,0.182,0,0,0.0,1656,https://www.pro-football-reference.com/boxscores/201109180det.htm
+2011,2011-09-18,FCuH1wdksA2DQ,Detroit,Lions,DET,30,89,2,24,40,,322,4,1,108.542,322,411,0,0,1,0,1,4,35,23,5,15,0.333,2,2,1.0,1944,https://www.pro-football-reference.com/boxscores/201109180det.htm
+2011,2011-09-18,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,27,112,0,11,25,,111,0,4,17.667,91,203,2,20,0,0,4,4,50,11,3,12,0.25,0,1,0.0,1597,https://www.pro-football-reference.com/boxscores/201109180nyj.htm
+2011,2011-09-18,mexvMWO2v1hWn,New York,Jets,NYJ,32,101,1,17,24,,182,2,2,85.764,182,283,1,0,0,0,2,7,60,15,3,12,0.25,0,0,0.0,2003,https://www.pro-football-reference.com/boxscores/201109180nyj.htm
+2011,2011-09-18,zyhFXj1nywrm1,Baltimore,Ravens,BAL,17,45,0,15,32,,197,1,2,51.172,184,229,3,13,2,1,3,7,44,15,3,10,0.3,0,0,0.0,1448,https://www.pro-football-reference.com/boxscores/201109180oti.htm
+2011,2011-09-18,ltMyRE3yvVUaw,Tennessee,Titans,TEN,29,74,1,30,42,,358,1,1,95.139,358,432,0,0,0,0,1,6,70,21,7,17,0.412,2,2,1.0,2152,https://www.pro-football-reference.com/boxscores/201109180oti.htm
+2011,2011-09-18,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,13,31,0,20,29,,159,0,0,82.399,133,164,5,26,0,0,0,6,66,8,2,12,0.167,1,2,0.5,1276,https://www.pro-football-reference.com/boxscores/201109180pit.htm
+2011,2011-09-18,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,35,124,2,23,31,,313,1,0,116.734,297,421,2,16,0,0,0,4,48,23,8,15,0.533,0,1,0.0,2324,https://www.pro-football-reference.com/boxscores/201109180pit.htm
+2011,2011-09-18,LZoDld8s63xUs,Las Vegas,Raiders,LV,30,131,3,23,33,,323,2,1,108.523,323,454,0,0,1,1,2,8,85,26,8,12,0.667,1,1,1.0,1753,https://www.pro-football-reference.com/boxscores/201109180buf.htm
+2011,2011-09-18,3VqeLK0LS9rpw,Buffalo,Bills,BUF,24,223,2,28,46,,264,3,1,89.402,258,481,1,6,0,0,1,3,26,34,4,11,0.364,2,2,1.0,1847,https://www.pro-football-reference.com/boxscores/201109180buf.htm
+2011,2011-09-18,GJizlkzQFaqGA,Arizona,Cardinals,ARI,15,93,1,17,30,,251,2,1,92.5,231,324,3,20,3,1,2,10,97,16,3,9,0.333,0,0,0.0,1290,https://www.pro-football-reference.com/boxscores/201109180was.htm
+2011,2011-09-18,9JtBk8kFeaGEs,Washington,Football Team,WAS,35,172,0,25,43,,291,2,2,74.855,283,455,1,8,0,0,2,3,15,28,6,17,0.353,1,1,1.0,2310,https://www.pro-football-reference.com/boxscores/201109180was.htm
+2011,2011-09-18,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,19,105,2,22,31,,243,1,1,91.196,230,335,2,13,0,0,1,6,53,19,7,12,0.583,0,0,0.0,1590,https://www.pro-football-reference.com/boxscores/201109180min.htm
+2011,2011-09-18,AzOs5UWsXusSW,Minnesota,Vikings,MIN,33,186,2,18,30,,228,0,0,83.75,212,398,2,16,2,1,1,8,65,25,5,11,0.455,0,0,0.0,2010,https://www.pro-football-reference.com/boxscores/201109180min.htm
+2011,2011-09-18,KdjU81i7YSFE7,Dallas,Cowboys,DAL,22,45,0,26,43,,432,3,2,98.207,427,472,1,5,3,0,2,8,83,20,6,14,0.429,1,1,1.0,1930,https://www.pro-football-reference.com/boxscores/201109180sfo.htm
+2011,2011-09-18,IwSI92ZDKoazn,San Francisco,49ers,SF,24,74,1,16,24,,179,2,1,99.132,132,206,6,47,0,0,1,5,25,14,8,16,0.5,0,0,0.0,1843,https://www.pro-football-reference.com/boxscores/201109180sfo.htm
+2011,2011-09-18,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,20,72,0,27,41,,332,2,0,106.961,310,382,2,22,0,0,0,7,69,18,1,11,0.091,0,2,0.0,1785,https://www.pro-football-reference.com/boxscores/201109180den.htm
+2011,2011-09-18,6DclFuycdPaOB,Denver,Broncos,DEN,36,131,1,15,25,,195,2,0,111.25,187,318,2,8,2,2,2,7,55,19,5,12,0.417,0,0,0.0,1815,https://www.pro-football-reference.com/boxscores/201109180den.htm
+2011,2011-09-18,UI0Ax4HUEXFh6,Houston,Texans,HOU,36,138,0,21,29,,230,2,0,118.463,207,345,3,23,0,0,0,4,76,19,5,15,0.333,1,1,1.0,2046,https://www.pro-football-reference.com/boxscores/201109180mia.htm
+2011,2011-09-18,mfbu6O5aMHbJg,Miami,Dolphins,MIA,28,153,0,12,30,,170,1,1,56.25,153,306,2,17,1,1,2,3,20,18,4,12,0.333,0,1,0.0,1554,https://www.pro-football-reference.com/boxscores/201109180mia.htm
+2011,2011-09-18,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,24,98,1,29,40,,378,2,2,97.708,372,470,2,6,2,2,4,6,44,29,10,12,0.833,0,1,0.0,1858,https://www.pro-football-reference.com/boxscores/201109180nwe.htm
+2011,2011-09-18,VkxV91RtzHn65,New England,Patriots,NE,25,94,1,31,40,,423,3,0,135.729,410,504,2,13,0,0,0,8,80,28,7,11,0.636,0,1,0.0,1742,https://www.pro-football-reference.com/boxscores/201109180nwe.htm
+2011,2011-09-18,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,30,133,2,26,37,,314,2,1,102.759,314,447,0,0,3,2,3,4,20,27,5,11,0.455,0,1,0.0,1803,https://www.pro-football-reference.com/boxscores/201109180atl.htm
+2011,2011-09-18,mLspw4gJNTQGN,Atlanta,Falcons,ATL,29,138,1,17,28,,195,4,2,91.518,180,318,4,15,0,0,2,7,57,20,6,13,0.462,0,0,0.0,1797,https://www.pro-football-reference.com/boxscores/201109180atl.htm
+2011,2011-09-19,u98I1lDKQBwZ0,Los Angeles,Rams,LA,19,59,0,22,46,,331,1,0,79.167,308,367,2,23,4,2,2,7,62,14,5,17,0.294,1,1,1.0,1548,https://www.pro-football-reference.com/boxscores/201109190nyg.htm
+2011,2011-09-19,n8CuHV9wbYCqF,New York,Giants,NYG,38,119,1,19,30,,223,2,1,94.167,204,323,3,19,0,0,1,5,55,22,5,15,0.333,1,2,0.5,2052,https://www.pro-football-reference.com/boxscores/201109190nyg.htm
+2011,2011-09-25,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,34,128,0,12,21,,139,1,1,73.313,129,257,2,10,5,0,1,8,60,13,3,14,0.214,1,2,0.5,1826,https://www.pro-football-reference.com/boxscores/201109250car.htm
+2011,2011-09-25,jJBGuksuDJF5L,Carolina,Panthers,CAR,28,107,0,18,34,,158,1,0,75.368,158,265,0,0,0,0,0,8,69,16,6,16,0.375,0,0,0.0,1774,https://www.pro-football-reference.com/boxscores/201109250car.htm
+2011,2011-09-25,IwSI92ZDKoazn,San Francisco,49ers,SF,29,50,1,20,30,,201,0,0,85.556,176,226,5,25,3,1,1,12,70,16,5,15,0.333,0,1,0.0,2120,https://www.pro-football-reference.com/boxscores/201109250cin.htm
+2011,2011-09-25,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,20,79,0,17,32,,157,0,2,40.755,149,228,1,8,1,1,3,6,40,14,1,10,0.1,0,0,0.0,1480,https://www.pro-football-reference.com/boxscores/201109250cin.htm
+2011,2011-09-25,mfbu6O5aMHbJg,Miami,Dolphins,MIA,38,138,0,19,29,,255,1,1,90.445,231,369,5,24,2,1,2,10,93,22,4,13,0.308,1,2,0.5,2271,https://www.pro-football-reference.com/boxscores/201109250cle.htm
+2011,2011-09-25,IR4gIYmh269EI,Cleveland,Browns,CLE,19,70,0,19,39,,210,2,1,71.528,210,280,0,0,0,0,1,8,85,19,3,11,0.273,1,1,1.0,1329,https://www.pro-football-reference.com/boxscores/201109250cle.htm
+2011,2011-09-25,6DclFuycdPaOB,Denver,Broncos,DEN,23,59,0,24,39,,173,2,2,67.575,172,231,1,1,0,0,2,1,15,19,8,15,0.533,0,1,0.0,1746,https://www.pro-football-reference.com/boxscores/201109250oti.htm
+2011,2011-09-25,ltMyRE3yvVUaw,Tennessee,Titans,TEN,23,38,0,27,36,,311,2,0,119.097,295,333,2,16,3,2,2,11,80,17,8,15,0.533,1,1,1.0,1854,https://www.pro-football-reference.com/boxscores/201109250oti.htm
+2011,2011-09-25,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,109,0,22,39,,373,3,1,103.9,364,473,2,9,0,0,1,7,56,21,6,14,0.429,0,1,0.0,1806,https://www.pro-football-reference.com/boxscores/201109250nor.htm
+2011,2011-09-25,CI5mhfNa0Zqd2,New Orleans,Saints,NO,22,100,2,31,44,,370,3,2,99.621,354,454,2,16,0,0,2,4,26,27,8,13,0.615,0,0,0.0,1794,https://www.pro-football-reference.com/boxscores/201109250nor.htm
+2011,2011-09-25,VkxV91RtzHn65,New England,Patriots,NE,26,108,0,30,45,,387,4,4,86.065,387,495,0,0,0,0,4,8,93,30,3,9,0.333,2,2,1.0,1875,https://www.pro-football-reference.com/boxscores/201109250buf.htm
+2011,2011-09-25,3VqeLK0LS9rpw,Buffalo,Bills,BUF,20,79,1,27,40,,369,2,2,92.604,369,448,0,0,0,0,2,9,77,24,4,11,0.364,0,1,0.0,1725,https://www.pro-football-reference.com/boxscores/201109250buf.htm
+2011,2011-09-25,n8CuHV9wbYCqF,New York,Giants,NYG,25,102,0,16,23,,254,4,0,145.652,232,334,3,22,0,0,0,4,21,14,5,12,0.417,0,1,0.0,1389,https://www.pro-football-reference.com/boxscores/201109250phi.htm
+2011,2011-09-25,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,40,177,1,20,30,,211,0,3,47.361,199,376,2,12,3,0,3,7,36,25,7,15,0.467,1,2,0.5,2211,https://www.pro-football-reference.com/boxscores/201109250phi.htm
+2011,2011-09-25,FCuH1wdksA2DQ,Detroit,Lions,DET,19,20,0,32,46,,378,2,0,108.786,338,358,5,40,1,0,0,7,65,19,7,17,0.412,0,0,0.0,2049,https://www.pro-football-reference.com/boxscores/201109250min.htm
+2011,2011-09-25,AzOs5UWsXusSW,Minnesota,Vikings,MIN,23,132,1,22,36,,211,1,0,86.69,189,321,4,22,1,0,0,10,79,16,4,14,0.286,0,1,0.0,1670,https://www.pro-football-reference.com/boxscores/201109250min.htm
+2011,2011-09-25,mexvMWO2v1hWn,New York,Jets,NYJ,25,100,1,27,44,,369,2,1,93.845,339,439,4,30,1,1,2,7,61,25,6,14,0.429,0,2,0.0,2000,https://www.pro-football-reference.com/boxscores/201109250rai.htm
+2011,2011-09-25,LZoDld8s63xUs,Las Vegas,Raiders,LV,32,234,4,18,27,,156,0,0,81.713,149,383,1,7,0,0,0,7,55,23,0,8,0.0,0,0,0.0,1600,https://www.pro-football-reference.com/boxscores/201109250rai.htm
+2011,2011-09-25,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,81,0,17,24,,176,2,1,102.083,171,252,1,5,1,0,1,7,65,13,5,12,0.417,1,1,1.0,1517,https://www.pro-football-reference.com/boxscores/201109250sdg.htm
+2011,2011-09-25,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,30,117,2,24,38,,266,0,2,61.952,258,375,2,8,2,0,2,4,40,22,8,14,0.571,0,1,0.0,2083,https://www.pro-football-reference.com/boxscores/201109250sdg.htm
+2011,2011-09-25,zyhFXj1nywrm1,Baltimore,Ravens,BAL,26,168,0,27,48,,389,3,0,103.559,385,553,2,4,3,1,1,5,32,25,6,15,0.4,1,1,1.0,1871,https://www.pro-football-reference.com/boxscores/201109250ram.htm
+2011,2011-09-25,u98I1lDKQBwZ0,Los Angeles,Rams,LA,26,112,0,16,32,,166,1,1,62.76,132,244,5,34,2,1,2,8,117,17,4,14,0.286,0,1,0.0,1729,https://www.pro-football-reference.com/boxscores/201109250ram.htm
+2011,2011-09-25,D5QY6bOxfn8ZL,Green Bay,Packers,GB,29,100,0,28,38,,297,3,1,111.404,292,392,2,5,2,1,2,7,35,24,5,13,0.385,0,0,0.0,2249,https://www.pro-football-reference.com/boxscores/201109250chi.htm
+2011,2011-09-25,1vVmWGzUZ1rea,Chicago,Bears,CHI,12,13,0,21,37,,302,2,2,78.885,278,291,3,24,2,0,2,10,70,12,3,12,0.25,0,1,0.0,1351,https://www.pro-football-reference.com/boxscores/201109250chi.htm
+2011,2011-09-25,GJizlkzQFaqGA,Arizona,Cardinals,ARI,28,90,0,25,39,,252,1,2,69.605,234,324,3,18,3,0,2,2,20,20,3,14,0.214,1,1,1.0,1909,https://www.pro-football-reference.com/boxscores/201109250sea.htm
+2011,2011-09-25,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,30,122,1,18,31,,171,0,1,60.013,139,261,4,32,1,0,1,8,39,16,6,16,0.375,0,0,0.0,1691,https://www.pro-football-reference.com/boxscores/201109250sea.htm
+2011,2011-09-25,mLspw4gJNTQGN,Atlanta,Falcons,ATL,15,30,0,26,47,,330,1,1,75.665,295,325,4,35,2,2,3,7,50,21,5,13,0.385,0,1,0.0,1448,https://www.pro-football-reference.com/boxscores/201109250tam.htm
+2011,2011-09-25,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,36,115,1,22,32,,180,0,2,56.771,180,295,0,0,0,0,2,9,66,20,5,14,0.357,1,1,1.0,2152,https://www.pro-football-reference.com/boxscores/201109250tam.htm
+2011,2011-09-25,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,67,0,25,37,,364,1,1,97.128,341,408,3,23,2,2,3,4,38,19,8,15,0.533,0,0,0.0,2038,https://www.pro-football-reference.com/boxscores/201109250clt.htm
+2011,2011-09-25,LJmHetie5VbbO,Indianapolis,Colts,IND,21,97,1,18,40,,153,0,0,55.521,144,241,1,9,1,1,1,3,21,14,7,16,0.438,0,0,0.0,1562,https://www.pro-football-reference.com/boxscores/201109250clt.htm
+2011,2011-09-26,9JtBk8kFeaGEs,Washington,Football Team,WAS,22,65,0,22,37,,250,1,1,77.534,233,298,3,17,1,1,2,4,35,20,3,12,0.25,0,0,0.0,1704,https://www.pro-football-reference.com/boxscores/201109260dal.htm
+2011,2011-09-26,KdjU81i7YSFE7,Dallas,Cowboys,DAL,26,125,0,22,36,,255,0,1,70.949,250,375,1,5,6,1,2,6,55,17,3,13,0.231,0,0,0.0,1896,https://www.pro-football-reference.com/boxscores/201109260dal.htm
+2011,2011-10-02,9JtBk8kFeaGEs,Washington,Football Team,WAS,40,196,1,15,29,,143,1,2,48.491,143,339,0,0,3,0,2,10,96,16,9,18,0.5,0,0,0.0,2110,https://www.pro-football-reference.com/boxscores/201110020ram.htm
+2011,2011-10-02,u98I1lDKQBwZ0,Los Angeles,Rams,LA,17,45,0,20,43,,164,1,0,64.486,127,172,7,37,4,1,1,9,65,14,6,18,0.333,1,2,0.5,1490,https://www.pro-football-reference.com/boxscores/201110020ram.htm
+2011,2011-10-02,FCuH1wdksA2DQ,Detroit,Lions,DET,17,63,0,21,43,,240,2,1,71.851,240,303,0,0,0,0,1,10,75,18,4,13,0.308,0,0,0.0,1401,https://www.pro-football-reference.com/boxscores/201110020dal.htm
+2011,2011-10-02,KdjU81i7YSFE7,Dallas,Cowboys,DAL,27,113,0,34,47,,331,3,3,86.392,321,434,1,10,0,0,3,7,33,25,5,13,0.385,0,2,0.0,2199,https://www.pro-football-reference.com/boxscores/201110020dal.htm
+2011,2011-10-02,AzOs5UWsXusSW,Minnesota,Vikings,MIN,30,151,0,18,30,,202,2,1,88.472,190,341,2,12,1,0,1,6,45,17,5,14,0.357,2,3,0.667,1930,https://www.pro-football-reference.com/boxscores/201110020kan.htm
+2011,2011-10-02,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,28,103,0,18,29,,260,1,0,102.658,247,350,3,13,0,0,0,6,57,15,6,15,0.4,0,0,0.0,1670,https://www.pro-football-reference.com/boxscores/201110020kan.htm
+2011,2011-10-02,3VqeLK0LS9rpw,Buffalo,Bills,BUF,21,83,1,20,34,,199,0,0,75.49,190,273,1,9,0,0,0,4,26,12,4,14,0.286,0,0,0.0,1719,https://www.pro-football-reference.com/boxscores/201110020cin.htm
+2011,2011-10-02,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,32,171,1,18,36,,298,1,2,64.352,287,458,2,11,1,0,2,3,15,25,5,12,0.417,0,0,0.0,1881,https://www.pro-football-reference.com/boxscores/201110020cin.htm
+2011,2011-10-02,ltMyRE3yvVUaw,Tennessee,Titans,TEN,29,112,0,10,21,,220,3,1,105.159,220,332,0,0,0,0,1,5,45,13,4,12,0.333,0,0,0.0,1387,https://www.pro-football-reference.com/boxscores/201110020cle.htm
+2011,2011-10-02,IR4gIYmh269EI,Cleveland,Browns,CLE,22,84,0,40,61,,350,1,1,79.269,332,416,4,18,1,0,1,5,40,25,8,20,0.4,2,5,0.4,2213,https://www.pro-football-reference.com/boxscores/201110020cle.htm
+2011,2011-10-02,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,22,118,1,16,30,,206,0,1,61.25,178,296,5,28,0,0,1,5,45,20,5,12,0.417,0,1,0.0,1697,https://www.pro-football-reference.com/boxscores/201110020htx.htm
+2011,2011-10-02,UI0Ax4HUEXFh6,Houston,Texans,HOU,35,180,1,14,21,,138,1,0,100.893,138,318,0,0,1,0,0,9,64,17,6,12,0.5,0,0,0.0,1903,https://www.pro-football-reference.com/boxscores/201110020htx.htm
+2011,2011-10-02,CI5mhfNa0Zqd2,New Orleans,Saints,NO,34,177,1,31,44,,351,1,2,82.67,326,503,3,25,0,0,2,6,50,30,7,14,0.5,1,1,1.0,2225,https://www.pro-football-reference.com/boxscores/201110020jax.htm
+2011,2011-10-02,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,17,104,0,16,42,,196,1,1,51.29,170,274,3,26,1,0,1,2,15,15,4,15,0.267,0,4,0.0,1375,https://www.pro-football-reference.com/boxscores/201110020jax.htm
+2011,2011-10-02,IwSI92ZDKoazn,San Francisco,49ers,SF,25,164,1,21,33,,291,2,0,112.058,278,442,3,13,2,1,1,5,40,22,5,12,0.417,0,0,0.0,1732,https://www.pro-football-reference.com/boxscores/201110020phi.htm
+2011,2011-10-02,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,20,108,0,30,46,,416,2,1,99.547,405,513,2,11,2,2,3,5,55,23,5,13,0.385,0,0,0.0,1868,https://www.pro-football-reference.com/boxscores/201110020phi.htm
+2011,2011-10-02,jJBGuksuDJF5L,Carolina,Panthers,CAR,26,169,2,27,46,,374,1,1,83.062,374,543,0,0,1,0,1,8,52,24,2,12,0.167,1,2,0.5,2009,https://www.pro-football-reference.com/boxscores/201110020chi.htm
+2011,2011-10-02,1vVmWGzUZ1rea,Chicago,Bears,CHI,31,224,2,9,17,,102,0,1,46.691,93,317,1,9,0,0,1,5,45,15,3,10,0.3,1,1,1.0,1591,https://www.pro-football-reference.com/boxscores/201110020chi.htm
+2011,2011-10-02,mLspw4gJNTQGN,Atlanta,Falcons,ATL,36,121,2,28,42,,291,1,0,94.444,291,412,0,0,0,0,0,4,35,25,9,16,0.562,0,0,0.0,2410,https://www.pro-football-reference.com/boxscores/201110020sea.htm
+2011,2011-10-02,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,15,53,1,25,38,,319,3,2,96.272,319,372,0,0,0,0,2,6,40,20,6,11,0.545,0,0,0.0,1190,https://www.pro-football-reference.com/boxscores/201110020sea.htm
+2011,2011-10-02,n8CuHV9wbYCqF,New York,Giants,NYG,24,54,2,27,40,,321,2,0,108.438,306,360,1,15,2,2,2,7,55,24,6,13,0.462,0,0,0.0,1681,https://www.pro-football-reference.com/boxscores/201110020crd.htm
+2011,2011-10-02,GJizlkzQFaqGA,Arizona,Cardinals,ARI,32,156,3,20,34,,237,0,1,67.892,212,368,4,25,2,1,2,11,118,22,3,12,0.25,1,2,0.5,1919,https://www.pro-football-reference.com/boxscores/201110020crd.htm
+2011,2011-10-02,6DclFuycdPaOB,Denver,Broncos,DEN,23,119,0,22,32,,273,3,3,87.109,265,384,1,8,1,1,4,3,24,18,4,11,0.364,1,1,1.0,1619,https://www.pro-football-reference.com/boxscores/201110020gnb.htm
+2011,2011-10-02,D5QY6bOxfn8ZL,Green Bay,Packers,GB,28,111,2,29,39,,408,4,2,120.459,396,507,2,12,0,0,2,3,27,26,9,13,0.692,0,1,0.0,1981,https://www.pro-football-reference.com/boxscores/201110020gnb.htm
+2011,2011-10-02,mfbu6O5aMHbJg,Miami,Dolphins,MIA,22,72,1,20,30,,194,0,2,56.806,176,248,3,18,0,0,2,2,41,16,3,10,0.3,0,0,0.0,1602,https://www.pro-football-reference.com/boxscores/201110020sdg.htm
+2011,2011-10-02,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,28,116,1,21,31,,307,1,0,110.551,295,411,2,12,2,0,0,8,80,21,7,14,0.5,0,0,0.0,1998,https://www.pro-football-reference.com/boxscores/201110020sdg.htm
+2011,2011-10-02,VkxV91RtzHn65,New England,Patriots,NE,30,183,2,16,30,,226,2,0,100.139,226,409,1,0,0,0,0,5,45,25,4,9,0.444,0,1,0.0,1600,https://www.pro-football-reference.com/boxscores/201110020rai.htm
+2011,2011-10-02,LZoDld8s63xUs,Las Vegas,Raiders,LV,27,160,1,25,39,,344,1,2,79.434,344,504,0,0,1,0,2,9,85,24,8,13,0.615,0,1,0.0,2000,https://www.pro-football-reference.com/boxscores/201110020rai.htm
+2011,2011-10-02,mexvMWO2v1hWn,New York,Jets,NYJ,19,38,0,11,35,,119,0,1,30.536,112,150,2,7,5,3,4,9,69,7,4,15,0.267,0,1,0.0,1352,https://www.pro-football-reference.com/boxscores/201110020rav.htm
+2011,2011-10-02,zyhFXj1nywrm1,Baltimore,Ravens,BAL,40,112,1,10,31,,163,0,1,37.433,155,267,2,8,3,2,3,7,46,16,6,18,0.333,0,0,0.0,2248,https://www.pro-football-reference.com/boxscores/201110020rav.htm
+2011,2011-10-03,LJmHetie5VbbO,Indianapolis,Colts,IND,18,62,0,13,30,,281,2,0,99.444,256,318,4,25,1,1,1,6,50,13,4,13,0.308,0,0,0.0,1260,https://www.pro-football-reference.com/boxscores/201110030tam.htm
+2011,2011-10-03,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,36,192,2,25,39,,287,1,0,94.712,274,466,2,13,0,0,0,14,106,25,7,17,0.412,2,2,1.0,2340,https://www.pro-football-reference.com/boxscores/201110030tam.htm
+2011,2011-10-09,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,31,77,1,21,33,,179,2,1,85.29,162,239,2,17,1,0,1,4,33,13,8,19,0.421,2,3,0.667,1953,https://www.pro-football-reference.com/boxscores/201110090jax.htm
+2011,2011-10-09,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,27,96,1,15,28,,221,1,0,91.518,200,296,3,21,4,2,2,2,15,12,6,16,0.375,0,0,0.0,1647,https://www.pro-football-reference.com/boxscores/201110090jax.htm
+2011,2011-10-09,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,38,194,0,21,29,,257,4,0,138.937,242,436,2,15,1,0,0,5,39,26,8,14,0.571,0,0,0.0,1987,https://www.pro-football-reference.com/boxscores/201110090clt.htm
+2011,2011-10-09,LJmHetie5VbbO,Indianapolis,Colts,IND,27,78,1,15,27,,277,2,0,115.818,277,355,0,0,0,0,0,4,40,15,5,12,0.417,0,1,0.0,1613,https://www.pro-football-reference.com/boxscores/201110090clt.htm
+2011,2011-10-09,LZoDld8s63xUs,Las Vegas,Raiders,LV,22,94,0,15,35,,190,2,1,67.56,184,278,3,6,1,0,1,11,89,11,3,15,0.2,1,1,1.0,1535,https://www.pro-football-reference.com/boxscores/201110090htx.htm
+2011,2011-10-09,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,70,0,24,51,,416,2,2,72.018,403,473,3,13,1,0,2,6,50,21,8,20,0.4,0,0,0.0,2065,https://www.pro-football-reference.com/boxscores/201110090htx.htm
+2011,2011-10-09,ltMyRE3yvVUaw,Tennessee,Titans,TEN,18,66,1,29,49,,262,1,1,71.981,240,306,3,22,1,0,1,9,70,20,7,15,0.467,1,2,0.5,1658,https://www.pro-football-reference.com/boxscores/201110090pit.htm
+2011,2011-10-09,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,174,0,25,35,,261,5,1,120.357,257,431,1,4,0,0,1,5,51,26,7,12,0.583,1,1,1.0,1942,https://www.pro-football-reference.com/boxscores/201110090pit.htm
+2011,2011-10-09,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,20,174,1,26,40,,315,2,4,66.146,315,489,0,0,1,1,5,5,46,24,2,9,0.222,1,1,1.0,1582,https://www.pro-football-reference.com/boxscores/201110090buf.htm
+2011,2011-10-09,3VqeLK0LS9rpw,Buffalo,Bills,BUF,35,143,2,21,27,,193,1,1,93.364,188,331,1,5,0,0,1,4,40,21,6,14,0.429,0,0,0.0,2018,https://www.pro-football-reference.com/boxscores/201110090buf.htm
+2011,2011-10-09,CI5mhfNa0Zqd2,New Orleans,Saints,NO,28,101,1,32,45,,359,2,1,100.139,343,444,2,16,0,0,1,9,82,27,12,17,0.706,0,0,0.0,2080,https://www.pro-football-reference.com/boxscores/201110090car.htm
+2011,2011-10-09,jJBGuksuDJF5L,Carolina,Panthers,CAR,22,162,2,16,31,,224,2,1,83.266,219,381,1,5,1,0,1,7,65,20,7,12,0.583,0,0,0.0,1520,https://www.pro-football-reference.com/boxscores/201110090car.htm
+2011,2011-10-09,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,29,145,1,26,41,,315,2,1,93.039,279,424,6,36,3,2,3,10,70,26,4,15,0.267,1,1,1.0,1726,https://www.pro-football-reference.com/boxscores/201110090nyg.htm
+2011,2011-10-09,n8CuHV9wbYCqF,New York,Giants,NYG,25,69,0,24,39,,420,3,3,91.827,395,464,3,25,3,2,5,7,52,21,1,12,0.083,0,0,0.0,1874,https://www.pro-football-reference.com/boxscores/201110090nyg.htm
+2011,2011-10-09,GJizlkzQFaqGA,Arizona,Cardinals,ARI,24,77,1,23,48,,254,0,3,38.021,214,291,4,40,2,1,4,6,64,18,8,18,0.444,2,4,0.5,1861,https://www.pro-football-reference.com/boxscores/201110090min.htm
+2011,2011-10-09,AzOs5UWsXusSW,Minnesota,Vikings,MIN,37,172,4,10,21,,169,0,0,75.298,160,332,1,9,1,1,1,5,35,20,3,10,0.3,0,0,0.0,1739,https://www.pro-football-reference.com/boxscores/201110090min.htm
+2011,2011-10-09,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,23,86,0,18,35,,194,0,2,44.226,186,272,3,8,1,1,3,9,96,14,7,16,0.438,0,1,0.0,1738,https://www.pro-football-reference.com/boxscores/201110090sfo.htm
+2011,2011-10-09,IwSI92ZDKoazn,San Francisco,49ers,SF,36,213,2,14,22,,205,3,0,133.523,205,418,0,0,1,1,1,3,30,28,2,7,0.286,1,1,1.0,1862,https://www.pro-football-reference.com/boxscores/201110090sfo.htm
+2011,2011-10-09,mexvMWO2v1hWn,New York,Jets,NYJ,25,97,1,16,26,,166,2,0,105.609,158,255,2,8,0,0,0,8,89,14,3,11,0.273,0,0,0.0,1565,https://www.pro-football-reference.com/boxscores/201110090nwe.htm
+2011,2011-10-09,VkxV91RtzHn65,New England,Patriots,NE,35,152,2,24,33,,321,1,1,100.694,294,446,4,27,1,0,1,6,50,26,7,14,0.5,0,0,0.0,2035,https://www.pro-football-reference.com/boxscores/201110090nwe.htm
+2011,2011-10-09,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,43,206,1,18,29,,250,1,1,86.853,212,418,5,38,2,1,2,0,0,25,8,16,0.5,0,0,0.0,2408,https://www.pro-football-reference.com/boxscores/201110090den.htm
+2011,2011-10-09,6DclFuycdPaOB,Denver,Broncos,DEN,23,162,1,10,23,,113,1,1,55.163,113,275,0,0,0,0,1,4,53,13,2,9,0.222,0,0,0.0,1192,https://www.pro-football-reference.com/boxscores/201110090den.htm
+2011,2011-10-09,D5QY6bOxfn8ZL,Green Bay,Packers,GB,20,57,0,26,39,,396,2,0,117.041,369,426,4,27,1,1,1,6,55,19,9,15,0.6,0,0,0.0,1991,https://www.pro-football-reference.com/boxscores/201110090atl.htm
+2011,2011-10-09,mLspw4gJNTQGN,Atlanta,Falcons,ATL,22,95,1,18,32,,167,1,2,55.078,156,251,1,11,0,0,2,5,44,18,5,11,0.455,0,0,0.0,1609,https://www.pro-football-reference.com/boxscores/201110090atl.htm
+2011,2011-10-10,1vVmWGzUZ1rea,Chicago,Bears,CHI,25,122,0,28,38,,249,1,0,99.561,237,359,3,12,0,0,0,14,104,23,4,13,0.308,0,1,0.0,2343,https://www.pro-football-reference.com/boxscores/201110100det.htm
+2011,2011-10-10,FCuH1wdksA2DQ,Detroit,Lions,DET,20,181,1,19,26,,219,2,1,107.692,214,395,1,5,1,0,1,12,94,16,5,11,0.455,0,0,0.0,1257,https://www.pro-football-reference.com/boxscores/201110100det.htm
+2011,2011-10-16,jJBGuksuDJF5L,Carolina,Panthers,CAR,26,139,2,21,35,,237,0,3,44.583,229,368,1,8,2,0,3,7,85,24,8,12,0.667,1,1,1.0,1766,https://www.pro-football-reference.com/boxscores/201110160atl.htm
+2011,2011-10-16,mLspw4gJNTQGN,Atlanta,Falcons,ATL,35,166,3,14,22,,163,1,0,101.136,159,325,1,4,0,0,0,4,57,24,7,11,0.636,0,0,0.0,1834,https://www.pro-football-reference.com/boxscores/201110160atl.htm
+2011,2011-10-16,3VqeLK0LS9rpw,Buffalo,Bills,BUF,23,155,1,21,30,,244,2,2,88.75,219,374,3,25,1,0,2,7,75,17,5,11,0.455,1,2,0.5,1753,https://www.pro-football-reference.com/boxscores/201110160nyg.htm
+2011,2011-10-16,n8CuHV9wbYCqF,New York,Giants,NYG,33,122,3,21,32,,292,0,0,94.792,292,414,0,0,0,0,0,7,79,24,5,11,0.455,0,0,0.0,1847,https://www.pro-football-reference.com/boxscores/201110160nyg.htm
+2011,2011-10-16,LJmHetie5VbbO,Indianapolis,Colts,IND,23,94,1,23,34,,188,1,1,79.044,179,273,1,9,2,2,3,2,11,18,6,12,0.5,0,0,0.0,1584,https://www.pro-football-reference.com/boxscores/201110160cin.htm
+2011,2011-10-16,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,31,94,1,25,32,,264,1,0,111.458,264,358,0,0,0,0,0,11,111,17,6,14,0.429,0,0,0.0,2016,https://www.pro-football-reference.com/boxscores/201110160cin.htm
+2011,2011-10-16,u98I1lDKQBwZ0,Los Angeles,Rams,LA,24,118,0,29,45,,328,0,1,76.898,306,424,3,22,2,0,1,7,45,22,3,13,0.231,1,4,0.25,1841,https://www.pro-football-reference.com/boxscores/201110160gnb.htm
+2011,2011-10-16,D5QY6bOxfn8ZL,Green Bay,Packers,GB,31,90,0,18,29,,316,3,1,119.325,309,399,1,7,0,0,1,3,16,20,4,13,0.308,1,1,1.0,1759,https://www.pro-football-reference.com/boxscores/201110160gnb.htm
+2011,2011-10-16,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,30,133,0,12,26,,109,1,0,70.833,76,209,5,33,0,0,0,4,22,16,4,15,0.267,1,1,1.0,1727,https://www.pro-football-reference.com/boxscores/201110160pit.htm
+2011,2011-10-16,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,32,185,1,12,23,,200,1,0,96.286,185,370,3,15,1,0,0,8,65,15,7,15,0.467,0,0,0.0,1873,https://www.pro-football-reference.com/boxscores/201110160pit.htm
+2011,2011-10-16,IwSI92ZDKoazn,San Francisco,49ers,SF,29,203,1,17,32,,125,1,1,60.026,111,314,2,14,1,1,2,15,120,14,2,14,0.143,1,1,1.0,1779,https://www.pro-football-reference.com/boxscores/201110160det.htm
+2011,2011-10-16,FCuH1wdksA2DQ,Detroit,Lions,DET,18,66,0,28,50,,293,2,0,86.5,244,310,5,49,2,0,0,6,54,21,2,15,0.133,1,2,0.5,1821,https://www.pro-football-reference.com/boxscores/201110160det.htm
+2011,2011-10-16,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,38,192,1,18,32,,237,1,2,64.193,230,422,2,7,0,0,2,8,60,22,6,16,0.375,1,2,0.5,2288,https://www.pro-football-reference.com/boxscores/201110160was.htm
+2011,2011-10-16,9JtBk8kFeaGEs,Washington,Football Team,WAS,14,42,1,17,37,,260,0,4,30.068,245,287,2,15,2,0,4,9,75,17,1,10,0.1,1,1,1.0,1312,https://www.pro-football-reference.com/boxscores/201110160was.htm
+2011,2011-10-16,IR4gIYmh269EI,Cleveland,Browns,CLE,21,65,0,21,45,,215,2,0,75.694,203,268,2,12,1,1,1,5,34,18,8,16,0.5,0,1,0.0,1519,https://www.pro-football-reference.com/boxscores/201110160rai.htm
+2011,2011-10-16,LZoDld8s63xUs,Las Vegas,Raiders,LV,40,151,1,15,24,,187,1,0,100.521,178,329,2,9,3,1,1,5,35,18,8,16,0.5,2,3,0.667,2081,https://www.pro-football-reference.com/boxscores/201110160rai.htm
+2011,2011-10-16,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,93,0,21,37,,220,1,0,83.164,200,293,4,20,2,0,0,5,15,18,6,16,0.375,0,3,0.0,1668,https://www.pro-football-reference.com/boxscores/201110160rav.htm
+2011,2011-10-16,zyhFXj1nywrm1,Baltimore,Ravens,BAL,30,113,2,20,33,,305,0,1,78.472,289,402,2,16,1,1,2,5,25,24,3,11,0.273,0,0,0.0,1932,https://www.pro-football-reference.com/boxscores/201110160rav.htm
+2011,2011-10-16,KdjU81i7YSFE7,Dallas,Cowboys,DAL,24,77,0,27,41,,317,1,1,87.144,300,377,2,17,1,1,2,10,77,21,4,12,0.333,0,0,0.0,1969,https://www.pro-football-reference.com/boxscores/201110160nwe.htm
+2011,2011-10-16,VkxV91RtzHn65,New England,Patriots,NE,25,101,0,27,41,,289,2,2,82.266,270,371,3,19,2,2,4,5,35,25,8,13,0.615,0,0,0.0,1631,https://www.pro-football-reference.com/boxscores/201110160nwe.htm
+2011,2011-10-16,CI5mhfNa0Zqd2,New Orleans,Saints,NO,20,70,1,29,45,,383,1,3,70.88,383,453,0,0,1,1,4,7,53,20,5,12,0.417,0,1,0.0,1713,https://www.pro-football-reference.com/boxscores/201110160tam.htm
+2011,2011-10-16,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,25,117,0,23,41,,303,2,0,95.884,303,420,0,0,0,0,0,7,64,21,4,14,0.286,0,0,0.0,1887,https://www.pro-football-reference.com/boxscores/201110160tam.htm
+2011,2011-10-16,AzOs5UWsXusSW,Minnesota,Vikings,MIN,17,53,1,28,42,,276,0,0,85.02,233,286,5,43,0,0,0,5,40,15,6,15,0.4,0,2,0.0,1760,https://www.pro-football-reference.com/boxscores/201110160chi.htm
+2011,2011-10-16,1vVmWGzUZ1rea,Chicago,Bears,CHI,28,119,1,21,31,,267,2,0,115.927,258,377,1,9,2,1,1,3,15,22,4,11,0.364,0,0,0.0,1840,https://www.pro-football-reference.com/boxscores/201110160chi.htm
+2011,2011-10-17,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,118,0,16,34,,204,0,2,41.789,190,308,4,14,5,1,3,2,10,17,2,13,0.154,0,1,0.0,1779,https://www.pro-football-reference.com/boxscores/201110170nyj.htm
+2011,2011-10-17,mexvMWO2v1hWn,New York,Jets,NYJ,29,104,1,14,25,,201,1,0,95.583,192,296,2,9,2,1,1,6,49,13,6,15,0.4,0,0,0.0,1821,https://www.pro-football-reference.com/boxscores/201110170nyj.htm
+2011,2011-10-23,6DclFuycdPaOB,Denver,Broncos,DEN,40,177,0,13,27,,161,2,0,91.744,131,308,6,30,2,1,1,5,30,18,4,16,0.25,0,0,0.0,2057,https://www.pro-football-reference.com/boxscores/201110230mia.htm
+2011,2011-10-23,mfbu6O5aMHbJg,Miami,Dolphins,MIA,31,94,0,22,33,,197,1,0,92.614,173,267,4,24,2,1,1,2,20,15,3,14,0.214,0,0,0.0,1999,https://www.pro-football-reference.com/boxscores/201110230mia.htm
+2011,2011-10-23,UI0Ax4HUEXFh6,Houston,Texans,HOU,47,222,2,18,23,,296,2,0,147.736,296,518,0,0,0,0,0,6,68,29,7,13,0.538,0,2,0.0,2278,https://www.pro-football-reference.com/boxscores/201110230oti.htm
+2011,2011-10-23,ltMyRE3yvVUaw,Tennessee,Titans,TEN,15,53,0,15,31,,116,1,2,41.868,95,148,2,21,2,0,2,8,76,11,2,10,0.2,1,1,1.0,1322,https://www.pro-football-reference.com/boxscores/201110230oti.htm
+2011,2011-10-23,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,25,96,1,16,32,,179,1,2,51.432,172,268,1,7,0,0,2,13,95,16,7,14,0.5,0,1,0.0,1634,https://www.pro-football-reference.com/boxscores/201110230nyj.htm
+2011,2011-10-23,mexvMWO2v1hWn,New York,Jets,NYJ,31,162,0,18,33,,173,3,1,87.058,156,318,2,17,1,1,2,8,60,25,8,13,0.615,0,0,0.0,1966,https://www.pro-football-reference.com/boxscores/201110230nyj.htm
+2011,2011-10-23,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,16,68,0,12,30,,97,0,1,35.0,69,137,4,28,2,1,2,8,68,9,2,12,0.167,0,1,0.0,1024,https://www.pro-football-reference.com/boxscores/201110230cle.htm
+2011,2011-10-23,IR4gIYmh269EI,Cleveland,Browns,CLE,45,139,0,20,35,,178,0,1,58.988,159,298,4,19,1,0,1,7,48,20,12,24,0.5,0,0,0.0,2576,https://www.pro-football-reference.com/boxscores/201110230cle.htm
+2011,2011-10-23,mLspw4gJNTQGN,Atlanta,Falcons,ATL,31,129,1,20,35,,218,1,2,61.369,199,328,3,19,0,0,2,11,80,22,7,17,0.412,0,0,0.0,2097,https://www.pro-football-reference.com/boxscores/201110230det.htm
+2011,2011-10-23,FCuH1wdksA2DQ,Detroit,Lions,DET,20,104,0,15,32,,183,1,0,75.391,159,263,3,24,2,1,1,10,84,13,1,12,0.083,1,2,0.5,1503,https://www.pro-football-reference.com/boxscores/201110230det.htm
+2011,2011-10-23,9JtBk8kFeaGEs,Washington,Football Team,WAS,23,92,1,22,37,,279,1,1,80.8,261,353,3,18,2,2,3,3,26,22,5,12,0.417,0,2,0.0,1470,https://www.pro-football-reference.com/boxscores/201110230car.htm
+2011,2011-10-23,jJBGuksuDJF5L,Carolina,Panthers,CAR,37,175,2,18,23,,256,1,0,127.536,232,407,4,24,1,0,0,13,105,20,5,12,0.417,0,0,0.0,2130,https://www.pro-football-reference.com/boxscores/201110230car.htm
+2011,2011-10-23,1vVmWGzUZ1rea,Chicago,Bears,CHI,33,177,2,17,32,,226,1,2,60.156,218,395,2,8,0,0,2,7,54,19,4,13,0.308,0,0,0.0,1992,https://www.pro-football-reference.com/boxscores/201110230tam.htm
+2011,2011-10-23,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,11,30,0,29,52,,264,2,4,50.481,250,280,1,14,1,0,4,8,69,16,4,14,0.286,0,0,0.0,1608,https://www.pro-football-reference.com/boxscores/201110230tam.htm
+2011,2011-10-23,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,91,0,26,39,,361,3,0,121.848,354,445,2,7,0,0,0,9,69,26,6,12,0.5,0,0,0.0,2147,https://www.pro-football-reference.com/boxscores/201110230crd.htm
+2011,2011-10-23,GJizlkzQFaqGA,Arizona,Cardinals,ARI,19,73,1,18,34,,272,2,1,86.887,257,330,2,15,0,0,1,9,74,23,3,8,0.375,1,1,1.0,1453,https://www.pro-football-reference.com/boxscores/201110230crd.htm
+2011,2011-10-23,u98I1lDKQBwZ0,Los Angeles,Rams,LA,21,70,1,20,33,,196,0,1,64.71,195,265,1,1,2,1,2,4,16,13,5,13,0.385,0,2,0.0,1564,https://www.pro-football-reference.com/boxscores/201110230dal.htm
+2011,2011-10-23,KdjU81i7YSFE7,Dallas,Cowboys,DAL,34,294,2,14,24,,166,2,0,107.292,151,445,2,15,1,1,1,6,30,24,3,8,0.375,0,0,0.0,2036,https://www.pro-football-reference.com/boxscores/201110230dal.htm
+2011,2011-10-23,D5QY6bOxfn8ZL,Green Bay,Packers,GB,26,114,0,24,30,,335,3,0,146.528,307,421,4,28,1,1,1,6,44,25,2,8,0.25,0,0,0.0,1926,https://www.pro-football-reference.com/boxscores/201110230min.htm
+2011,2011-10-23,AzOs5UWsXusSW,Minnesota,Vikings,MIN,31,218,1,13,32,,219,2,2,59.245,217,435,2,2,0,0,2,9,91,22,9,16,0.562,0,0,0.0,1674,https://www.pro-football-reference.com/boxscores/201110230min.htm
+2011,2011-10-23,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,39,139,2,15,30,,161,0,2,38.333,161,300,0,0,0,0,2,10,98,22,7,15,0.467,0,0,0.0,2017,https://www.pro-football-reference.com/boxscores/201110230rai.htm
+2011,2011-10-23,LZoDld8s63xUs,Las Vegas,Raiders,LV,27,155,0,15,35,,177,0,6,19.286,167,322,1,10,2,0,6,14,120,18,4,13,0.308,0,1,0.0,1583,https://www.pro-football-reference.com/boxscores/201110230rai.htm
+2011,2011-10-23,LJmHetie5VbbO,Indianapolis,Colts,IND,23,155,1,12,22,,102,0,1,47.917,97,252,1,5,2,2,3,7,49,11,4,11,0.364,0,0,0.0,1301,https://www.pro-football-reference.com/boxscores/201110230nor.htm
+2011,2011-10-23,CI5mhfNa0Zqd2,New Orleans,Saints,NO,38,236,2,31,35,,325,5,0,144.94,321,557,2,4,0,0,0,1,10,36,6,8,0.75,0,0,0.0,2299,https://www.pro-football-reference.com/boxscores/201110230nor.htm
+2011,2011-10-24,zyhFXj1nywrm1,Baltimore,Ravens,BAL,12,34,0,21,38,,137,1,1,60.965,112,146,3,25,2,1,2,10,85,11,2,12,0.167,0,0,0.0,1425,https://www.pro-football-reference.com/boxscores/201110240jax.htm
+2011,2011-10-24,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,42,132,0,9,20,,93,0,0,58.958,73,205,4,20,4,1,1,6,90,13,2,16,0.125,1,1,1.0,2175,https://www.pro-football-reference.com/boxscores/201110240jax.htm
+2011,2011-10-30,CI5mhfNa0Zqd2,New Orleans,Saints,NO,20,56,1,30,44,,269,1,2,73.011,227,283,6,42,0,0,2,5,32,8,8,17,0.471,1,1,1.0,1717,https://www.pro-football-reference.com/boxscores/201110300ram.htm
+2011,2011-10-30,u98I1lDKQBwZ0,Los Angeles,Rams,LA,31,183,2,20,37,,175,1,0,75.845,140,323,4,35,2,1,1,9,64,21,5,16,0.312,2,2,1.0,1883,https://www.pro-football-reference.com/boxscores/201110300ram.htm
+2011,2011-10-30,GJizlkzQFaqGA,Arizona,Cardinals,ARI,30,109,1,10,21,,153,1,1,68.155,98,207,6,55,1,0,1,12,92,17,2,11,0.182,1,1,1.0,1818,https://www.pro-football-reference.com/boxscores/201110300rav.htm
+2011,2011-10-30,zyhFXj1nywrm1,Baltimore,Ravens,BAL,26,107,3,31,51,,336,0,1,72.018,298,405,3,38,2,1,2,11,99,30,4,11,0.364,0,0,0.0,1782,https://www.pro-football-reference.com/boxscores/201110300rav.htm
+2011,2011-10-30,mfbu6O5aMHbJg,Miami,Dolphins,MIA,26,145,2,13,22,,138,0,1,58.523,101,246,5,37,0,0,1,4,30,18,5,13,0.385,1,2,0.5,1654,https://www.pro-football-reference.com/boxscores/201110300nyg.htm
+2011,2011-10-30,n8CuHV9wbYCqF,New York,Giants,NYG,23,58,0,31,45,,349,2,0,106.62,344,402,1,5,1,0,0,7,46,21,8,16,0.5,0,1,0.0,1946,https://www.pro-football-reference.com/boxscores/201110300nyg.htm
+2011,2011-10-30,LJmHetie5VbbO,Indianapolis,Colts,IND,26,158,1,26,49,,250,0,2,50.553,241,399,2,9,1,0,2,10,66,22,6,17,0.353,0,2,0.0,1712,https://www.pro-football-reference.com/boxscores/201110300oti.htm
+2011,2011-10-30,ltMyRE3yvVUaw,Tennessee,Titans,TEN,31,96,1,23,33,,224,1,0,98.548,215,311,1,9,0,0,0,3,40,17,7,17,0.412,0,0,0.0,1888,https://www.pro-football-reference.com/boxscores/201110300oti.htm
+2011,2011-10-30,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,25,84,1,10,32,,97,1,2,25.13,90,174,1,7,1,0,2,5,39,13,5,14,0.357,1,1,1.0,1481,https://www.pro-football-reference.com/boxscores/201110300htx.htm
+2011,2011-10-30,UI0Ax4HUEXFh6,Houston,Texans,HOU,39,156,2,16,30,,225,1,0,88.889,202,358,2,23,2,2,2,7,60,20,10,17,0.588,0,0,0.0,2119,https://www.pro-football-reference.com/boxscores/201110300htx.htm
+2011,2011-10-30,AzOs5UWsXusSW,Minnesota,Vikings,MIN,33,132,2,18,28,,236,1,0,102.679,229,361,4,7,2,1,1,4,43,22,7,14,0.5,0,0,0.0,1925,https://www.pro-football-reference.com/boxscores/201110300car.htm
+2011,2011-10-30,jJBGuksuDJF5L,Carolina,Panthers,CAR,27,140,0,22,35,,290,3,0,117.56,265,405,3,25,3,2,2,6,60,21,6,12,0.5,1,1,1.0,1675,https://www.pro-football-reference.com/boxscores/201110300car.htm
+2011,2011-10-30,9JtBk8kFeaGEs,Washington,Football Team,WAS,11,26,0,20,33,,208,0,2,53.598,152,178,10,56,1,0,2,4,59,10,4,14,0.286,0,2,0.0,1509,https://www.pro-football-reference.com/boxscores/201110300buf.htm
+2011,2011-10-30,3VqeLK0LS9rpw,Buffalo,Bills,BUF,33,138,0,21,27,,262,2,1,116.358,252,390,2,10,1,1,2,6,35,17,7,14,0.5,0,0,0.0,2091,https://www.pro-football-reference.com/boxscores/201110300buf.htm
+2011,2011-10-30,FCuH1wdksA2DQ,Detroit,Lions,DET,28,113,1,22,32,,272,3,0,126.042,263,376,2,9,0,0,0,4,45,21,4,12,0.333,0,0,0.0,1774,https://www.pro-football-reference.com/boxscores/201110300den.htm
+2011,2011-10-30,6DclFuycdPaOB,Denver,Broncos,DEN,30,195,0,18,39,,172,1,1,56.784,117,312,7,55,5,2,3,5,55,19,2,14,0.143,0,3,0.0,1826,https://www.pro-football-reference.com/boxscores/201110300den.htm
+2011,2011-10-30,IR4gIYmh269EI,Cleveland,Browns,CLE,23,66,0,22,34,,241,1,1,83.088,224,290,4,17,5,1,2,5,39,18,6,14,0.429,2,2,1.0,1628,https://www.pro-football-reference.com/boxscores/201110300sfo.htm
+2011,2011-10-30,IwSI92ZDKoazn,San Francisco,49ers,SF,39,174,1,15,24,,177,1,0,98.785,174,348,1,3,1,0,0,5,40,19,6,15,0.4,0,1,0.0,1972,https://www.pro-football-reference.com/boxscores/201110300sfo.htm
+2011,2011-10-30,VkxV91RtzHn65,New England,Patriots,NE,12,43,0,24,35,,198,2,0,101.845,170,213,3,28,1,0,0,6,37,19,3,10,0.3,0,0,0.0,1238,https://www.pro-football-reference.com/boxscores/201110300pit.htm
+2011,2011-10-30,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,23,98,0,36,50,,365,2,1,97.5,329,427,5,36,1,0,1,8,50,29,10,16,0.625,0,0,0.0,2362,https://www.pro-football-reference.com/boxscores/201110300pit.htm
+2011,2011-10-30,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,27,92,0,18,29,,168,2,2,72.198,160,252,1,8,0,0,2,7,65,18,6,14,0.429,0,0,0.0,1887,https://www.pro-football-reference.com/boxscores/201110300sea.htm
+2011,2011-10-30,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,20,61,1,25,47,,375,0,1,70.789,350,411,4,25,1,1,2,11,80,20,5,15,0.333,1,2,0.5,1713,https://www.pro-football-reference.com/boxscores/201110300sea.htm
+2011,2011-10-30,KdjU81i7YSFE7,Dallas,Cowboys,DAL,10,85,0,18,35,,203,1,1,66.726,182,267,4,21,0,0,1,3,20,12,3,10,0.3,1,2,0.5,1071,https://www.pro-football-reference.com/boxscores/201110300phi.htm
+2011,2011-10-30,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,38,239,2,21,28,,279,2,0,129.911,256,495,4,23,2,0,0,6,33,31,7,12,0.583,1,1,1.0,2529,https://www.pro-football-reference.com/boxscores/201110300phi.htm
+2011,2011-10-31,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,27,102,1,26,41,,369,0,2,72.104,345,447,3,24,3,2,4,12,105,22,5,14,0.357,0,0,0.0,2249,https://www.pro-football-reference.com/boxscores/201110310kan.htm
+2011,2011-10-31,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,32,94,1,19,32,,261,1,2,69.922,247,341,3,14,2,2,4,9,53,19,7,14,0.5,0,0,0.0,1935,https://www.pro-football-reference.com/boxscores/201110310kan.htm
+2011,2011-11-06,mLspw4gJNTQGN,Atlanta,Falcons,ATL,41,163,1,14,24,,275,3,1,120.66,269,432,1,6,0,0,1,1,10,21,6,14,0.429,0,0,0.0,2266,https://www.pro-football-reference.com/boxscores/201111060clt.htm
+2011,2011-11-06,LJmHetie5VbbO,Indianapolis,Colts,IND,21,83,0,17,33,,118,0,1,47.285,103,186,2,15,1,1,2,6,32,10,4,14,0.286,0,0,0.0,1334,https://www.pro-football-reference.com/boxscores/201111060clt.htm
+2011,2011-11-06,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,30,162,1,17,30,,221,0,3,40.417,219,381,1,2,0,0,3,10,88,18,2,10,0.2,1,2,0.5,1833,https://www.pro-football-reference.com/boxscores/201111060dal.htm
+2011,2011-11-06,KdjU81i7YSFE7,Dallas,Cowboys,DAL,29,163,0,19,31,,279,2,0,112.164,279,442,0,0,1,1,1,7,82,18,6,14,0.429,0,0,0.0,1767,https://www.pro-football-reference.com/boxscores/201111060dal.htm
+2011,2011-11-06,mexvMWO2v1hWn,New York,Jets,NYJ,39,126,2,20,28,,230,1,1,92.857,222,348,1,8,3,1,2,9,60,24,6,11,0.545,0,0,0.0,2272,https://www.pro-football-reference.com/boxscores/201111060buf.htm
+2011,2011-11-06,3VqeLK0LS9rpw,Buffalo,Bills,BUF,22,96,0,15,31,,191,1,2,51.949,191,287,0,0,2,1,3,6,84,14,3,11,0.273,1,3,0.333,1328,https://www.pro-football-reference.com/boxscores/201111060buf.htm
+2011,2011-11-06,IR4gIYmh269EI,Cleveland,Browns,CLE,21,44,0,14,22,,146,1,1,78.977,128,172,4,18,1,1,2,4,35,10,4,12,0.333,2,2,1.0,1485,https://www.pro-football-reference.com/boxscores/201111060htx.htm
+2011,2011-11-06,UI0Ax4HUEXFh6,Houston,Texans,HOU,40,261,3,14,23,,119,0,1,56.25,119,380,0,0,0,0,1,2,15,21,9,14,0.643,1,1,1.0,2115,https://www.pro-football-reference.com/boxscores/201111060htx.htm
+2011,2011-11-06,mfbu6O5aMHbJg,Miami,Dolphins,MIA,24,107,1,17,23,,244,3,0,147.464,244,351,0,0,0,0,0,7,49,17,3,10,0.3,0,0,0.0,1521,https://www.pro-football-reference.com/boxscores/201111060kan.htm
+2011,2011-11-06,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,34,116,0,20,39,,253,0,0,71.848,227,343,5,26,2,0,0,8,70,20,8,20,0.4,2,6,0.333,2079,https://www.pro-football-reference.com/boxscores/201111060kan.htm
+2011,2011-11-06,IwSI92ZDKoazn,San Francisco,49ers,SF,32,138,0,17,24,,200,1,0,109.722,188,326,2,12,1,1,1,9,55,15,3,12,0.25,0,0,0.0,1939,https://www.pro-football-reference.com/boxscores/201111060was.htm
+2011,2011-11-06,9JtBk8kFeaGEs,Washington,Football Team,WAS,14,52,0,30,47,,254,1,1,76.02,251,303,2,3,4,2,3,3,35,17,5,12,0.417,0,2,0.0,1661,https://www.pro-football-reference.com/boxscores/201111060was.htm
+2011,2011-11-06,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,20,84,0,27,37,,281,1,0,103.547,281,365,1,0,3,0,0,9,80,18,2,12,0.167,1,2,0.5,1796,https://www.pro-football-reference.com/boxscores/201111060nor.htm
+2011,2011-11-06,CI5mhfNa0Zqd2,New Orleans,Saints,NO,28,195,1,27,36,,258,2,1,101.389,258,453,0,0,0,0,1,8,63,25,5,10,0.5,0,0,0.0,1804,https://www.pro-football-reference.com/boxscores/201111060nor.htm
+2011,2011-11-06,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,30,109,0,22,39,,217,3,0,97.917,210,319,1,7,1,0,0,9,87,20,8,16,0.5,0,0,0.0,1975,https://www.pro-football-reference.com/boxscores/201111060oti.htm
+2011,2011-11-06,ltMyRE3yvVUaw,Tennessee,Titans,TEN,20,78,0,24,41,,272,2,0,94.766,250,328,2,22,3,1,1,7,100,19,5,14,0.357,1,1,1.0,1625,https://www.pro-football-reference.com/boxscores/201111060oti.htm
+2011,2011-11-06,6DclFuycdPaOB,Denver,Broncos,DEN,39,299,2,10,22,,124,2,0,93.75,113,412,1,11,0,0,0,11,93,20,3,12,0.25,0,1,0.0,1911,https://www.pro-football-reference.com/boxscores/201111060rai.htm
+2011,2011-11-06,LZoDld8s63xUs,Las Vegas,Raiders,LV,26,100,0,19,35,,332,3,3,79.702,316,416,2,16,2,0,3,15,130,21,4,12,0.333,0,0,0.0,1689,https://www.pro-football-reference.com/boxscores/201111060rai.htm
+2011,2011-11-06,u98I1lDKQBwZ0,Los Angeles,Rams,LA,35,150,0,23,36,,255,0,1,73.264,233,383,4,22,0,0,1,9,71,23,3,14,0.214,0,1,0.0,2218,https://www.pro-football-reference.com/boxscores/201111060crd.htm
+2011,2011-11-06,GJizlkzQFaqGA,Arizona,Cardinals,ARI,17,70,0,20,35,,222,1,0,85.655,192,262,3,30,2,0,0,6,45,16,2,10,0.2,0,0,0.0,1499,https://www.pro-football-reference.com/boxscores/201111060crd.htm
+2011,2011-11-06,D5QY6bOxfn8ZL,Green Bay,Packers,GB,26,136,0,21,26,,247,4,0,145.833,232,368,4,15,0,0,0,5,33,21,6,10,0.6,0,1,0.0,1785,https://www.pro-football-reference.com/boxscores/201111060sdg.htm
+2011,2011-11-06,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,21,85,1,26,46,,385,4,3,85.87,375,460,2,10,2,0,3,8,64,28,5,11,0.455,0,0,0.0,1815,https://www.pro-football-reference.com/boxscores/201111060sdg.htm
+2011,2011-11-06,n8CuHV9wbYCqF,New York,Giants,NYG,29,111,1,20,39,,250,2,1,77.938,250,361,0,0,2,1,2,6,50,23,4,14,0.286,0,0,0.0,1817,https://www.pro-football-reference.com/boxscores/201111060nwe.htm
+2011,2011-11-06,VkxV91RtzHn65,New England,Patriots,NE,24,106,0,28,49,,342,2,2,75.383,332,438,2,10,2,2,4,7,81,23,5,15,0.333,1,1,1.0,1783,https://www.pro-football-reference.com/boxscores/201111060nwe.htm
+2011,2011-11-06,zyhFXj1nywrm1,Baltimore,Ravens,BAL,27,67,1,28,47,,300,1,0,85.417,289,356,3,11,2,1,1,3,20,23,14,21,0.667,1,1,1.0,2039,https://www.pro-football-reference.com/boxscores/201111060pit.htm
+2011,2011-11-06,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,20,70,1,20,37,,330,1,1,82.038,322,392,1,8,1,1,2,6,69,20,7,12,0.583,0,0,0.0,1561,https://www.pro-football-reference.com/boxscores/201111060pit.htm
+2011,2011-11-07,1vVmWGzUZ1rea,Chicago,Bears,CHI,34,164,1,18,32,,208,2,0,96.875,208,372,0,0,3,2,2,6,53,22,7,14,0.5,0,0,0.0,2007,https://www.pro-football-reference.com/boxscores/201111070phi.htm
+2011,2011-11-07,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,23,119,2,21,39,,213,0,1,59.028,211,330,1,2,1,1,2,6,44,20,8,14,0.571,1,3,0.333,1593,https://www.pro-football-reference.com/boxscores/201111070phi.htm
+2011,2011-11-10,LZoDld8s63xUs,Las Vegas,Raiders,LV,41,191,1,14,21,,299,2,1,121.627,298,489,1,1,1,1,2,7,45,20,4,10,0.4,0,1,0.0,1957,https://www.pro-football-reference.com/boxscores/201111100sdg.htm
+2011,2011-11-10,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,15,75,0,23,47,,274,2,1,72.473,239,314,6,35,2,1,2,6,31,20,5,16,0.312,1,1,1.0,1643,https://www.pro-football-reference.com/boxscores/201111100sdg.htm
+2011,2011-11-13,3VqeLK0LS9rpw,Buffalo,Bills,BUF,17,135,0,20,31,,146,1,3,46.64,136,271,1,10,1,1,4,3,12,20,2,7,0.286,0,1,0.0,1528,https://www.pro-football-reference.com/boxscores/201111130dal.htm
+2011,2011-11-13,KdjU81i7YSFE7,Dallas,Cowboys,DAL,35,163,1,23,26,,270,3,0,148.397,270,433,0,0,1,0,0,8,74,24,8,12,0.667,0,0,0.0,2072,https://www.pro-football-reference.com/boxscores/201111130dal.htm
+2011,2011-11-13,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,30,105,2,21,33,,245,1,1,83.523,223,328,5,22,0,0,1,4,31,24,5,12,0.417,0,0,0.0,2033,https://www.pro-football-reference.com/boxscores/201111130cin.htm
+2011,2011-11-13,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,26,109,0,15,30,,170,2,2,61.806,170,279,0,0,0,0,2,4,35,14,4,11,0.364,0,0,0.0,1567,https://www.pro-football-reference.com/boxscores/201111130cin.htm
+2011,2011-11-13,GJizlkzQFaqGA,Arizona,Cardinals,ARI,29,88,0,21,40,,315,3,2,82.812,282,370,4,33,0,0,2,7,66,23,6,16,0.375,1,1,1.0,1902,https://www.pro-football-reference.com/boxscores/201111130phi.htm
+2011,2011-11-13,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,24,166,1,16,34,,128,0,2,32.475,123,289,2,5,1,0,2,11,97,15,3,15,0.2,0,1,0.0,1698,https://www.pro-football-reference.com/boxscores/201111130phi.htm
+2011,2011-11-13,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,41,141,1,14,21,,118,1,1,77.083,110,251,2,8,0,0,1,5,55,18,6,15,0.4,0,0,0.0,2121,https://www.pro-football-reference.com/boxscores/201111130clt.htm
+2011,2011-11-13,LJmHetie5VbbO,Indianapolis,Colts,IND,23,84,0,20,29,,161,0,2,53.951,128,212,5,33,2,1,3,6,40,17,4,15,0.267,0,1,0.0,1479,https://www.pro-football-reference.com/boxscores/201111130clt.htm
+2011,2011-11-13,UI0Ax4HUEXFh6,Houston,Texans,HOU,44,185,3,11,15,,242,2,0,154.861,235,420,1,7,0,0,0,8,54,21,3,10,0.3,0,1,0.0,2106,https://www.pro-football-reference.com/boxscores/201111130tam.htm
+2011,2011-11-13,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,18,90,0,15,35,,170,1,3,31.845,141,231,4,29,2,1,4,6,49,12,3,13,0.231,0,1,0.0,1494,https://www.pro-football-reference.com/boxscores/201111130tam.htm
+2011,2011-11-13,CI5mhfNa0Zqd2,New Orleans,Saints,NO,16,41,0,30,43,,322,2,0,106.928,322,363,0,0,0,0,0,8,79,18,4,13,0.308,0,0,0.0,1803,https://www.pro-football-reference.com/boxscores/201111130atl.htm
+2011,2011-11-13,mLspw4gJNTQGN,Atlanta,Falcons,ATL,32,138,0,29,52,,351,2,1,81.49,343,481,1,8,2,0,1,10,85,30,5,16,0.312,2,3,0.667,2192,https://www.pro-football-reference.com/boxscores/201111130atl.htm
+2011,2011-11-13,u98I1lDKQBwZ0,Los Angeles,Rams,LA,32,133,0,15,25,,155,1,1,74.583,148,281,1,7,1,1,2,7,55,17,4,12,0.333,0,0,0.0,1653,https://www.pro-football-reference.com/boxscores/201111130cle.htm
+2011,2011-11-13,IR4gIYmh269EI,Cleveland,Browns,CLE,30,126,0,20,27,,218,0,0,97.454,209,335,2,9,2,1,1,6,60,16,5,14,0.357,0,0,0.0,1947,https://www.pro-football-reference.com/boxscores/201111130cle.htm
+2011,2011-11-13,6DclFuycdPaOB,Denver,Broncos,DEN,55,244,1,2,8,,69,1,0,102.604,69,313,0,0,0,0,0,8,65,16,5,14,0.357,0,0,0.0,2018,https://www.pro-football-reference.com/boxscores/201111130kan.htm
+2011,2011-11-13,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,24,134,0,18,34,,140,1,0,73.162,124,258,4,16,1,0,0,4,40,17,2,11,0.182,0,2,0.0,1582,https://www.pro-football-reference.com/boxscores/201111130kan.htm
+2011,2011-11-13,9JtBk8kFeaGEs,Washington,Football Team,WAS,16,61,0,21,32,,215,0,2,58.724,185,246,3,30,0,0,2,6,51,16,5,13,0.385,0,0,0.0,1587,https://www.pro-football-reference.com/boxscores/201111130mia.htm
+2011,2011-11-13,mfbu6O5aMHbJg,Miami,Dolphins,MIA,33,103,2,20,29,,209,0,1,75.216,200,303,2,9,3,1,2,6,55,20,8,14,0.571,0,1,0.0,2013,https://www.pro-football-reference.com/boxscores/201111130mia.htm
+2011,2011-11-13,ltMyRE3yvVUaw,Tennessee,Titans,TEN,35,172,1,15,27,,219,1,1,79.09,211,383,1,8,0,0,1,9,92,22,3,13,0.231,0,0,0.0,1956,https://www.pro-football-reference.com/boxscores/201111130car.htm
+2011,2011-11-13,jJBGuksuDJF5L,Carolina,Panthers,CAR,19,113,0,23,40,,212,0,1,61.667,166,279,5,46,2,1,2,12,99,16,3,14,0.214,0,0,0.0,1644,https://www.pro-football-reference.com/boxscores/201111130car.htm
+2011,2011-11-13,zyhFXj1nywrm1,Baltimore,Ravens,BAL,12,75,0,30,53,,256,2,1,74.096,248,323,1,8,2,2,3,4,34,25,5,12,0.417,1,1,1.0,1499,https://www.pro-football-reference.com/boxscores/201111130sea.htm
+2011,2011-11-13,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,42,119,1,17,27,,217,0,0,88.04,208,327,1,9,1,0,0,13,100,16,5,16,0.312,1,1,1.0,2101,https://www.pro-football-reference.com/boxscores/201111130sea.htm
+2011,2011-11-13,n8CuHV9wbYCqF,New York,Giants,NYG,29,93,0,26,40,,311,2,2,84.479,302,395,1,9,0,0,2,6,45,21,7,14,0.5,2,3,0.667,2076,https://www.pro-football-reference.com/boxscores/201111130sfo.htm
+2011,2011-11-13,IwSI92ZDKoazn,San Francisco,49ers,SF,20,77,1,19,30,,242,1,1,85.694,228,305,2,14,0,0,1,5,35,16,3,11,0.273,0,0,0.0,1524,https://www.pro-football-reference.com/boxscores/201111130sfo.htm
+2011,2011-11-13,FCuH1wdksA2DQ,Detroit,Lions,DET,19,80,0,33,63,,329,1,4,46.329,313,393,2,16,3,2,6,4,53,22,4,17,0.235,1,2,0.5,1854,https://www.pro-football-reference.com/boxscores/201111130chi.htm
+2011,2011-11-13,1vVmWGzUZ1rea,Chicago,Bears,CHI,35,109,1,9,20,,123,0,0,65.208,107,216,2,16,3,1,1,4,37,12,3,13,0.231,1,1,1.0,1746,https://www.pro-football-reference.com/boxscores/201111130chi.htm
+2011,2011-11-13,VkxV91RtzHn65,New England,Patriots,NE,28,60,0,26,39,,329,3,0,118.429,329,389,0,0,1,0,0,9,80,21,4,13,0.308,0,1,0.0,1807,https://www.pro-football-reference.com/boxscores/201111130nyj.htm
+2011,2011-11-13,mexvMWO2v1hWn,New York,Jets,NYJ,25,110,1,20,39,,306,1,2,64.69,268,378,5,38,1,1,3,5,56,22,5,13,0.385,0,2,0.0,1793,https://www.pro-football-reference.com/boxscores/201111130nyj.htm
+2011,2011-11-14,AzOs5UWsXusSW,Minnesota,Vikings,MIN,22,104,1,16,34,,190,0,1,52.328,162,266,3,28,1,0,1,10,80,14,5,14,0.357,0,2,0.0,1602,https://www.pro-football-reference.com/boxscores/201111140gnb.htm
+2011,2011-11-14,D5QY6bOxfn8ZL,Green Bay,Packers,GB,31,90,1,25,32,,288,4,0,143.75,266,356,3,22,3,1,1,1,5,23,7,13,0.538,2,2,1.0,1998,https://www.pro-football-reference.com/boxscores/201111140gnb.htm
+2011,2011-11-17,mexvMWO2v1hWn,New York,Jets,NYJ,28,83,0,24,40,,252,0,1,67.917,235,318,3,17,3,1,2,2,15,22,3,14,0.214,1,1,1.0,1932,https://www.pro-football-reference.com/boxscores/201111170den.htm
+2011,2011-11-17,6DclFuycdPaOB,Denver,Broncos,DEN,34,125,1,9,21,,104,0,0,58.433,104,229,1,0,1,1,1,6,51,11,3,13,0.231,0,1,0.0,1668,https://www.pro-football-reference.com/boxscores/201111170den.htm
+2011,2011-11-20,3VqeLK0LS9rpw,Buffalo,Bills,BUF,19,41,0,21,44,,215,0,2,43.277,204,245,2,11,4,0,2,3,27,14,0,12,0.0,0,2,0.0,1734,https://www.pro-football-reference.com/boxscores/201111200mia.htm
+2011,2011-11-20,mfbu6O5aMHbJg,Miami,Dolphins,MIA,35,95,1,14,20,,160,3,0,133.333,147,242,1,13,1,0,0,4,50,16,5,12,0.417,0,0,0.0,1866,https://www.pro-football-reference.com/boxscores/201111200mia.htm
+2011,2011-11-20,jJBGuksuDJF5L,Carolina,Panthers,CAR,26,137,2,22,38,,280,1,4,50.219,272,409,1,8,0,0,4,7,70,24,3,10,0.3,0,0,0.0,1613,https://www.pro-football-reference.com/boxscores/201111200det.htm
+2011,2011-11-20,FCuH1wdksA2DQ,Detroit,Lions,DET,29,169,2,28,36,,335,5,2,121.875,326,495,2,9,1,1,3,8,56,29,6,11,0.545,0,0,0.0,1987,https://www.pro-football-reference.com/boxscores/201111200det.htm
+2011,2011-11-20,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,30,119,2,24,46,,373,1,3,59.42,364,483,2,9,1,0,3,6,43,23,5,15,0.333,0,1,0.0,1973,https://www.pro-football-reference.com/boxscores/201111200rav.htm
+2011,2011-11-20,zyhFXj1nywrm1,Baltimore,Ravens,BAL,28,105,2,17,27,,270,2,1,105.478,268,373,1,2,3,0,1,6,69,13,5,14,0.357,0,0,0.0,1627,https://www.pro-football-reference.com/boxscores/201111200rav.htm
+2011,2011-11-20,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,29,108,1,22,41,,210,0,0,68.14,195,303,1,15,1,0,0,9,81,23,7,15,0.467,0,0,0.0,1853,https://www.pro-football-reference.com/boxscores/201111200cle.htm
+2011,2011-11-20,IR4gIYmh269EI,Cleveland,Browns,CLE,28,148,1,17,24,,199,1,1,92.188,186,334,2,13,0,0,1,9,70,20,4,10,0.4,0,0,0.0,1747,https://www.pro-football-reference.com/boxscores/201111200cle.htm
+2011,2011-11-20,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,20,121,1,28,38,,342,2,2,96.601,334,455,2,8,1,0,2,9,55,22,5,11,0.455,0,1,0.0,1881,https://www.pro-football-reference.com/boxscores/201111200gnb.htm
+2011,2011-11-20,D5QY6bOxfn8ZL,Green Bay,Packers,GB,23,91,2,23,34,,299,3,1,112.255,287,378,2,12,2,0,1,5,37,24,7,12,0.583,1,1,1.0,1719,https://www.pro-football-reference.com/boxscores/201111200gnb.htm
+2011,2011-11-20,KdjU81i7YSFE7,Dallas,Cowboys,DAL,32,89,0,23,37,,292,3,0,113.795,264,353,4,28,1,0,0,9,48,20,8,17,0.471,1,1,1.0,2161,https://www.pro-football-reference.com/boxscores/201111200was.htm
+2011,2011-11-20,9JtBk8kFeaGEs,Washington,Football Team,WAS,24,60,1,25,38,,292,2,1,95.504,279,339,3,13,2,1,2,6,59,18,6,15,0.4,0,0,0.0,2000,https://www.pro-football-reference.com/boxscores/201111200was.htm
+2011,2011-11-20,LZoDld8s63xUs,Las Vegas,Raiders,LV,41,162,2,17,23,,164,1,0,107.88,139,301,4,25,1,1,1,12,117,22,5,14,0.357,0,0,0.0,2144,https://www.pro-football-reference.com/boxscores/201111200min.htm
+2011,2011-11-20,AzOs5UWsXusSW,Minnesota,Vikings,MIN,24,124,1,19,33,,211,2,3,59.028,187,311,5,24,3,2,5,9,50,20,6,15,0.4,0,2,0.0,1456,https://www.pro-football-reference.com/boxscores/201111200min.htm
+2011,2011-11-20,GJizlkzQFaqGA,Arizona,Cardinals,ARI,11,80,0,14,35,,163,1,3,28.631,149,229,2,14,3,2,5,6,75,11,1,9,0.111,0,2,0.0,944,https://www.pro-football-reference.com/boxscores/201111200sfo.htm
+2011,2011-11-20,IwSI92ZDKoazn,San Francisco,49ers,SF,49,164,0,20,38,,267,2,1,81.798,267,431,0,0,0,0,1,7,87,25,8,21,0.381,2,2,1.0,2656,https://www.pro-football-reference.com/boxscores/201111200sfo.htm
+2011,2011-11-20,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,39,126,2,15,25,,203,1,2,65.917,163,289,4,40,3,0,2,13,100,16,7,17,0.412,0,0,0.0,2100,https://www.pro-football-reference.com/boxscores/201111200ram.htm
+2011,2011-11-20,u98I1lDKQBwZ0,Los Angeles,Rams,LA,17,42,0,20,40,,181,1,1,60.521,143,185,5,38,2,2,3,5,50,13,5,15,0.333,0,0,0.0,1500,https://www.pro-football-reference.com/boxscores/201111200ram.htm
+2011,2011-11-20,ltMyRE3yvVUaw,Tennessee,Titans,TEN,14,41,0,22,44,,264,2,1,74.432,257,298,1,7,0,0,1,10,86,17,8,14,0.571,1,1,1.0,1381,https://www.pro-football-reference.com/boxscores/201111200atl.htm
+2011,2011-11-20,mLspw4gJNTQGN,Atlanta,Falcons,ATL,36,116,1,22,32,,316,1,0,110.938,316,432,0,0,1,1,1,5,55,25,4,12,0.333,1,1,1.0,2219,https://www.pro-football-reference.com/boxscores/201111200atl.htm
+2011,2011-11-20,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,17,52,0,21,31,,280,2,2,90.793,280,332,0,0,2,1,3,3,20,15,5,11,0.455,0,0,0.0,1610,https://www.pro-football-reference.com/boxscores/201111200chi.htm
+2011,2011-11-20,1vVmWGzUZ1rea,Chicago,Bears,CHI,32,92,2,18,32,,286,2,1,94.01,286,378,0,0,0,0,1,6,61,23,8,14,0.571,0,1,0.0,1990,https://www.pro-football-reference.com/boxscores/201111200chi.htm
+2011,2011-11-20,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,33,136,0,23,36,,258,2,3,68.981,255,391,1,3,0,0,3,5,30,17,9,17,0.529,0,0,0.0,2178,https://www.pro-football-reference.com/boxscores/201111200nyg.htm
+2011,2011-11-20,n8CuHV9wbYCqF,New York,Giants,NYG,17,29,0,18,35,,264,1,1,73.988,249,278,3,15,1,1,2,5,39,12,5,14,0.357,0,0,0.0,1422,https://www.pro-football-reference.com/boxscores/201111200nyg.htm
+2011,2011-11-21,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,125,0,24,37,,230,0,3,48.255,209,334,3,21,0,0,3,5,34,16,6,14,0.429,1,2,0.5,1890,https://www.pro-football-reference.com/boxscores/201111210nwe.htm
+2011,2011-11-21,VkxV91RtzHn65,New England,Patriots,NE,35,157,1,15,27,,234,2,0,109.182,223,380,3,11,1,1,1,3,20,20,4,13,0.308,2,2,1.0,1710,https://www.pro-football-reference.com/boxscores/201111210nwe.htm
+2011,2011-11-24,D5QY6bOxfn8ZL,Green Bay,Packers,GB,18,53,1,22,33,,307,2,0,116.604,296,349,2,11,1,0,0,7,54,18,2,10,0.2,0,0,0.0,1752,https://www.pro-football-reference.com/boxscores/201111240det.htm
+2011,2011-11-24,FCuH1wdksA2DQ,Detroit,Lions,DET,21,136,1,32,45,,276,1,3,66.528,273,409,1,3,1,0,3,11,82,23,5,10,0.5,0,0,0.0,1848,https://www.pro-football-reference.com/boxscores/201111240det.htm
+2011,2011-11-24,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,89,0,19,32,,288,1,0,99.479,263,352,4,25,3,1,1,6,55,18,3,12,0.25,0,0,0.0,1888,https://www.pro-football-reference.com/boxscores/201111240dal.htm
+2011,2011-11-24,KdjU81i7YSFE7,Dallas,Cowboys,DAL,23,85,0,22,34,,226,2,2,78.799,218,303,1,8,0,0,2,11,69,19,2,9,0.222,0,0,0.0,1712,https://www.pro-football-reference.com/boxscores/201111240dal.htm
+2011,2011-11-24,IwSI92ZDKoazn,San Francisco,49ers,SF,21,74,0,15,24,,140,0,1,61.111,96,170,9,44,1,0,1,7,97,12,2,12,0.167,1,2,0.5,1732,https://www.pro-football-reference.com/boxscores/201111240rav.htm
+2011,2011-11-24,zyhFXj1nywrm1,Baltimore,Ravens,BAL,35,92,0,15,23,,161,1,0,100.091,161,253,0,0,0,0,0,3,20,16,7,15,0.467,0,0,0.0,1868,https://www.pro-football-reference.com/boxscores/201111240rav.htm
+2011,2011-11-27,GJizlkzQFaqGA,Arizona,Cardinals,ARI,38,268,1,12,23,,114,0,2,29.982,106,374,3,8,2,1,3,4,30,16,4,12,0.333,0,0,0.0,2039,https://www.pro-football-reference.com/boxscores/201111270ram.htm
+2011,2011-11-27,u98I1lDKQBwZ0,Los Angeles,Rams,LA,22,86,0,17,32,,203,1,0,83.203,186,272,2,17,2,2,2,8,49,12,3,13,0.231,0,0,0.0,1561,https://www.pro-football-reference.com/boxscores/201111270ram.htm
+2011,2011-11-27,AzOs5UWsXusSW,Minnesota,Vikings,MIN,24,64,1,17,25,,186,1,0,103.083,162,226,4,24,0,0,0,6,49,12,4,13,0.308,1,2,0.5,1521,https://www.pro-football-reference.com/boxscores/201111270atl.htm
+2011,2011-11-27,mLspw4gJNTQGN,Atlanta,Falcons,ATL,29,89,0,27,34,,262,3,0,128.186,246,335,2,16,2,1,1,4,30,22,7,14,0.5,0,0,0.0,2079,https://www.pro-football-reference.com/boxscores/201111270atl.htm
+2011,2011-11-27,3VqeLK0LS9rpw,Buffalo,Bills,BUF,28,86,0,26,39,,264,3,0,111.485,250,336,3,14,0,0,0,9,85,21,6,15,0.4,0,1,0.0,2171,https://www.pro-football-reference.com/boxscores/201111270nyj.htm
+2011,2011-11-27,mexvMWO2v1hWn,New York,Jets,NYJ,23,138,0,17,35,,180,4,1,90.179,180,318,0,0,1,1,2,4,40,20,5,11,0.455,1,1,1.0,1429,https://www.pro-football-reference.com/boxscores/201111270nyj.htm
+2011,2011-11-27,IR4gIYmh269EI,Cleveland,Browns,CLE,30,134,0,16,34,,151,2,1,67.157,140,274,2,11,1,0,1,3,15,17,6,15,0.4,0,1,0.0,1706,https://www.pro-football-reference.com/boxscores/201111270cin.htm
+2011,2011-11-27,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,32,132,1,21,31,,270,1,0,105.578,257,389,2,13,1,1,1,5,35,18,6,14,0.429,0,1,0.0,1894,https://www.pro-football-reference.com/boxscores/201111270cin.htm
+2011,2011-11-27,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,25,122,0,18,33,,199,1,1,70.139,186,308,2,13,5,4,5,4,30,15,2,10,0.2,0,1,0.0,1597,https://www.pro-football-reference.com/boxscores/201111270oti.htm
+2011,2011-11-27,ltMyRE3yvVUaw,Tennessee,Titans,TEN,35,202,0,19,34,,160,1,2,53.554,150,352,2,10,3,2,4,5,50,18,7,17,0.412,1,2,0.5,2003,https://www.pro-football-reference.com/boxscores/201111270oti.htm
+2011,2011-11-27,jJBGuksuDJF5L,Carolina,Panthers,CAR,35,201,3,20,27,,208,0,0,95.91,176,377,3,32,1,1,1,6,92,22,6,12,0.5,0,0,0.0,2177,https://www.pro-football-reference.com/boxscores/201111270clt.htm
+2011,2011-11-27,LJmHetie5VbbO,Indianapolis,Colts,IND,23,105,1,15,29,,226,1,2,60.417,218,323,2,8,1,0,2,2,15,17,1,9,0.111,1,1,1.0,1423,https://www.pro-football-reference.com/boxscores/201111270clt.htm
+2011,2011-11-27,UI0Ax4HUEXFh6,Houston,Texans,HOU,31,88,1,18,28,,127,1,0,86.458,127,215,0,0,3,1,1,7,80,9,2,15,0.133,0,0,0.0,1701,https://www.pro-football-reference.com/boxscores/201111270jax.htm
+2011,2011-11-27,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,24,105,0,20,40,,198,0,1,53.958,150,255,7,48,1,0,1,4,30,14,5,19,0.263,0,1,0.0,1899,https://www.pro-football-reference.com/boxscores/201111270jax.htm
+2011,2011-11-27,1vVmWGzUZ1rea,Chicago,Bears,CHI,27,172,0,18,36,,254,2,3,56.944,229,401,4,25,0,0,3,7,61,18,6,14,0.429,0,0,0.0,1798,https://www.pro-football-reference.com/boxscores/201111270rai.htm
+2011,2011-11-27,LZoDld8s63xUs,Las Vegas,Raiders,LV,27,73,1,21,37,,301,0,1,72.016,268,341,4,33,0,0,1,6,44,17,3,15,0.2,1,1,1.0,1802,https://www.pro-football-reference.com/boxscores/201111270rai.htm
+2011,2011-11-27,9JtBk8kFeaGEs,Washington,Football Team,WAS,29,110,1,26,35,,314,2,2,96.607,306,416,1,8,1,0,2,10,115,22,3,10,0.3,0,0,0.0,2000,https://www.pro-football-reference.com/boxscores/201111270sea.htm
+2011,2011-11-27,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,30,124,0,14,30,,144,2,1,69.306,126,250,2,18,0,0,1,9,91,15,6,16,0.375,0,1,0.0,1600,https://www.pro-football-reference.com/boxscores/201111270sea.htm
+2011,2011-11-27,6DclFuycdPaOB,Denver,Broncos,DEN,51,208,0,9,18,,143,1,0,95.37,141,349,1,2,2,0,0,9,63,18,5,16,0.312,0,0,0.0,2228,https://www.pro-football-reference.com/boxscores/201111270sdg.htm
+2011,2011-11-27,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,36,185,0,19,36,,188,1,0,77.083,159,344,3,29,0,0,0,4,30,20,6,17,0.353,0,0,0.0,2243,https://www.pro-football-reference.com/boxscores/201111270sdg.htm
+2011,2011-11-27,VkxV91RtzHn65,New England,Patriots,NE,36,104,2,24,34,,361,3,0,134.559,353,457,1,8,0,0,0,3,20,29,6,11,0.545,0,0,0.0,1963,https://www.pro-football-reference.com/boxscores/201111270phi.htm
+2011,2011-11-27,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,17,73,1,26,48,,400,1,1,80.208,393,466,2,7,0,0,1,10,60,23,4,13,0.308,1,2,0.5,1637,https://www.pro-football-reference.com/boxscores/201111270phi.htm
+2011,2011-11-27,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,108,0,21,31,,193,1,1,81.788,182,290,1,11,1,1,2,6,50,18,3,11,0.273,1,1,1.0,2010,https://www.pro-football-reference.com/boxscores/201111270kan.htm
+2011,2011-11-27,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,34,90,0,18,28,,167,0,3,40.923,162,252,1,5,1,1,4,4,20,15,6,15,0.4,2,2,1.0,1590,https://www.pro-football-reference.com/boxscores/201111270kan.htm
+2011,2011-11-28,n8CuHV9wbYCqF,New York,Giants,NYG,22,73,1,33,47,,406,2,1,101.906,392,465,1,14,4,1,2,4,32,29,5,11,0.455,0,2,0.0,1888,https://www.pro-football-reference.com/boxscores/201111280nor.htm
+2011,2011-11-28,CI5mhfNa0Zqd2,New Orleans,Saints,NO,30,205,3,25,39,,372,4,0,129.434,372,577,0,0,0,0,0,11,104,31,5,9,0.556,0,2,0.0,1712,https://www.pro-football-reference.com/boxscores/201111280nor.htm
+2011,2011-12-01,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,25,132,1,17,29,,208,1,4,52.73,198,330,2,10,1,0,4,5,28,20,2,8,0.25,1,1,1.0,1780,https://www.pro-football-reference.com/boxscores/201112010sea.htm
+2011,2011-12-01,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,33,174,2,13,16,,190,1,0,136.979,173,347,3,17,2,0,0,5,30,15,5,12,0.417,1,1,1.0,1820,https://www.pro-football-reference.com/boxscores/201112010sea.htm
+2011,2011-12-04,ltMyRE3yvVUaw,Tennessee,Titans,TEN,31,187,2,16,25,,140,0,0,78.75,130,317,1,10,1,0,0,3,20,18,2,11,0.182,1,1,1.0,1694,https://www.pro-football-reference.com/boxscores/201112040buf.htm
+2011,2011-12-04,3VqeLK0LS9rpw,Buffalo,Bills,BUF,23,104,0,29,46,,288,1,0,87.953,282,386,1,6,3,2,2,2,15,18,7,16,0.438,2,4,0.5,1906,https://www.pro-football-reference.com/boxscores/201112040buf.htm
+2011,2011-12-04,jJBGuksuDJF5L,Carolina,Panthers,CAR,39,163,4,13,22,,231,1,0,110.227,222,385,2,9,0,0,0,2,20,26,6,11,0.545,1,1,1.0,1961,https://www.pro-football-reference.com/boxscores/201112040tam.htm
+2011,2011-12-04,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,27,78,0,16,27,,229,1,1,83.719,207,285,2,22,0,0,1,9,73,15,5,13,0.385,0,1,0.0,1639,https://www.pro-football-reference.com/boxscores/201112040tam.htm
+2011,2011-12-04,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,22,104,0,14,30,,152,1,1,59.306,128,232,3,24,1,1,2,10,109,13,2,11,0.182,1,1,1.0,1636,https://www.pro-football-reference.com/boxscores/201112040pit.htm
+2011,2011-12-04,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,33,136,2,15,23,,176,2,0,117.301,159,295,3,17,0,0,0,4,29,22,2,10,0.2,0,0,0.0,1964,https://www.pro-football-reference.com/boxscores/201112040pit.htm
+2011,2011-12-04,LJmHetie5VbbO,Indianapolis,Colts,IND,31,99,1,30,37,,353,2,1,113.176,338,437,2,15,1,1,2,5,29,26,10,15,0.667,0,0,0.0,2139,https://www.pro-football-reference.com/boxscores/201112040nwe.htm
+2011,2011-12-04,VkxV91RtzHn65,New England,Patriots,NE,24,73,2,29,38,,289,2,0,114.912,289,362,1,0,1,0,0,3,20,24,6,11,0.545,0,0,0.0,1461,https://www.pro-football-reference.com/boxscores/201112040nwe.htm
+2011,2011-12-04,mLspw4gJNTQGN,Atlanta,Falcons,ATL,18,70,0,20,47,,267,1,2,50.576,267,337,0,0,0,0,2,7,43,18,6,14,0.429,0,2,0.0,1496,https://www.pro-football-reference.com/boxscores/201112040htx.htm
+2011,2011-12-04,UI0Ax4HUEXFh6,Houston,Texans,HOU,44,162,1,12,25,,188,1,0,86.75,175,337,3,13,1,1,1,5,35,20,9,18,0.5,1,1,1.0,2104,https://www.pro-football-reference.com/boxscores/201112040htx.htm
+2011,2011-12-04,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,37,113,0,17,31,,157,1,0,79.637,139,252,2,18,2,1,1,8,60,13,7,20,0.35,1,1,1.0,1962,https://www.pro-football-reference.com/boxscores/201112040chi.htm
+2011,2011-12-04,1vVmWGzUZ1rea,Chicago,Bears,CHI,24,93,0,11,24,,133,0,3,23.785,88,181,7,45,2,0,3,5,35,11,0,11,0.0,0,2,0.0,1638,https://www.pro-football-reference.com/boxscores/201112040chi.htm
+2011,2011-12-04,LZoDld8s63xUs,Las Vegas,Raiders,LV,14,46,0,20,41,,273,2,1,76.575,258,304,2,15,0,0,1,10,91,18,2,11,0.182,1,1,1.0,1300,https://www.pro-football-reference.com/boxscores/201112040mia.htm
+2011,2011-12-04,mfbu6O5aMHbJg,Miami,Dolphins,MIA,44,209,2,13,25,,162,1,0,85.75,153,362,1,9,0,0,0,8,79,23,8,14,0.571,0,0,0.0,2300,https://www.pro-football-reference.com/boxscores/201112040mia.htm
+2011,2011-12-04,mexvMWO2v1hWn,New York,Jets,NYJ,30,101,3,19,32,,165,1,0,83.464,165,266,0,0,1,1,1,6,40,16,4,13,0.308,1,1,1.0,1932,https://www.pro-football-reference.com/boxscores/201112040was.htm
+2011,2011-12-04,9JtBk8kFeaGEs,Washington,Football Team,WAS,23,100,1,19,46,,221,0,1,47.464,204,304,2,17,3,2,3,6,50,17,5,16,0.312,0,0,0.0,1668,https://www.pro-football-reference.com/boxscores/201112040was.htm
+2011,2011-12-04,6DclFuycdPaOB,Denver,Broncos,DEN,32,150,1,10,15,,202,2,0,149.306,186,336,2,16,3,2,2,8,73,13,3,11,0.273,0,0,0.0,1329,https://www.pro-football-reference.com/boxscores/201112040min.htm
+2011,2011-12-04,AzOs5UWsXusSW,Minnesota,Vikings,MIN,30,129,0,30,48,,389,3,2,91.406,360,489,3,29,1,1,3,6,54,27,6,15,0.4,0,0,0.0,2271,https://www.pro-football-reference.com/boxscores/201112040min.htm
+2011,2011-12-04,zyhFXj1nywrm1,Baltimore,Ravens,BAL,55,290,2,10,23,,158,0,0,66.938,158,448,1,0,1,1,1,4,18,24,9,19,0.474,1,2,0.5,2254,https://www.pro-football-reference.com/boxscores/201112040cle.htm
+2011,2011-12-04,IR4gIYmh269EI,Cleveland,Browns,CLE,17,59,0,18,36,,196,1,1,64.12,174,233,3,22,0,0,1,3,37,13,3,14,0.214,1,1,1.0,1346,https://www.pro-football-reference.com/boxscores/201112040cle.htm
+2011,2011-12-04,KdjU81i7YSFE7,Dallas,Cowboys,DAL,20,75,0,28,42,,299,1,0,95.238,261,336,5,38,2,0,0,7,49,20,4,12,0.333,0,0,0.0,2022,https://www.pro-football-reference.com/boxscores/201112040crd.htm
+2011,2011-12-04,GJizlkzQFaqGA,Arizona,Cardinals,ARI,25,103,1,16,25,,247,1,0,109.917,224,327,5,23,0,0,0,6,41,16,4,13,0.308,0,0,0.0,1775,https://www.pro-football-reference.com/boxscores/201112040crd.htm
+2011,2011-12-04,D5QY6bOxfn8ZL,Green Bay,Packers,GB,28,89,0,28,47,,369,4,1,103.945,360,449,2,9,0,0,1,4,30,29,7,12,0.583,0,0,0.0,1983,https://www.pro-football-reference.com/boxscores/201112040nyg.htm
+2011,2011-12-04,n8CuHV9wbYCqF,New York,Giants,NYG,20,100,1,23,40,,347,3,1,100.729,347,447,1,0,1,1,2,6,55,24,5,11,0.455,0,0,0.0,1617,https://www.pro-football-reference.com/boxscores/201112040nyg.htm
+2011,2011-12-04,u98I1lDKQBwZ0,Los Angeles,Rams,LA,23,31,0,12,22,,156,0,1,58.144,126,157,4,30,1,1,2,5,35,10,3,13,0.231,0,1,0.0,1435,https://www.pro-football-reference.com/boxscores/201112040sfo.htm
+2011,2011-12-04,IwSI92ZDKoazn,San Francisco,49ers,SF,34,144,0,17,25,,274,2,0,131.083,245,389,4,29,1,0,0,8,72,18,4,14,0.286,0,0,0.0,2165,https://www.pro-football-reference.com/boxscores/201112040sfo.htm
+2011,2011-12-04,FCuH1wdksA2DQ,Detroit,Lions,DET,22,87,1,31,44,,408,1,1,97.538,379,466,3,29,0,0,1,11,107,25,2,11,0.182,0,1,0.0,2106,https://www.pro-football-reference.com/boxscores/201112040nor.htm
+2011,2011-12-04,CI5mhfNa0Zqd2,New Orleans,Saints,NO,23,100,1,26,36,,342,3,0,129.63,338,438,2,4,0,0,0,3,30,21,6,12,0.5,0,1,0.0,1494,https://www.pro-football-reference.com/boxscores/201112040nor.htm
+2011,2011-12-05,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,26,139,2,22,28,,294,3,0,146.131,294,433,0,0,0,0,0,6,55,19,4,10,0.4,0,0,0.0,1697,https://www.pro-football-reference.com/boxscores/201112050jax.htm
+2011,2011-12-05,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,31,129,0,19,33,,195,2,1,82.26,177,306,2,18,2,0,1,3,26,17,9,16,0.562,0,2,0.0,1903,https://www.pro-football-reference.com/boxscores/201112050jax.htm
+2011,2011-12-08,IR4gIYmh269EI,Cleveland,Browns,CLE,30,98,0,19,36,,222,0,2,48.611,206,304,3,16,2,0,2,6,54,19,7,16,0.438,0,1,0.0,1938,https://www.pro-football-reference.com/boxscores/201112080pit.htm
+2011,2011-12-08,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,147,0,16,23,,280,2,1,121.649,269,416,2,11,2,2,3,12,97,20,2,8,0.25,0,1,0.0,1662,https://www.pro-football-reference.com/boxscores/201112080pit.htm
+2011,2011-12-11,UI0Ax4HUEXFh6,Houston,Texans,HOU,28,144,0,26,44,,300,2,1,85.417,268,412,5,32,4,3,4,5,50,25,9,16,0.562,0,1,0.0,1904,https://www.pro-football-reference.com/boxscores/201112110cin.htm
+2011,2011-12-11,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,29,101,0,16,28,,189,1,0,89.732,184,285,1,5,2,2,2,3,27,16,5,13,0.385,1,1,1.0,1696,https://www.pro-football-reference.com/boxscores/201112110cin.htm
+2011,2011-12-11,LJmHetie5VbbO,Indianapolis,Colts,IND,16,50,0,17,37,,136,1,1,53.435,117,167,4,19,3,0,1,3,15,12,2,14,0.143,3,4,0.75,1432,https://www.pro-football-reference.com/boxscores/201112110rav.htm
+2011,2011-12-11,zyhFXj1nywrm1,Baltimore,Ravens,BAL,37,146,1,23,31,,227,2,1,102.487,212,358,2,15,1,1,2,5,40,24,7,13,0.538,0,1,0.0,2168,https://www.pro-football-reference.com/boxscores/201112110rav.htm
+2011,2011-12-11,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,21,65,0,16,32,,195,1,1,66.536,156,221,5,39,1,0,1,11,128,13,2,12,0.167,0,1,0.0,1338,https://www.pro-football-reference.com/boxscores/201112110nyj.htm
+2011,2011-12-11,mexvMWO2v1hWn,New York,Jets,NYJ,42,159,3,13,21,,181,2,0,121.329,155,314,3,26,1,1,1,4,22,24,4,12,0.333,0,1,0.0,2262,https://www.pro-football-reference.com/boxscores/201112110nyj.htm
+2011,2011-12-11,AzOs5UWsXusSW,Minnesota,Vikings,MIN,35,269,1,23,44,,199,3,3,58.807,156,425,4,43,5,3,6,5,37,29,8,14,0.571,3,3,1.0,1726,https://www.pro-football-reference.com/boxscores/201112110det.htm
+2011,2011-12-11,FCuH1wdksA2DQ,Detroit,Lions,DET,21,72,0,20,29,,227,2,0,115.158,208,280,5,19,0,0,0,10,76,13,8,16,0.5,0,0,0.0,1874,https://www.pro-football-reference.com/boxscores/201112110det.htm
+2011,2011-12-11,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,24,110,2,17,32,,184,0,3,31.25,170,280,3,14,6,4,7,12,97,15,3,11,0.273,1,2,0.5,1631,https://www.pro-football-reference.com/boxscores/201112110jax.htm
+2011,2011-12-11,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,33,116,2,19,33,,217,2,2,72.412,209,325,1,8,2,0,2,8,80,21,5,15,0.333,0,0,0.0,1969,https://www.pro-football-reference.com/boxscores/201112110jax.htm
+2011,2011-12-11,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,32,51,2,15,30,,208,1,1,69.861,188,239,4,20,1,1,2,7,69,18,4,15,0.267,0,0,0.0,1881,https://www.pro-football-reference.com/boxscores/201112110mia.htm
+2011,2011-12-11,mfbu6O5aMHbJg,Miami,Dolphins,MIA,26,109,0,17,29,,155,1,1,70.33,95,204,9,60,3,2,3,7,81,11,3,15,0.2,0,3,0.0,1719,https://www.pro-football-reference.com/boxscores/201112110mia.htm
+2011,2011-12-11,CI5mhfNa0Zqd2,New Orleans,Saints,NO,26,114,0,36,47,,337,2,0,109.973,323,437,2,14,0,0,0,11,95,24,11,19,0.579,0,0,0.0,2253,https://www.pro-football-reference.com/boxscores/201112110oti.htm
+2011,2011-12-11,ltMyRE3yvVUaw,Tennessee,Titans,TEN,17,59,1,18,36,,326,1,0,90.741,314,373,2,12,0,0,0,8,54,17,1,10,0.1,1,2,0.5,1347,https://www.pro-football-reference.com/boxscores/201112110oti.htm
+2011,2011-12-11,VkxV91RtzHn65,New England,Patriots,NE,20,79,0,22,37,,357,3,1,107.601,352,431,1,5,0,0,1,4,47,22,5,11,0.455,0,0,0.0,1431,https://www.pro-football-reference.com/boxscores/201112110was.htm
+2011,2011-12-11,9JtBk8kFeaGEs,Washington,Football Team,WAS,34,170,0,20,33,,301,3,1,108.27,293,463,2,8,2,1,2,8,73,25,7,14,0.5,0,0,0.0,2169,https://www.pro-football-reference.com/boxscores/201112110was.htm
+2011,2011-12-11,mLspw4gJNTQGN,Atlanta,Falcons,ATL,28,86,0,22,38,,320,4,0,120.504,308,394,3,12,1,0,0,5,50,18,8,17,0.471,0,0,0.0,1843,https://www.pro-football-reference.com/boxscores/201112110car.htm
+2011,2011-12-11,jJBGuksuDJF5L,Carolina,Panthers,CAR,23,157,1,19,39,,276,2,2,67.895,259,416,2,17,0,0,2,5,50,19,5,13,0.385,0,1,0.0,1757,https://www.pro-football-reference.com/boxscores/201112110car.htm
+2011,2011-12-11,1vVmWGzUZ1rea,Chicago,Bears,CHI,38,159,1,12,19,,115,0,0,79.934,86,245,4,29,1,1,1,8,69,12,2,15,0.133,0,0,0.0,1907,https://www.pro-football-reference.com/boxscores/201112110den.htm
+2011,2011-12-11,6DclFuycdPaOB,Denver,Broncos,DEN,34,124,0,21,40,,236,1,1,68.333,221,345,5,15,3,1,2,4,29,22,5,17,0.294,0,0,0.0,2079,https://www.pro-football-reference.com/boxscores/201112110den.htm
+2011,2011-12-11,IwSI92ZDKoazn,San Francisco,49ers,SF,21,90,1,18,37,,175,0,0,62.331,143,233,5,32,0,0,0,5,35,12,3,17,0.176,1,2,0.5,1856,https://www.pro-football-reference.com/boxscores/201112110crd.htm
+2011,2011-12-11,GJizlkzQFaqGA,Arizona,Cardinals,ARI,23,55,0,20,29,,284,3,2,106.106,270,325,2,14,2,1,3,4,45,12,3,14,0.214,0,0,0.0,1744,https://www.pro-football-reference.com/boxscores/201112110crd.htm
+2011,2011-12-11,3VqeLK0LS9rpw,Buffalo,Bills,BUF,20,96,0,15,37,,195,0,3,24.043,185,281,1,10,0,0,3,1,5,17,4,11,0.364,0,2,0.0,1467,https://www.pro-football-reference.com/boxscores/201112110sdg.htm
+2011,2011-12-11,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,32,150,1,24,33,,240,3,0,123.295,216,366,2,24,1,1,1,5,50,23,8,14,0.571,1,1,1.0,2133,https://www.pro-football-reference.com/boxscores/201112110sdg.htm
+2011,2011-12-11,LZoDld8s63xUs,Las Vegas,Raiders,LV,29,117,1,24,43,,247,1,4,41.521,240,357,1,7,1,1,5,11,89,23,5,13,0.385,1,2,0.5,1880,https://www.pro-football-reference.com/boxscores/201112110gnb.htm
+2011,2011-12-11,D5QY6bOxfn8ZL,Green Bay,Packers,GB,24,136,2,17,32,,281,2,1,90.755,255,391,4,26,0,0,1,5,35,22,3,11,0.273,0,0,0.0,1720,https://www.pro-football-reference.com/boxscores/201112110gnb.htm
+2011,2011-12-11,n8CuHV9wbYCqF,New York,Giants,NYG,31,110,2,27,47,,400,2,1,90.736,400,510,0,0,0,0,1,6,55,28,6,14,0.429,1,1,1.0,2059,https://www.pro-football-reference.com/boxscores/201112110dal.htm
+2011,2011-12-11,KdjU81i7YSFE7,Dallas,Cowboys,DAL,24,139,0,21,31,,321,4,0,141.263,305,444,3,16,1,1,1,10,51,23,5,10,0.5,0,0,0.0,1541,https://www.pro-football-reference.com/boxscores/201112110dal.htm
+2011,2011-12-12,u98I1lDKQBwZ0,Los Angeles,Rams,LA,31,114,1,12,29,,193,0,1,49.928,167,281,3,26,0,0,1,5,30,19,3,14,0.214,1,3,0.333,1711,https://www.pro-football-reference.com/boxscores/201112120sea.htm
+2011,2011-12-12,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,32,145,1,21,34,,224,1,0,90.809,214,359,2,10,2,1,1,9,61,21,8,16,0.5,0,0,0.0,1889,https://www.pro-football-reference.com/boxscores/201112120sea.htm
+2011,2011-12-15,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,19,116,0,12,22,,141,1,1,70.455,91,207,5,50,3,3,4,5,40,12,3,10,0.3,0,0,0.0,1289,https://www.pro-football-reference.com/boxscores/201112150atl.htm
+2011,2011-12-15,mLspw4gJNTQGN,Atlanta,Falcons,ATL,35,97,1,24,32,,280,3,0,132.292,276,373,1,4,0,0,0,4,31,20,6,15,0.4,0,1,0.0,2311,https://www.pro-football-reference.com/boxscores/201112150atl.htm
+2011,2011-12-17,KdjU81i7YSFE7,Dallas,Cowboys,DAL,37,160,1,23,30,,249,3,0,133.889,239,399,2,10,2,1,1,2,15,28,7,13,0.538,1,1,1.0,2279,https://www.pro-football-reference.com/boxscores/201112170tam.htm
+2011,2011-12-17,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,13,58,0,17,27,,148,1,0,89.738,132,190,3,16,1,1,1,6,46,7,5,12,0.417,1,3,0.333,1321,https://www.pro-football-reference.com/boxscores/201112170tam.htm
+2011,2011-12-18,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,34,110,2,15,26,,179,0,1,62.821,173,283,1,6,3,0,1,11,101,19,3,11,0.273,0,1,0.0,1803,https://www.pro-football-reference.com/boxscores/201112180ram.htm
+2011,2011-12-18,u98I1lDKQBwZ0,Los Angeles,Rams,LA,24,95,0,25,36,,229,1,0,95.718,210,305,3,19,1,0,0,10,109,18,2,13,0.154,0,1,0.0,1797,https://www.pro-football-reference.com/boxscores/201112180ram.htm
+2011,2011-12-18,mfbu6O5aMHbJg,Miami,Dolphins,MIA,38,254,1,10,20,,217,2,0,122.292,194,448,2,23,3,3,3,5,62,17,3,13,0.231,0,1,0.0,1729,https://www.pro-football-reference.com/boxscores/201112180buf.htm
+2011,2011-12-18,3VqeLK0LS9rpw,Buffalo,Bills,BUF,19,113,1,31,47,,316,2,3,72.651,291,404,3,25,2,0,3,11,92,21,0,11,0.0,1,1,1.0,1871,https://www.pro-football-reference.com/boxscores/201112180buf.htm
+2011,2011-12-18,9JtBk8kFeaGEs,Washington,Football Team,WAS,40,123,1,15,24,,185,1,2,65.451,177,300,1,8,1,0,2,2,48,19,8,15,0.533,1,2,0.5,2100,https://www.pro-football-reference.com/boxscores/201112180nyg.htm
+2011,2011-12-18,n8CuHV9wbYCqF,New York,Giants,NYG,18,91,1,23,40,,257,0,3,45.521,233,324,3,24,1,0,3,8,75,22,3,9,0.333,0,1,0.0,1500,https://www.pro-football-reference.com/boxscores/201112180nyg.htm
+2011,2011-12-18,jJBGuksuDJF5L,Carolina,Panthers,CAR,34,166,2,14,24,,160,2,0,106.25,150,316,2,10,0,0,0,7,40,20,9,14,0.643,0,0,0.0,1954,https://www.pro-football-reference.com/boxscores/201112180htx.htm
+2011,2011-12-18,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,150,1,19,30,,212,0,2,56.528,208,358,2,4,2,1,3,6,60,18,2,9,0.222,0,0,0.0,1646,https://www.pro-football-reference.com/boxscores/201112180htx.htm
+2011,2011-12-18,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,33,60,2,19,31,,227,1,0,94.422,226,286,1,1,2,1,1,6,36,18,6,16,0.375,0,2,0.0,1897,https://www.pro-football-reference.com/boxscores/201112180chi.htm
+2011,2011-12-18,1vVmWGzUZ1rea,Chicago,Bears,CHI,31,132,0,11,25,,123,1,4,33.0,89,221,4,34,1,1,5,5,45,13,3,10,0.3,0,0,0.0,1703,https://www.pro-football-reference.com/boxscores/201112180chi.htm
+2011,2011-12-18,ltMyRE3yvVUaw,Tennessee,Titans,TEN,19,66,0,38,56,,331,1,2,74.33,322,388,1,9,1,1,3,7,70,21,6,16,0.375,0,1,0.0,1917,https://www.pro-football-reference.com/boxscores/201112180clt.htm
+2011,2011-12-18,LJmHetie5VbbO,Indianapolis,Colts,IND,34,205,1,11,17,,82,1,0,95.711,82,287,0,0,1,1,1,4,25,10,3,12,0.25,0,0,0.0,1683,https://www.pro-football-reference.com/boxscores/201112180clt.htm
+2011,2011-12-18,D5QY6bOxfn8ZL,Green Bay,Packers,GB,18,102,1,17,35,,235,1,0,80.06,213,315,4,22,2,0,0,5,37,16,6,14,0.429,0,1,0.0,1429,https://www.pro-football-reference.com/boxscores/201112180kan.htm
+2011,2011-12-18,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,39,139,1,23,31,,299,0,0,104.099,299,438,0,0,0,0,0,7,55,23,4,12,0.333,0,1,0.0,2171,https://www.pro-football-reference.com/boxscores/201112180kan.htm
+2011,2011-12-18,CI5mhfNa0Zqd2,New Orleans,Saints,NO,38,161,1,32,41,,412,5,0,148.12,412,573,0,0,2,2,2,6,65,36,8,11,0.727,0,1,0.0,2329,https://www.pro-football-reference.com/boxscores/201112180min.htm
+2011,2011-12-18,AzOs5UWsXusSW,Minnesota,Vikings,MIN,18,105,0,14,32,,120,2,1,61.979,102,207,4,18,0,0,1,8,84,12,4,14,0.286,0,1,0.0,1271,https://www.pro-football-reference.com/boxscores/201112180min.htm
+2011,2011-12-18,FCuH1wdksA2DQ,Detroit,Lions,DET,19,57,0,29,52,,391,4,0,105.529,375,432,2,16,1,1,1,9,72,25,8,17,0.471,1,2,0.5,1707,https://www.pro-football-reference.com/boxscores/201112180rai.htm
+2011,2011-12-18,LZoDld8s63xUs,Las Vegas,Raiders,LV,22,132,1,32,40,,367,1,0,113.229,345,477,3,22,1,1,1,10,86,26,1,9,0.111,0,1,0.0,1893,https://www.pro-football-reference.com/boxscores/201112180rai.htm
+2011,2011-12-18,IR4gIYmh269EI,Cleveland,Browns,CLE,29,120,1,18,31,,226,1,0,91.599,213,333,2,13,1,1,1,9,74,16,5,14,0.357,0,0,0.0,1882,https://www.pro-football-reference.com/boxscores/201112180crd.htm
+2011,2011-12-18,GJizlkzQFaqGA,Arizona,Cardinals,ARI,24,74,1,28,46,,313,1,1,79.348,289,363,4,24,0,0,1,2,13,24,8,16,0.5,0,0,0.0,1962,https://www.pro-football-reference.com/boxscores/201112180crd.htm
+2011,2011-12-18,VkxV91RtzHn65,New England,Patriots,NE,36,141,3,23,34,,320,2,0,117.279,310,451,2,10,1,0,0,4,30,26,5,12,0.417,1,2,0.5,2021,https://www.pro-football-reference.com/boxscores/201112180den.htm
+2011,2011-12-18,6DclFuycdPaOB,Denver,Broncos,DEN,31,252,3,11,23,,194,0,0,77.083,141,393,4,53,4,3,3,7,39,25,4,10,0.4,0,2,0.0,1579,https://www.pro-football-reference.com/boxscores/201112180den.htm
+2011,2011-12-18,mexvMWO2v1hWn,New York,Jets,NYJ,27,94,0,16,29,,177,2,2,67.744,147,241,4,30,2,2,4,11,93,13,3,13,0.231,0,1,0.0,1797,https://www.pro-football-reference.com/boxscores/201112180phi.htm
+2011,2011-12-18,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,33,160,4,15,22,,274,1,1,107.008,260,420,3,14,5,3,4,7,62,20,5,10,0.5,0,0,0.0,1803,https://www.pro-football-reference.com/boxscores/201112180phi.htm
+2011,2011-12-18,zyhFXj1nywrm1,Baltimore,Ravens,BAL,14,89,0,24,35,,244,2,2,83.512,201,290,7,43,1,0,2,3,25,19,7,12,0.583,0,0,0.0,1548,https://www.pro-football-reference.com/boxscores/201112180sdg.htm
+2011,2011-12-18,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,37,145,3,17,23,,270,1,0,127.083,270,415,0,0,1,0,0,3,35,23,6,10,0.6,0,1,0.0,2052,https://www.pro-football-reference.com/boxscores/201112180sdg.htm
+2011,2011-12-19,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,19,84,0,25,44,,330,0,3,52.273,305,389,3,25,2,1,4,9,72,20,8,14,0.571,0,0,0.0,1886,https://www.pro-football-reference.com/boxscores/201112190sfo.htm
+2011,2011-12-19,IwSI92ZDKoazn,San Francisco,49ers,SF,30,100,1,18,31,,187,1,0,86.358,187,287,0,0,0,0,0,7,49,17,4,13,0.308,0,0,0.0,1714,https://www.pro-football-reference.com/boxscores/201112190sfo.htm
+2011,2011-12-22,UI0Ax4HUEXFh6,Houston,Texans,HOU,31,171,1,13,16,,132,0,0,101.042,112,283,4,20,2,1,1,11,84,14,1,10,0.1,0,0,0.0,1625,https://www.pro-football-reference.com/boxscores/201112220clt.htm
+2011,2011-12-22,LJmHetie5VbbO,Indianapolis,Colts,IND,32,95,0,23,41,,244,1,0,81.758,225,320,3,19,2,1,1,4,35,24,7,17,0.412,0,0,0.0,1975,https://www.pro-football-reference.com/boxscores/201112220clt.htm
+2011,2011-12-24,6DclFuycdPaOB,Denver,Broncos,DEN,35,133,1,13,29,,185,1,3,37.931,152,285,4,33,1,0,3,7,58,18,2,13,0.154,2,3,0.667,1831,https://www.pro-football-reference.com/boxscores/201112240buf.htm
+2011,2011-12-24,3VqeLK0LS9rpw,Buffalo,Bills,BUF,28,160,1,15,27,,196,0,0,78.627,191,351,1,5,0,0,0,8,69,14,2,12,0.167,0,0,0.0,1769,https://www.pro-football-reference.com/boxscores/201112240buf.htm
+2011,2011-12-24,GJizlkzQFaqGA,Arizona,Cardinals,ARI,18,59,0,23,44,,297,2,3,60.511,257,316,5,40,1,0,3,6,87,17,4,14,0.286,1,2,0.5,1701,https://www.pro-football-reference.com/boxscores/201112240cin.htm
+2011,2011-12-24,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,34,165,0,18,31,,154,2,0,92.675,136,301,2,18,2,2,2,6,47,21,5,14,0.357,0,0,0.0,1899,https://www.pro-football-reference.com/boxscores/201112240cin.htm
+2011,2011-12-24,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,28,113,2,21,42,,198,0,1,53.472,187,300,1,11,0,0,1,6,28,18,5,18,0.278,2,3,0.667,1741,https://www.pro-football-reference.com/boxscores/201112240oti.htm
+2011,2011-12-24,ltMyRE3yvVUaw,Tennessee,Titans,TEN,25,65,1,24,40,,350,1,2,76.042,342,407,1,8,1,1,3,0,0,20,3,12,0.25,0,0,0.0,1859,https://www.pro-football-reference.com/boxscores/201112240oti.htm
+2011,2011-12-24,mfbu6O5aMHbJg,Miami,Dolphins,MIA,28,121,0,16,32,,281,3,1,98.568,253,374,5,28,4,1,2,6,39,20,5,13,0.385,0,0,0.0,1744,https://www.pro-football-reference.com/boxscores/201112240nwe.htm
+2011,2011-12-24,VkxV91RtzHn65,New England,Patriots,NE,31,119,2,27,46,,304,1,0,85.779,281,400,4,23,1,0,0,5,50,26,8,17,0.471,1,1,1.0,1856,https://www.pro-football-reference.com/boxscores/201112240nwe.htm
+2011,2011-12-24,u98I1lDKQBwZ0,Los Angeles,Rams,LA,36,164,0,9,24,,91,0,0,49.132,68,232,3,23,1,0,0,4,21,15,6,16,0.375,0,1,0.0,1845,https://www.pro-football-reference.com/boxscores/201112240pit.htm
+2011,2011-12-24,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,169,3,15,22,,208,0,1,79.356,208,377,0,0,0,0,1,7,50,17,1,7,0.143,0,0,0.0,1755,https://www.pro-football-reference.com/boxscores/201112240pit.htm
+2011,2011-12-24,IR4gIYmh269EI,Cleveland,Browns,CLE,25,117,0,19,33,,147,1,1,66.098,139,256,2,8,0,0,1,6,95,18,5,13,0.385,0,1,0.0,1662,https://www.pro-football-reference.com/boxscores/201112240rav.htm
+2011,2011-12-24,zyhFXj1nywrm1,Baltimore,Ravens,BAL,37,162,0,11,24,,132,2,1,73.611,122,284,1,10,1,0,1,5,51,15,7,17,0.412,0,0,0.0,1938,https://www.pro-football-reference.com/boxscores/201112240rav.htm
+2011,2011-12-24,LZoDld8s63xUs,Las Vegas,Raiders,LV,25,71,0,16,26,,237,1,2,72.115,237,308,0,0,0,0,2,15,92,13,3,11,0.273,0,0,0.0,1774,https://www.pro-football-reference.com/boxscores/201112240kan.htm
+2011,2011-12-24,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,30,135,0,21,36,,300,1,2,71.528,300,435,0,0,0,0,2,11,88,26,3,12,0.25,0,1,0.0,1959,https://www.pro-football-reference.com/boxscores/201112240kan.htm
+2011,2011-12-24,n8CuHV9wbYCqF,New York,Giants,NYG,26,115,2,9,27,,225,1,1,61.497,217,332,2,8,0,0,1,5,45,11,4,15,0.267,0,0,0.0,1434,https://www.pro-football-reference.com/boxscores/201112240nyj.htm
+2011,2011-12-24,mexvMWO2v1hWn,New York,Jets,NYJ,25,105,1,30,59,,258,1,2,54.202,226,331,5,32,1,1,3,10,95,22,4,21,0.19,1,1,1.0,2166,https://www.pro-football-reference.com/boxscores/201112240nyj.htm
+2011,2011-12-24,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,19,59,1,28,38,,274,1,1,91.338,258,317,3,16,3,3,4,7,64,23,5,11,0.455,1,3,0.333,1977,https://www.pro-football-reference.com/boxscores/201112240car.htm
+2011,2011-12-24,jJBGuksuDJF5L,Carolina,Panthers,CAR,31,270,3,12,17,,171,3,0,142.402,163,433,1,8,0,0,0,8,77,20,0,6,0.0,2,2,1.0,1623,https://www.pro-football-reference.com/boxscores/201112240car.htm
+2011,2011-12-24,AzOs5UWsXusSW,Minnesota,Vikings,MIN,38,241,2,12,18,,152,2,0,129.861,148,389,2,4,2,0,0,4,40,20,4,11,0.364,0,0,0.0,1774,https://www.pro-football-reference.com/boxscores/201112240was.htm
+2011,2011-12-24,9JtBk8kFeaGEs,Washington,Football Team,WAS,24,141,0,26,41,,284,2,1,89.888,256,397,3,28,1,1,2,8,64,23,3,10,0.3,0,0,0.0,1826,https://www.pro-football-reference.com/boxscores/201112240was.htm
+2011,2011-12-24,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,17,68,0,28,53,,299,1,2,60.181,299,367,0,0,0,0,2,1,10,20,6,15,0.4,2,3,0.667,1659,https://www.pro-football-reference.com/boxscores/201112240det.htm
+2011,2011-12-24,FCuH1wdksA2DQ,Detroit,Lions,DET,23,87,1,29,36,,373,3,0,137.616,353,440,3,20,1,0,0,3,8,24,9,13,0.692,0,0,0.0,1941,https://www.pro-football-reference.com/boxscores/201112240det.htm
+2011,2011-12-24,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,26,105,0,18,32,,293,2,0,107.943,281,386,2,12,1,1,1,5,47,20,5,13,0.385,0,0,0.0,1657,https://www.pro-football-reference.com/boxscores/201112240dal.htm
+2011,2011-12-24,KdjU81i7YSFE7,Dallas,Cowboys,DAL,23,81,0,24,40,,182,1,0,79.375,157,238,3,25,0,0,0,6,47,16,6,17,0.353,1,2,0.5,1943,https://www.pro-football-reference.com/boxscores/201112240dal.htm
+2011,2011-12-24,IwSI92ZDKoazn,San Francisco,49ers,SF,40,178,1,14,26,,179,0,0,75.641,171,349,2,8,1,0,0,6,77,21,3,14,0.214,2,3,0.667,1974,https://www.pro-football-reference.com/boxscores/201112240sea.htm
+2011,2011-12-24,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,26,124,1,15,28,,163,1,0,82.887,141,265,4,22,1,1,1,6,51,14,5,13,0.385,0,1,0.0,1626,https://www.pro-football-reference.com/boxscores/201112240sea.htm
+2011,2011-12-25,1vVmWGzUZ1rea,Chicago,Bears,CHI,42,199,0,19,28,,242,1,2,76.786,242,441,0,0,2,0,2,6,28,24,6,12,0.5,0,0,0.0,2148,https://www.pro-football-reference.com/boxscores/201112250gnb.htm
+2011,2011-12-25,D5QY6bOxfn8ZL,Green Bay,Packers,GB,21,81,0,21,29,,283,5,0,142.672,282,363,1,1,1,0,0,0,0,19,5,9,0.556,0,0,0.0,1452,https://www.pro-football-reference.com/boxscores/201112250gnb.htm
+2011,2011-12-26,mLspw4gJNTQGN,Atlanta,Falcons,ATL,14,35,0,40,61,,434,1,0,91.837,434,469,0,0,1,1,1,7,57,23,8,17,0.471,0,3,0.0,1999,https://www.pro-football-reference.com/boxscores/201112260nor.htm
+2011,2011-12-26,CI5mhfNa0Zqd2,New Orleans,Saints,NO,23,164,1,23,39,,307,4,2,96.848,299,463,1,8,0,0,2,4,46,26,10,13,0.769,0,0,0.0,1601,https://www.pro-football-reference.com/boxscores/201112260nor.htm
+2011,2012-01-01,IwSI92ZDKoazn,San Francisco,49ers,SF,37,116,2,21,31,,227,2,0,110.551,205,321,3,22,1,0,0,5,80,21,6,16,0.375,1,1,1.0,2108,https://www.pro-football-reference.com/boxscores/201201010ram.htm
+2011,2012-01-01,u98I1lDKQBwZ0,Los Angeles,Rams,LA,25,111,2,14,34,,226,1,2,49.387,200,311,3,26,1,0,2,6,50,18,5,15,0.333,0,1,0.0,1492,https://www.pro-football-reference.com/boxscores/201201010ram.htm
+2011,2012-01-01,3VqeLK0LS9rpw,Buffalo,Bills,BUF,20,106,1,29,46,,307,2,4,60.688,296,402,2,11,1,0,4,5,45,26,1,7,0.143,2,3,0.667,1822,https://www.pro-football-reference.com/boxscores/201201010nwe.htm
+2011,2012-01-01,VkxV91RtzHn65,New England,Patriots,NE,29,138,2,24,36,,360,3,1,115.509,342,480,4,18,2,0,1,4,77,28,6,12,0.5,0,0,0.0,1778,https://www.pro-football-reference.com/boxscores/201201010nwe.htm
+2011,2012-01-01,FCuH1wdksA2DQ,Detroit,Lions,DET,15,73,0,36,59,,520,5,2,103.778,502,575,2,18,2,2,4,11,101,32,4,11,0.364,1,2,0.5,1700,https://www.pro-football-reference.com/boxscores/201201010gnb.htm
+2011,2012-01-01,D5QY6bOxfn8ZL,Green Bay,Packers,GB,24,81,0,31,44,,480,6,1,136.364,469,550,3,11,1,1,2,6,78,27,6,12,0.5,0,0,0.0,1900,https://www.pro-football-reference.com/boxscores/201201010gnb.htm
+2011,2012-01-01,ltMyRE3yvVUaw,Tennessee,Titans,TEN,22,86,0,22,35,,297,2,0,108.869,275,361,3,22,1,1,1,6,47,17,6,14,0.429,0,0,0.0,1522,https://www.pro-football-reference.com/boxscores/201201010htx.htm
+2011,2012-01-01,UI0Ax4HUEXFh6,Houston,Texans,HOU,30,152,1,22,32,,258,1,0,103.385,235,387,3,23,1,1,1,7,55,22,5,14,0.357,0,0,0.0,2078,https://www.pro-football-reference.com/boxscores/201201010htx.htm
+2011,2012-01-01,mexvMWO2v1hWn,New York,Jets,NYJ,27,129,0,22,33,,248,2,3,71.275,245,374,2,3,0,0,3,6,40,20,4,11,0.364,0,0,0.0,1733,https://www.pro-football-reference.com/boxscores/201201010mia.htm
+2011,2012-01-01,mfbu6O5aMHbJg,Miami,Dolphins,MIA,26,82,0,22,32,,135,1,2,61.328,128,210,1,7,0,0,2,5,35,14,8,15,0.533,0,0,0.0,1867,https://www.pro-football-reference.com/boxscores/201201010mia.htm
+2011,2012-01-01,9JtBk8kFeaGEs,Washington,Football Team,WAS,25,130,0,22,45,,256,1,1,64.676,247,377,1,9,1,0,1,6,71,21,6,16,0.375,0,2,0.0,1841,https://www.pro-football-reference.com/boxscores/201201010phi.htm
+2011,2012-01-01,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,19,75,1,24,39,,335,3,1,104.113,315,390,2,20,1,1,2,8,75,24,5,11,0.455,0,0,0.0,1759,https://www.pro-football-reference.com/boxscores/201201010phi.htm
+2011,2012-01-01,jJBGuksuDJF5L,Carolina,Panthers,CAR,24,164,1,15,25,,158,1,1,75.083,137,301,2,21,1,1,2,1,5,21,0,5,0.0,0,0,0.0,1526,https://www.pro-football-reference.com/boxscores/201201010nor.htm
+2011,2012-01-01,CI5mhfNa0Zqd2,New Orleans,Saints,NO,35,208,1,31,38,,409,5,1,140.132,409,617,0,0,0,0,1,6,60,33,6,9,0.667,0,1,0.0,2074,https://www.pro-football-reference.com/boxscores/201201010nor.htm
+2011,2012-01-01,LJmHetie5VbbO,Indianapolis,Colts,IND,22,56,0,27,40,,264,1,2,73.333,242,298,3,22,2,1,3,4,40,19,6,14,0.429,0,1,0.0,1752,https://www.pro-football-reference.com/boxscores/201201010jax.htm
+2011,2012-01-01,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,35,190,0,11,19,,92,1,0,88.048,71,261,3,21,1,1,1,1,10,15,5,13,0.385,0,1,0.0,1848,https://www.pro-football-reference.com/boxscores/201201010jax.htm
+2011,2012-01-01,1vVmWGzUZ1rea,Chicago,Bears,CHI,25,92,0,15,25,,160,1,1,75.417,117,209,7,43,4,2,3,4,20,10,5,13,0.385,0,0,0.0,1726,https://www.pro-football-reference.com/boxscores/201201010min.htm
+2011,2012-01-01,AzOs5UWsXusSW,Minnesota,Vikings,MIN,27,79,1,21,42,,228,0,3,36.607,222,301,2,6,1,0,3,5,38,16,3,15,0.2,1,2,0.5,1874,https://www.pro-football-reference.com/boxscores/201201010min.htm
+2011,2012-01-01,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,178,1,21,35,,222,1,1,76.131,191,369,4,31,1,0,1,7,55,19,3,16,0.188,0,0,0.0,2022,https://www.pro-football-reference.com/boxscores/201201010crd.htm
+2011,2012-01-01,GJizlkzQFaqGA,Arizona,Cardinals,ARI,31,131,1,22,40,,271,1,1,74.063,257,388,2,14,1,1,2,9,76,20,7,17,0.412,1,1,1.0,2119,https://www.pro-football-reference.com/boxscores/201201010crd.htm
+2011,2012-01-01,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,31,153,1,19,26,,310,3,1,135.096,310,463,0,0,0,0,1,8,68,25,7,10,0.7,0,1,0.0,1827,https://www.pro-football-reference.com/boxscores/201201010rai.htm
+2011,2012-01-01,LZoDld8s63xUs,Las Vegas,Raiders,LV,24,103,0,28,43,,417,2,1,102.568,417,520,0,0,0,0,1,8,64,28,8,13,0.615,0,0,0.0,1773,https://www.pro-football-reference.com/boxscores/201201010rai.htm
+2011,2012-01-01,zyhFXj1nywrm1,Baltimore,Ravens,BAL,32,221,2,15,19,,130,1,0,112.719,126,347,1,4,0,0,0,7,59,15,5,13,0.385,0,0,0.0,1766,https://www.pro-football-reference.com/boxscores/201201010cin.htm
+2011,2012-01-01,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,24,105,1,22,44,,232,0,0,65.72,231,336,1,1,1,1,1,4,35,19,8,17,0.471,0,0,0.0,1834,https://www.pro-football-reference.com/boxscores/201201010cin.htm
+2011,2012-01-01,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,36,161,1,23,40,,221,0,0,73.021,199,360,2,22,2,2,2,4,37,22,8,16,0.5,1,2,0.5,2351,https://www.pro-football-reference.com/boxscores/201201010cle.htm
+2011,2012-01-01,IR4gIYmh269EI,Cleveland,Browns,CLE,15,72,0,16,41,,177,0,1,42.429,168,240,2,9,2,0,1,5,40,14,4,14,0.286,0,0,0.0,1249,https://www.pro-football-reference.com/boxscores/201201010cle.htm
+2011,2012-01-01,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,30,106,1,15,29,,180,0,0,71.049,175,281,1,5,1,1,1,6,36,14,5,15,0.333,0,0,0.0,1622,https://www.pro-football-reference.com/boxscores/201201010den.htm
+2011,2012-01-01,6DclFuycdPaOB,Denver,Broncos,DEN,47,216,0,6,22,,60,0,1,20.644,50,266,2,10,1,1,2,6,49,16,5,18,0.278,0,1,0.0,1978,https://www.pro-football-reference.com/boxscores/201201010den.htm
+2011,2012-01-01,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,14,35,0,31,45,,274,2,3,71.898,259,294,2,15,3,1,4,2,20,18,6,12,0.5,0,1,0.0,1792,https://www.pro-football-reference.com/boxscores/201201010atl.htm
+2011,2012-01-01,mLspw4gJNTQGN,Atlanta,Falcons,ATL,38,251,3,13,21,,177,2,1,100.694,177,428,0,0,1,1,2,3,20,22,6,11,0.545,1,1,1.0,1808,https://www.pro-football-reference.com/boxscores/201201010atl.htm
+2011,2012-01-01,KdjU81i7YSFE7,Dallas,Cowboys,DAL,16,49,0,29,37,,289,2,1,105.968,251,300,6,38,2,1,2,7,43,19,4,12,0.333,0,1,0.0,1527,https://www.pro-football-reference.com/boxscores/201201010nyg.htm
+2011,2012-01-01,n8CuHV9wbYCqF,New York,Giants,NYG,31,106,1,24,33,,346,3,0,136.679,331,437,2,15,2,0,0,3,28,20,7,15,0.467,0,1,0.0,2073,https://www.pro-football-reference.com/boxscores/201201010nyg.htm
+2011,2012-01-07,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,19,76,1,27,42,,257,0,3,51.389,224,300,4,33,1,0,3,3,25,21,6,13,0.462,0,2,0.0,1817,https://www.pro-football-reference.com/boxscores/201201070htx.htm
+2011,2012-01-07,UI0Ax4HUEXFh6,Houston,Texans,HOU,35,188,2,11,20,,159,1,0,97.708,152,340,2,7,0,0,0,5,87,19,6,12,0.5,0,0,0.0,1783,https://www.pro-football-reference.com/boxscores/201201070htx.htm
+2011,2012-01-07,FCuH1wdksA2DQ,Detroit,Lions,DET,10,32,1,28,43,,380,3,2,97.045,380,412,0,0,0,0,2,7,64,22,7,10,0.7,0,0,0.0,1344,https://www.pro-football-reference.com/boxscores/201201070nor.htm
+2011,2012-01-07,CI5mhfNa0Zqd2,New Orleans,Saints,NO,36,167,3,33,43,,466,3,0,134.448,459,626,2,7,2,2,2,3,18,34,7,11,0.636,3,4,0.75,2256,https://www.pro-football-reference.com/boxscores/201201070nor.htm
+2011,2012-01-08,mLspw4gJNTQGN,Atlanta,Falcons,ATL,21,64,0,24,41,,199,0,0,71.087,183,247,2,16,0,0,0,3,15,14,4,14,0.286,0,3,0.0,1526,https://www.pro-football-reference.com/boxscores/201201080nyg.htm
+2011,2012-01-08,n8CuHV9wbYCqF,New York,Giants,NYG,31,172,0,23,32,,277,3,0,129.297,270,442,1,7,0,0,0,7,73,19,8,15,0.533,1,1,1.0,2074,https://www.pro-football-reference.com/boxscores/201201080nyg.htm
+2011,2012-01-08,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,23,156,1,22,40,,289,1,1,75.938,244,400,5,45,2,0,1,6,61,21,7,16,0.438,0,1,0.0,1866,https://www.pro-football-reference.com/boxscores/201201080den.htm
+2011,2012-01-08,6DclFuycdPaOB,Denver,Broncos,DEN,34,131,1,10,21,,316,2,0,125.595,316,447,0,0,2,1,1,5,30,18,3,10,0.3,0,0,0.0,1745,https://www.pro-football-reference.com/boxscores/201201080den.htm
+2011,2012-01-14,CI5mhfNa0Zqd2,New Orleans,Saints,NO,14,37,0,40,63,,462,4,2,93.485,435,472,3,27,3,3,5,0,0,26,5,14,0.357,0,0,0.0,1880,https://www.pro-football-reference.com/boxscores/201201140sfo.htm
+2011,2012-01-14,IwSI92ZDKoazn,San Francisco,49ers,SF,22,143,1,24,42,,299,3,0,103.175,264,407,4,35,3,1,1,3,33,17,4,15,0.267,0,0,0.0,1720,https://www.pro-football-reference.com/boxscores/201201140sfo.htm
+2011,2012-01-14,6DclFuycdPaOB,Denver,Broncos,DEN,40,144,1,9,26,,136,0,0,52.724,108,252,5,28,2,1,1,5,55,15,7,18,0.389,2,3,0.667,2003,https://www.pro-football-reference.com/boxscores/201201140nwe.htm
+2011,2012-01-14,VkxV91RtzHn65,New England,Patriots,NE,30,146,0,26,34,,363,6,1,137.623,363,509,0,0,1,1,2,2,20,31,3,6,0.5,0,0,0.0,1597,https://www.pro-football-reference.com/boxscores/201201140nwe.htm
+2011,2012-01-15,UI0Ax4HUEXFh6,Houston,Texans,HOU,28,131,1,17,35,,184,0,3,28.75,184,315,0,0,3,1,4,3,20,16,5,15,0.333,0,1,0.0,1720,https://www.pro-football-reference.com/boxscores/201201150rav.htm
+2011,2012-01-15,zyhFXj1nywrm1,Baltimore,Ravens,BAL,31,87,0,14,27,,176,2,0,97.145,140,227,5,36,3,0,0,0,0,11,4,16,0.25,0,1,0.0,1880,https://www.pro-football-reference.com/boxscores/201201150rav.htm
+2011,2012-01-15,n8CuHV9wbYCqF,New York,Giants,NYG,27,95,1,21,33,,330,3,1,114.457,325,420,1,5,0,0,1,3,30,19,8,16,0.5,0,0,0.0,1775,https://www.pro-football-reference.com/boxscores/201201150gnb.htm
+2011,2012-01-15,D5QY6bOxfn8ZL,Green Bay,Packers,GB,23,147,0,26,46,,264,2,1,78.533,241,388,4,23,3,3,4,3,20,25,6,12,0.5,0,1,0.0,1825,https://www.pro-football-reference.com/boxscores/201201150gnb.htm
+2011,2012-01-22,zyhFXj1nywrm1,Baltimore,Ravens,BAL,31,116,0,22,36,,306,2,1,95.37,282,398,3,24,1,0,1,6,33,19,9,17,0.529,0,1,0.0,2013,https://www.pro-football-reference.com/boxscores/201201220nwe.htm
+2011,2012-01-22,VkxV91RtzHn65,New England,Patriots,NE,31,96,2,22,36,,239,0,2,57.523,234,330,1,5,2,1,3,1,5,25,5,11,0.455,1,1,1.0,1587,https://www.pro-football-reference.com/boxscores/201201220nwe.htm
+2011,2012-01-22,n8CuHV9wbYCqF,New York,Giants,NYG,26,85,0,32,58,,316,2,0,82.256,267,352,6,49,1,0,0,9,60,20,7,21,0.333,0,1,0.0,2376,https://www.pro-football-reference.com/boxscores/201201220sfo.htm
+2011,2012-01-22,IwSI92ZDKoazn,San Francisco,49ers,SF,28,150,0,12,26,,196,2,0,97.596,178,328,3,18,4,2,2,6,50,15,1,13,0.077,0,0,0.0,1698,https://www.pro-football-reference.com/boxscores/201201220sfo.htm
+2011,2012-02-05,n8CuHV9wbYCqF,New York,Giants,NYG,28,114,1,30,40,,296,1,0,103.75,282,396,3,14,2,0,0,4,24,26,5,11,0.455,0,0,0.0,2225,https://www.pro-football-reference.com/boxscores/201202050nwe.htm
+2011,2012-02-05,VkxV91RtzHn65,New England,Patriots,NE,19,83,0,27,41,,276,2,1,91.108,266,349,2,10,0,0,1,5,28,21,6,12,0.5,1,1,1.0,1375,https://www.pro-football-reference.com/boxscores/201202050nwe.htm
