@@ -126,7 +126,3 @@ Ratio of Fourth Down Conversions to Attempts
 **`possesion_time`**
 
 Total Offensive Possession Time in Seconds 
-
-**`boxscore_stats_link`**
-
-The Gamelog's Primary Key
