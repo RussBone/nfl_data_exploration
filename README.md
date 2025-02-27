@@ -123,6 +123,6 @@ Offensive Fourth Down Attempts
 
 Ratio of Fourth Down Conversions to Attempts
 
-**`possesion_time`**
+**`time_of_possession`**
 
 Total Offensive Possession Time in Seconds 
