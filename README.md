@@ -26,10 +26,6 @@ The NFL has undergone many structural changes this century. It has increased the
 
 The Season's Year
 
-**`event_date`**
-
-The Date of the Game
-
 **`name`**
 
 nflSlowPy Name 
@@ -77,10 +73,6 @@ Total Offensive Passing Interceptions
 **`passer_rating`**
 
 Team's Total Passer Rating
-
-**`net_pass_yds`**
-
-Total Offensive Passing Net Yards
 
 **`total_yds`**
 
