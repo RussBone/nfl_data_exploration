@@ -13,7 +13,14 @@ The NFL has undergone many structural changes this century. It has increased the
     - Some games happen the year after the season year, but are still considered to be in the earlier season.
         - Most of these games are postseason games
 
-## Attributes:
+## Data cleaning:
+- Removed ['nano', 'boxscore_stats_link', 'market', 'name'] columns from dataset
+- Calculated pass_cmp_pct from pass_att/pass_cmp as data was missing from 2000 season
+- Replaced 'LA' in alias with 'LAR' to help with data reading
+- Changed event_date to dt value and added event_day column
+- Calculated total touchdowns as total_tds column from pass_td + rush_td
+
+## Column titles and Descriptions:
 
 **`season`**
 
@@ -137,4 +144,20 @@ Ratio of Fourth Down Conversions to Attempts
 
 **`time_of_possession`**
 
-Total Offensive Possession Time in Seconds 
+Total Offensive Possession Time in Seconds
+
+## Key Insights:
+- 2017 season was an outlier, mostly due to poor Quarterback play
+- The NFL has generally gotten better over time offensively, with less mistakes and more average yards a game
+- Passing has had a higher impact than rushing this century
+    - While passing yards have generally increased every season, rushing yards have been decreasing until recently
+- Quarterback play is crucial to offensive success
+
+## Further Areas to Explore:
+- How kicking/punting stats have changed overtime
+- More defensive stats analysis
+- What caused the drop in efficiency after moving to a 17 game season
+    - Higher risk of injury?
+    - More fatigue?
+    - More tape every year for defenses to analyze?
+- Were the "Dynasty" teams of the Patriots and Chiefs significantly more successful overall or is it mostly just postseason success?
