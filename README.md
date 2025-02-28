@@ -1,5 +1,17 @@
 # Analysis of NFL Statistics-2000 to 2023
-Data is from the 2000 NFL season to 2023. It does not include preseason games, but does include postseason games.
+The NFL has undergone many structural changes this century. It has increased the number of teams with the addition of the Houston Texans in 2002, increased the number of games fom 16-17 in 2021, and has undergone rule change after rule change. Not only are teams constantly changing with player and coach turnover, the landscape of the NFL season is constantly evolving. This leads to the purpose of this project: to determine how the NFL has responded and if there are any general trends in response to the ever evolving game.
+
+- Main Questions
+    - How has the NFL changed over time?
+    - Are there any interesting outlier seasons?
+
+## Data Source:
+- Data collected from each NFL game's boxscore data
+- Data is from the 2000 NFL season to the 2023 NFL season
+    - Does not include preseason games
+    - Includes postseason games
+    - Some games happen the year after the season year, but are still considered to be in the earlier season.
+        - Most of these games are postseason games
 
 ## Attributes:
 
