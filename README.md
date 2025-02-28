@@ -6,7 +6,7 @@ The NFL has undergone many structural changes this century. It has increased the
     - Are there any interesting outlier seasons?
 
 ## Data Source:
-- Data collected from each NFL game's boxscore data
+- Data collected from each NFL game's boxscore data from ESPN
 - Data is from the 2000 NFL season to the 2023 NFL season
     - Does not include preseason games
     - Includes postseason games
