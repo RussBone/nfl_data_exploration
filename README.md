@@ -146,7 +146,77 @@ Ratio of Fourth Down Conversions to Attempts
 
 Total Offensive Possession Time in Seconds
 
-## Key Insights:
+## Correlations:
+![Correlation](images/correlations.png)
+
+- Most of the observed correlations make sense in the context of the game
+    - More rush attempts, more first downs, more third downs = longer time of possession
+    - More turnovers = lower passer rating
+    - More sacks/sack yards lost = less TDs
+    - More rush attempts = less pass attempts and vice versa
+    - Passer rating most possitively impacted by pass completions and TDs, less so yardage
+
+## Initial Insights:
+![Yardage Stats](images/yards.png)
+- General upward trend in offensive production over time
+    - Mostly through the air, pass yards increased overall from ~220/game to a peak around ~260/game
+    - Rushing has been more turbulent, yet less of a change overall from ~112/game to a peak around ~120/game
+- Decline in total yardage after both expansions of the NFL season
+    - 32nd team added in 2002, the Houston Texans
+    - Increased season length from 16 to 17 games in 2021
+- Dip in rushing production from 2013-2017
+- Large drop in overall production in 2017
+    - Drop of nearly 20 pass yards/game
+    - Rush yards had an increase, however it was less than one yard/game
+- 2020 overall highest average and total yardage gained
+    - Covid year, no crowds to create confusion through noise
+
+![Touchdown stats](images/touchdowns.png)
+- Touchdowns have generally increased over the 23 seasons
+    - Both rushing and passing have increased slightly
+    - Only an average of ~.25 more in total a game
+    - Not as dramatic an increase as passing yardage
+
+## New Questions
+- Why was there a drop after both expansions?
+    - Potential answers:
+        - Better defensive production
+        - Increased length of season leading to a more tired team overall
+        - Greater injury risk
+- What caused the dip in 2017?
+    - Fluke or was the NFL's average defense especially dominant that year?
+
+## Sack Stats:
+![Sack stats](images/sacks.png)
+
+2017 Season decrease in overall yardage does not appear to be affected by sacks.
+- While sack yards lost has generally increased over time, actual sack numbers tend to fluctuate between 2-2.5 sacks a game
+- What about third/fourth down efficiency?
+
+## Down Stats:
+![Down stats](images/downs.png)
+
+Third down has remained relatively unchanged. Fourth down attempts and success has steadily increased
+- Does not appear to have any significant impact in 2017 however
+
+## Quarterback Efficiency:
+![QB Efficiency](images/qb_efficiency.png)
+
+Overall quarterback efficiency has steadily increased over time
+- Generally, QB efficiency has steadily increased, up to a peak in 2020
+    - 2020 peak most likely due to less outside factors due to COVID
+        - No live crowds
+        - Less congested travel
+    - What happened in 2017?
+        - A significant drop in passer rating and completions
+        - A slight rise in interceptions a game
+
+## Bonus Chart:
+![Bonus](images/bonus.png)
+
+This chart is from a separate dataset, but highlights the fluke of the 2017 season.
+
+## Conclusions:
 - 2017 season was an outlier, mostly due to poor Quarterback play
 - The NFL has generally gotten better over time offensively, with less mistakes and more average yards a game
 - Passing has had a higher impact than rushing this century
